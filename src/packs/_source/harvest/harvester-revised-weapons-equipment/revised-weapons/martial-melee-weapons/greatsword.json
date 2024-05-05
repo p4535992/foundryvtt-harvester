@@ -1,0 +1,189 @@
+{
+  "_id": "uDLVO9n71nI43KCt",
+  "name": "Greatsword",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+  "effects": [],
+  "folder": "WVXAtCmdazehAsbB",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "midi-qol": {
+      "criticalThreshold": "20",
+      "onUseMacroName": "",
+      "effectActivation": false,
+      "fumbleThreshold": null
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_oaeydynx6b",
+      "path": "Revised Weapons#/CF_SEP/Martial Melee Weapons",
+      "color": "#ff6f00"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "autoFailFriendly": false,
+      "rollOther": false,
+      "critOther": false,
+      "offHandWeapon": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A mighty two-handed blade is over four feet long an almost five inches wide. This weapon requires extensive martial training but those proficient in its use are formidable warriors.</em></p>\n<p>Deals slashing damage equal to 2d6 + your Strength modifier.</p>\n<p><strong>Heavy. </strong>Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.</p>\n<p><strong>Two-Handed. </strong>This weapon requires two hands when you attack with it.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "2d6 + @mod",
+          "slashing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "hvy",
+      "two"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "martialM",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794438490,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!uDLVO9n71nI43KCt"
+}

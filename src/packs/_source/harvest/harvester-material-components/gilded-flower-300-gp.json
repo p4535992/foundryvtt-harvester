@@ -1,0 +1,48 @@
+{
+  "name": "Gilded Flower (300 gp)",
+  "type": "loot",
+  "img": "icons/commodities/flowers/lily-white.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 300,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687255584514,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "e0ZKIpZV9YXrJAvo",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!e0ZKIpZV9YXrJAvo"
+}

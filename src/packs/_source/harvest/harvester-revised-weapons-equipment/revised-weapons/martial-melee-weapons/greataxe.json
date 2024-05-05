@@ -1,0 +1,210 @@
+{
+  "_id": "bxPt3y6kAfluxfxq",
+  "name": "Greataxe",
+  "type": "weapon",
+  "img": "icons/weapons/axes/axe-double.webp",
+  "effects": [],
+  "folder": "WVXAtCmdazehAsbB",
+  "flags": {
+    "midi-qol": {
+      "onUseMacroName": "",
+      "criticalThreshold": "20",
+      "effectActivation": false
+    },
+    "favtab": {
+      "isFavorite": false
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "autoanimations": {
+      "killAnim": false,
+      "below": false,
+      "override": true,
+      "targetToken": {
+        "enable": false
+      },
+      "sourceToken": {
+        "enable": false
+      },
+      "allSounds": {
+        "item": {
+          "enableAudio": false
+        }
+      },
+      "autoOverride": {
+        "enable": false
+      },
+      "version": 1,
+      "animation": "2hs",
+      "animType": "melee",
+      "color": "white",
+      "meleeSwitch": {
+        "switchType": "off"
+      },
+      "explosions": {
+        "enable": false
+      },
+      "options": {
+        "meleeType": "generic",
+        "variant": "01",
+        "repeat": 1,
+        "delay": 250,
+        "scale": 1,
+        "enableCustom": false,
+        "customPath": "",
+        "ammo": false
+      },
+      "animLevel": false
+    },
+    "cf": {
+      "id": "temp_oaeydynx6b",
+      "path": "Revised Weapons#/CF_SEP/Martial Melee Weapons",
+      "color": "#ff6f00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>This enormous axe features two large crescent blades mounted on the side of a tall shaft. Designed to be wielded with two hands and cleave foes in twain.</em></p>\n<p>Deals slashing damage equal to 1d12 + your Strength modifier.</p>\n<p><strong>Heavy. </strong>Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.</p>\n<p><strong>Two-Handed. </strong>This weapon requires two hands when you attack with it.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d12 + @mod",
+          "slashing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "hvy",
+      "two"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "martialM",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794435308,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!bxPt3y6kAfluxfxq"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#ffae00",
+  "name": "Simple Melee Weapons",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "vHRQYFNEe1vgoiAU",
+  "_id": "6MTaV2GwfqI4ZSbi",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944147050,
+    "modifiedTime": 1714944147050,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!6MTaV2GwfqI4ZSbi"
+}

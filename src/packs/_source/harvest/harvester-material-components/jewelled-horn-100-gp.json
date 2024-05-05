@@ -1,0 +1,48 @@
+{
+  "name": "Jewelled Horn (100 gp)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-twisted-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687252622131,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fj92b9GMcQl7HdmM",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!fj92b9GMcQl7HdmM"
+}

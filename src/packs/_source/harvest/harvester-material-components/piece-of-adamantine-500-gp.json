@@ -1,0 +1,48 @@
+{
+  "name": "Piece of Adamantine (500 gp)",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-black.webp",
+  "system": {
+    "description": {
+      "value": "<p>A small piece of adamantine.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687282218856,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ycAbbCgXtfhdjf80",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!ycAbbCgXtfhdjf80"
+}

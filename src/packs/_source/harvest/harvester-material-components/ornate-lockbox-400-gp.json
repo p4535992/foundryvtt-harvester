@@ -1,0 +1,48 @@
+{
+  "name": "Ornate Lockbox (400 gp)",
+  "type": "loot",
+  "img": "icons/containers/chest/chest-reinforced-stone.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ornate stone &amp; metal lockbox.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687263455157,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "D6B5EnVeL5Jk3gNm",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!D6B5EnVeL5Jk3gNm"
+}

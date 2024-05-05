@@ -1,0 +1,150 @@
+{
+  "name": "Scale Mail",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-banded-steel.webp",
+  "effects": [],
+  "folder": "NC8aCOvlGX3cD1T5",
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_8nab9u1ydrd",
+      "path": "Revised Armour#/CF_SEP/Medium Armour",
+      "color": "#29bd00"
+    },
+    "dnd5e": {
+      "migratedProperties": [
+        "stealthDisadvantage"
+      ]
+    }
+  },
+  "_id": "kZqqB0jXAoWeZrDb",
+  "system": {
+    "description": {
+      "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 144"
+    },
+    "quantity": 1,
+    "weight": 45,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 14,
+      "dex": 2,
+      "magicalBonus": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "medium",
+      "baseItem": "scalemail"
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794437772,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!kZqqB0jXAoWeZrDb"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "harvester | Revised Weapons & Equipment",
+  "type": "Item",
+  "color": "#ff0000",
+  "folder": null,
+  "_id": "WRrGGUDqmc8iKSH4",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944065915,
+    "modifiedTime": 1714944203418,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!WRrGGUDqmc8iKSH4"
+}

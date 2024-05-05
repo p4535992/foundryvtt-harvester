@@ -1,0 +1,167 @@
+{
+  "_id": "NUmsFEbJwfLQlBto",
+  "name": "Firearm Bullet",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/shot-round-brown.webp",
+  "effects": [],
+  "folder": "lGr2FQNZk9K3ttjH",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false,
+      "fumbleThreshold": null
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_7p3g1gj4ome",
+      "path": "Revised Equipment",
+      "color": "#ff6f00"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>Perfectly crafted lead spheres, designed to be fired from blackpowder weapons. Due to the the precision crafting needed to prevent jams, bullets are more costly than other ammunition.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 150"
+    },
+    "quantity": 1,
+    "weight": 0.2,
+    "price": {
+      "value": 0.3,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 30,
+      "long": 90,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false,
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "rwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794434075,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!NUmsFEbJwfLQlBto"
+}

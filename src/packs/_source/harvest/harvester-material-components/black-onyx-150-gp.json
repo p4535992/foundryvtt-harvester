@@ -1,0 +1,48 @@
+{
+  "name": "Black Onyx (150 gp)",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-round-black.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687272507044,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OT1zCaz6JQ5c2HIK",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!OT1zCaz6JQ5c2HIK"
+}

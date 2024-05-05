@@ -1,0 +1,188 @@
+{
+  "_id": "hVd6q30j10FY7YoO",
+  "name": "Musket",
+  "type": "weapon",
+  "img": "icons/weapons/guns/gun-wood.webp",
+  "effects": [],
+  "folder": "QcxzsB1h99ZOdkSC",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "midi-qol": {
+      "criticalThreshold": "20",
+      "onUseMacroName": "",
+      "effectActivation": false,
+      "fumbleThreshold": null
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_ai3vhqfcoxb",
+      "path": "Revised Weapons#/CF_SEP/Martial Ranged Weaponss",
+      "color": "#ffae00"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A marvel of the latest in blackpowder technology, the Musket is capable of dealing serious damage from a great distance. </em></p>\n<p>Deals piercing damage equal to 1d12 + your Dexterity modifier.</p>\n<p><strong>Ammunition. </strong>You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a container is part of the attack. The ammunition of a firearm is destroyed upon use.</p>\n<p><strong>Loading. </strong>Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.</p>\n<p><strong>Two-Handed. </strong>This weapon requires two hands when you attack with it.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 40,
+      "long": 120,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "rwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d12 + @mod",
+          "piercing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "amm",
+      "two",
+      "fir",
+      "lod"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "martialR",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794437264,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!hVd6q30j10FY7YoO"
+}

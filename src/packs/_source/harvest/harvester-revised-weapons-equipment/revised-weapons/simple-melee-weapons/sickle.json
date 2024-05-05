@@ -1,0 +1,166 @@
+{
+  "_id": "52OhuB2uuYMh5muZ",
+  "name": "Sickle",
+  "type": "weapon",
+  "img": "icons/weapons/sickles/sickle-curved.webp",
+  "effects": [],
+  "folder": "6MTaV2GwfqI4ZSbi",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "midi-qol": {
+      "criticalThreshold": "20",
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_ni5hfh1elu",
+      "path": "Revised Weapons#/CF_SEP/Simple Melee Weapons",
+      "color": "#29bd00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A crescent hooked blade mounted atop a short haft, light enough to be wielded in one hand for treshing crops or foes.</em></p>\n<p>Deals slashing damage equal to 1d6 + your Strength modifier.</p>\n<p><strong>Light. </strong>A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d6 + @mod",
+          "slashing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "lgt"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "simpleM",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794430031,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!52OhuB2uuYMh5muZ"
+}

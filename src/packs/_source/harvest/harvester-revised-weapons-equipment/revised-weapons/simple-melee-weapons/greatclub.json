@@ -1,0 +1,167 @@
+{
+  "_id": "pAjy9EqNX2G5hElD",
+  "name": "Greatclub",
+  "type": "weapon",
+  "img": "icons/weapons/clubs/club-heavy-barbed-grey.webp",
+  "effects": [],
+  "folder": "6MTaV2GwfqI4ZSbi",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "midi-qol": {
+      "criticalThreshold": "20",
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_ni5hfh1elu",
+      "path": "Revised Weapons#/CF_SEP/Simple Melee Weapons",
+      "color": "#29bd00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A larger variant of the simple club, a hefty wooden shaft with an enormous knot of wood upon the end deals crippling bludgeoning damage to unfortunate foes.</em></p>\n<p>Deals bludgeoning damage equal to 1d10 + your Strength modifier.</p>\n<p><strong>Heavy. </strong>Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.</p>\n<p><span style=\"color:#191813;font-size:13px\"><strong style=\"color:#000000;font-size:14px\">Two-Handed. </strong><span style=\"color:#000000;font-size:14px\">This weapon requires two hands when you attack with it.</span></span></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 0.2,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d10 + @mod",
+          "bludgeoning"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "two",
+      "hvy"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "simpleM",
+      "baseItem": "club"
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794438270,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!pAjy9EqNX2G5hElD"
+}

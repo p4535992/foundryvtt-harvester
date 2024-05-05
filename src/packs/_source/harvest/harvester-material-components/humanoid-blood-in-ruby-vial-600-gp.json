@@ -1,0 +1,48 @@
+{
+  "name": "Humanoid Blood in Ruby Vial (600 gp)",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Humanoid blood inside ruby vial.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 600,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687274149884,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fxU3FQlTGZUUkO1V",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!fxU3FQlTGZUUkO1V"
+}

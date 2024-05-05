@@ -1,0 +1,19 @@
+{
+  "color": "#29bd00",
+  "name": "Tool",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "VTsAPJbed60V8p1O",
+  "_id": "1A9cA5Zf7217r3t2",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944147050,
+    "modifiedTime": 1714944147050,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!1A9cA5Zf7217r3t2"
+}

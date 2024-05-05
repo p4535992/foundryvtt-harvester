@@ -1,0 +1,48 @@
+{
+  "name": "Vial of Blood (24 hrs)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>A vial of blood from a humanoid killed within the past 24 hours.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687263093079,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IzyKIuaTgRdqb6Zq",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!IzyKIuaTgRdqb6Zq"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "harvester | Material Components",
+  "type": "Item",
+  "color": "#ff0000",
+  "folder": null,
+  "_id": "3hlXLrjn1kotsNhF",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944077114,
+    "modifiedTime": 1714944200110,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!3hlXLrjn1kotsNhF"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Gilded Acorn (200 gp)",
+  "type": "loot",
+  "img": "icons/consumables/nuts/acorn-glowing-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>A feather, tuft of fur, and fish tail inside a gilded acorn.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687252059679,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "W6RVDBJ5a96uPMYo",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!W6RVDBJ5a96uPMYo"
+}

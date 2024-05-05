@@ -1,0 +1,153 @@
+{
+  "_id": "Xr97U1SU84svxN4Q",
+  "name": "Throwing Bomb",
+  "type": "consumable",
+  "img": "icons/weapons/thrown/bomb-fuse-black-grey.webp",
+  "effects": [],
+  "folder": "lGr2FQNZk9K3ttjH",
+  "flags": {
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "cf": {
+      "id": "temp_7p3g1gj4ome",
+      "path": "Revised Equipment",
+      "color": "#ff6f00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A small, round, blackpowder explosive device with a short fuse. Make sure you're not holding onto it when it goes off!</em></p>\n<p>As an action you can light the fuse and throw the bomb at a point you can see within 30 ft. All creatures within 5 ft of the explosion must make a DC 15 Dexterity saving throw or take 3d6 fire damage.</p>\n<p>Two free hands are required to ignite the fuse.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "RWE"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 8,
+      "width": null,
+      "units": "ft",
+      "type": "radius",
+      "prompt": true
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false,
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "save",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "3d6",
+          "fire"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": 12,
+      "scaling": "flat"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794435122,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!Xr97U1SU84svxN4Q"
+}

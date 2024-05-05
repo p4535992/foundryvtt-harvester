@@ -1,0 +1,54 @@
+{
+  "_id": "NgtQBaJzy7ZCF6Vb",
+  "name": "Tankard",
+  "type": "loot",
+  "img": "icons/containers/kitchenware/stein-empty.webp",
+  "effects": [],
+  "folder": "bPbR7HhJNWll2rtr",
+  "flags": {
+    "cf": {
+      "id": "temp_tzajjps454h",
+      "path": "Revised Equipment",
+      "color": "#ffae00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>It is a form of drinkware consisting of a large, roughly cynlindrical, drinking cup with a single handle. A tankard can hold 1 pint of liquid.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 153"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0.02,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794434175,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!NgtQBaJzy7ZCF6Vb"
+}

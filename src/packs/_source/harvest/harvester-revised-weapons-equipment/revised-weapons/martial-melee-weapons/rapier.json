@@ -1,0 +1,210 @@
+{
+  "_id": "jkAhApioYsQdTuAs",
+  "name": "Rapier",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-bronze.webp",
+  "effects": [],
+  "folder": "WVXAtCmdazehAsbB",
+  "flags": {
+    "midi-qol": {
+      "criticalThreshold": "20",
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "favtab": {
+      "isFavorite": false
+    },
+    "siftoolkit": {
+      "SIFData": {
+        "ignoreDuration": false,
+        "texture": "",
+        "useTexture": false,
+        "alpha": 50,
+        "coneOrigin": 1,
+        "loopAnimations": true,
+        "playTemplateAudio": false,
+        "playDamageAudio": false,
+        "playSaveAudio": false,
+        "clip": "",
+        "volume": 100
+      }
+    },
+    "autoanimations": {
+      "killAnim": false,
+      "below": false,
+      "override": true,
+      "targetToken": {
+        "enable": false
+      },
+      "sourceToken": {
+        "enable": false
+      },
+      "allSounds": {
+        "item": {
+          "enableAudio": false
+        }
+      },
+      "autoOverride": {
+        "enable": false
+      },
+      "version": 1,
+      "animation": "1hp",
+      "animType": "melee",
+      "color": "white",
+      "meleeSwitch": {
+        "switchType": "on"
+      },
+      "explosions": {
+        "enable": false
+      },
+      "options": {
+        "meleeType": "generic",
+        "variant": "01",
+        "repeat": 1,
+        "delay": 250,
+        "scale": 1,
+        "enableCustom": false,
+        "customPath": "",
+        "ammo": false
+      },
+      "animLevel": false
+    },
+    "cf": {
+      "id": "temp_oaeydynx6b",
+      "path": "Revised Weapons#/CF_SEP/Martial Melee Weapons",
+      "color": "#ff6f00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A thin tensile metal blade, light in weight but long in reach designed for quick darting attacks to target weak points in enemy defenses with lightning swiftness.</em></p>\n<p>Deals piercing damage equal to 1d6(1d8) + your Strength or Dexterity modifier.</p>\n<p><strong>Special.</strong> If you wield a rapier in one hand and don't have a weapon or shield in your other hand, the rapier deals 1d8 damage instead of 1d6. </p>\n<p><strong>Finesse. </strong>When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 149"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "chatFlavor": "Versatile = Special Property",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d6 + @mod",
+          "piercing"
+        ]
+      ],
+      "versatile": "1d8 + @mod"
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "properties": [
+      "fin",
+      "spc"
+    ],
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "martialM",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "magicalBonus": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794437540,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!jkAhApioYsQdTuAs"
+}

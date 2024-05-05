@@ -1,0 +1,136 @@
+{
+  "name": "Padded Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+  "effects": [],
+  "folder": "WsMemmghLx0L7wqg",
+  "flags": {
+    "cf": {
+      "id": "temp_yp2elvllhsq",
+      "path": "Revised Armour#/CF_SEP/Light Armour",
+      "color": "#ffae00"
+    },
+    "dnd5e": {
+      "migratedProperties": [
+        "stealthDisadvantage"
+      ]
+    }
+  },
+  "_id": "iKkHzp8S5utpgDAc",
+  "system": {
+    "description": {
+      "value": "<p>Padded armor consists of quilted layers of cloth and batting. Padded armor offers a comparable level of protection as stiffened leather but is somewhat less encumbering to the wearer.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 144"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 11,
+      "dex": null,
+      "magicalBonus": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "light",
+      "baseItem": "padded"
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794437492,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!iKkHzp8S5utpgDAc"
+}

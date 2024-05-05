@@ -1,0 +1,48 @@
+{
+  "name": "Platinum-inlaid Vial (400 gp)",
+  "type": "loot",
+  "img": "icons/consumables/potions/flask-ornate-skull-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>A pickled tentacle and an eyeball in a platinum inlaid vial.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1687263272911,
+    "modifiedTime": 1714944137121,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rfdFklM0rsgpjXTH",
+  "folder": "3hlXLrjn1kotsNhF",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!items!rfdFklM0rsgpjXTH"
+}

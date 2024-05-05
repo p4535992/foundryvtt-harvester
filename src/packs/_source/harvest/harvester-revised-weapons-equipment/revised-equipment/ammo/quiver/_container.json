@@ -1,0 +1,80 @@
+{
+  "_id": "tsoEq37h6NU9ehlC",
+  "name": "Quiver",
+  "type": "container",
+  "img": "icons/containers/ammunition/arrows-quiver-simple-brown.webp",
+  "effects": [],
+  "folder": "lGr2FQNZk9K3ttjH",
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_7p3g1gj4ome",
+      "path": "Revised Equipment",
+      "color": "#ff6f00"
+    },
+    "dnd5e": {
+      "persistSourceMigration": true
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>A quiver can hold up to 20 arrows or bolts.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 153"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "capacity": {
+      "type": "weight",
+      "value": 1
+    },
+    "currency": {
+      "cp": 0,
+      "sp": 0,
+      "ep": 0,
+      "gp": 0,
+      "pp": 0
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794438484,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!tsoEq37h6NU9ehlC"
+}

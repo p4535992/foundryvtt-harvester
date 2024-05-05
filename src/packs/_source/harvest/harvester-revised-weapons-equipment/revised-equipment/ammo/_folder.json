@@ -1,0 +1,19 @@
+{
+  "color": "#ff6f00",
+  "name": "Ammo",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "VTsAPJbed60V8p1O",
+  "_id": "lGr2FQNZk9K3ttjH",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944147050,
+    "modifiedTime": 1714944147050,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!lGr2FQNZk9K3ttjH"
+}

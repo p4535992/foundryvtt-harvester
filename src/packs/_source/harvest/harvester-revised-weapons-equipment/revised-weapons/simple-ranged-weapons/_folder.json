@@ -1,0 +1,19 @@
+{
+  "color": "#009dd1",
+  "name": "Simple Ranged Weapons",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "vHRQYFNEe1vgoiAU",
+  "_id": "gPiteR8YrQlRvV0u",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714944147050,
+    "modifiedTime": 1714944147050,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!gPiteR8YrQlRvV0u"
+}

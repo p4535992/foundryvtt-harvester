@@ -1,0 +1,19 @@
+{
+  "color": "#ad0000",
+  "name": "Revised Equipment",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "WRrGGUDqmc8iKSH4",
+  "_id": "VTsAPJbed60V8p1O",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1697279172304,
+    "modifiedTime": 1714944147050,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!VTsAPJbed60V8p1O"
+}

@@ -1,0 +1,156 @@
+{
+  "_id": "a6Kw2M1HkADjIGC8",
+  "name": "Heater Shield",
+  "type": "equipment",
+  "img": "icons/equipment/shield/heater-wooden-brown-axe.webp",
+  "effects": [],
+  "folder": "VEJNmldMDHudVFgu",
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_qqobixo61pi",
+      "path": "Revised Armour#/CF_SEP/Shields",
+      "color": "#009dd1"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false,
+      "fumbleThreshold": null
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A shield is made from wood or metal and is carried in one hand.</em></p>\n<p>Required strength = 13.</p>\n<p>Wielding a heater shield increases your Armor Class by 2.</p>\n<p><strong>Active Defender. </strong>If a melee attack hits you and exactly matches your AC, you can use your reaction to parry the attack, causing it to miss.</p>\n<p>A heater shield can be equipped or unequipped using an action on your turn.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "RWE"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "reaction",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 2,
+      "dex": null,
+      "magicalBonus": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "shield",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794435241,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!a6Kw2M1HkADjIGC8"
+}

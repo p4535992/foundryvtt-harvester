@@ -1,0 +1,54 @@
+{
+  "_id": "SiUKrG5ylDwAhBem",
+  "name": "Parchment",
+  "type": "loot",
+  "img": "icons/sundries/documents/paper-plain-white.webp",
+  "effects": [],
+  "folder": "bPbR7HhJNWll2rtr",
+  "flags": {
+    "cf": {
+      "id": "temp_tzajjps454h",
+      "path": "Revised Equipment",
+      "color": "#ffae00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>A single sheet of heavier parchment paper.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 150"
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 0.1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794435014,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!SiUKrG5ylDwAhBem"
+}

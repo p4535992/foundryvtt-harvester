@@ -1,0 +1,57 @@
+{
+  "_id": "xecy6QF1S74FWrKa",
+  "name": "Crowbar",
+  "type": "loot",
+  "img": "modules/harvester/assets/icons/Crowbar.webp",
+  "effects": [],
+  "folder": "bPbR7HhJNWll2rtr",
+  "flags": {
+    "favtab": {
+      "isFavorite": true
+    },
+    "cf": {
+      "id": "temp_tzajjps454h",
+      "path": "Revised Equipment",
+      "color": "#ffae00"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB pg. 151"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "properties": [],
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794438518,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!xecy6QF1S74FWrKa"
+}

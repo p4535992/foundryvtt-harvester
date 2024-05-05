@@ -1,0 +1,269 @@
+{
+  "_id": "hrGK6q5jJukrj6RD",
+  "name": "Tower Shield",
+  "type": "equipment",
+  "img": "icons/equipment/shield/wardoor-wooden-boss-brown.webp",
+  "effects": [
+    {
+      "_id": "tSi8XmoUv8L7Hvez",
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 2,
+          "value": "+1",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/shield.svg",
+      "transfer": false,
+      "flags": {
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "macroRepeat": "none",
+          "specialDuration": [
+            "turnStart"
+          ],
+          "transfer": false
+        },
+        "dnd5e-helpers": {
+          "rest-effect": "Ignore"
+        }
+      },
+      "tint": null,
+      "origin": null,
+      "name": "Raise the Tower",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!hrGK6q5jJukrj6RD.tSi8XmoUv8L7Hvez"
+    },
+    {
+      "_id": "rDzHrVlImjK3xmrJ",
+      "changes": [
+        {
+          "key": "flags.midi-qol.disadvantage.skill.ste",
+          "mode": 0,
+          "value": "1",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/equipment/shield/wardoor-wooden-boss-brown.webp",
+      "transfer": true,
+      "flags": {
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "dnd5e-helpers": {
+          "rest-effect": "Ignore"
+        }
+      },
+      "tint": null,
+      "origin": null,
+      "name": "Disadvantage on Stealth",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!hrGK6q5jJukrj6RD.rDzHrVlImjK3xmrJ"
+    }
+  ],
+  "folder": "VEJNmldMDHudVFgu",
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_qqobixo61pi",
+      "path": "Revised Armour#/CF_SEP/Shields",
+      "color": "#009dd1"
+    },
+    "autoanimations": {
+      "version": 2,
+      "killAnim": true,
+      "options": {
+        "ammo": false
+      },
+      "override": false,
+      "autoOverride": {
+        "enable": false,
+        "variant": "01",
+        "color": "",
+        "endEffect": "outro_explode",
+        "scale": 1,
+        "persistent": false
+      },
+      "sourceToken": {
+        "enable": false
+      },
+      "targetToken": {
+        "enable": false
+      },
+      "levels3d": {
+        "type": ""
+      },
+      "audio": {
+        "a01": {
+          "enable": false
+        }
+      }
+    },
+    "dnd5e": {
+      "migratedProperties": [
+        "stealthDisadvantage"
+      ]
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>A shield is made from wood or metal and is carried in one hand.</em></p>\n<p>Required strength = 17.</p>\n<p>Wielding a tower shield increases your Armor Class by 2.</p>\n<p><strong>Raise the Tower. </strong>When you are hit by an attack, you can use your reaction to <em>Raise the Tower</em>. Your AC is increased by +1 until the start of your next turn.</p>\n<p>A tower shield can be equipped or unequipped using an action on your turn.</p>\n<p>Whilst equipped, the wearer has disadvantage on Stealth checks and cannot take the Dash action.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "RWE"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "reaction",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 2,
+      "dex": null,
+      "magicalBonus": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": 17,
+    "proficient": 0,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "shield",
+      "baseItem": ""
+    },
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "container": null,
+    "summons": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1664794437392,
+    "modifiedTime": 1714944147215,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 0,
+  "_key": "!items!hrGK6q5jJukrj6RD"
+}
