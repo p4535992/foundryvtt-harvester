@@ -1,0 +1,48 @@
+{
+  "name": "Roc Blood (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Rocs tend to be large, ancient creatures with dark red blood. The blood is often used in rituals and spells, but can also an ingredient in some sauces and stews.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Roc"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977890,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ix8hkMgzqSKkZOLD",
+  "sort": 0,
+  "_key": "!items!ix8hkMgzqSKkZOLD"
+}

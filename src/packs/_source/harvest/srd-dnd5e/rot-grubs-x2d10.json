@@ -1,0 +1,48 @@
+{
+  "name": "Rot Grubs (x2d10)",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "If the rot grubs aren't completely destroyed, dead rot grubs can be can sold to alchemists and healers, and may have uses in potions, salves and ointments.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Swarm of Rot Grubs"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978422,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "s4NF4vlf8yYan2Fg",
+  "sort": 0,
+  "_key": "!items!s4NF4vlf8yYan2Fg"
+}

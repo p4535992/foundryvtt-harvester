@@ -1,0 +1,48 @@
+{
+  "name": "Hellfire Engine Scrap Metal",
+  "type": "loot",
+  "img": "icons/commodities/metal/barstock-broken-steel.webp",
+  "system": {
+    "description": {
+      "value": "Some of the iron used to make a hellfire engine is magically infused and very valuable to expert craftsmen. If any of this magical iron is salvageable after the construct is destroyed, this iron can be reforged to make various weapons and armor.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Hellfire Engine"
+    },
+    "quantity": 1,
+    "weight": 45,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976428,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "AIfmauJzlqPfVr28",
+  "sort": 0,
+  "_key": "!items!AIfmauJzlqPfVr28"
+}

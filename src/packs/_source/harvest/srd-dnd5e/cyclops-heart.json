@@ -1,0 +1,48 @@
+{
+  "name": "Cyclops Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The extremely large heart of a cyclops. Healers, researchers and magic user often find the heart interesting for research purposes. In some cultures, the heart is a gourmet delicacy.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Cyclops"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974755,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "PvaRGT7cWDENLIiK",
+  "sort": 0,
+  "_key": "!items!PvaRGT7cWDENLIiK"
+}

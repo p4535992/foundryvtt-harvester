@@ -1,0 +1,48 @@
+{
+  "name": "Mammoth Tusk (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+  "system": {
+    "description": {
+      "value": "The elephant has two long ivory tusks that protrude well beyond its mouths. These tusks are prized as trophies and used to make small statues and carvings. There is enough ivory to create certain musical instruments and weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Mammoth"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976920,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "HSJptkmVmMWkEnyM",
+  "sort": 0,
+  "_key": "!items!HSJptkmVmMWkEnyM"
+}

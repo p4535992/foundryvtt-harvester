@@ -1,0 +1,48 @@
+{
+  "name": "Vampirate Ash (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "When a vampirate is reduced to 0 hit points, they explode in a cloud of ash. This ash can be collected. The ash has life-draining properties and can be used by alchemists and spellcasters. The ash may also be used in some dark rituals.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Vampirate Captain"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978625,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nmDFAVGVSoRulFS1",
+  "sort": 0,
+  "_key": "!items!nmDFAVGVSoRulFS1"
+}

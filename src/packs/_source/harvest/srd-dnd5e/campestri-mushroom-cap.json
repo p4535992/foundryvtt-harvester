@@ -1,0 +1,48 @@
+{
+  "name": "Campestri Mushroom Cap",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Campestri mushroom caps are edible, but are extremely salty and unpleasant to most creature, though bullywugs consider them a delicacy. The caps have medicinal benefits that healers can use.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Campestri"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974443,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9MXGa3SyNOt2zg5B",
+  "sort": 0,
+  "_key": "!items!9MXGa3SyNOt2zg5B"
+}

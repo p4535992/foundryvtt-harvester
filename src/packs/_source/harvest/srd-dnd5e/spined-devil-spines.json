@@ -1,0 +1,48 @@
+{
+  "name": "Spined Devil Spines",
+  "type": "loot",
+  "img": "icons/commodities/bones/tooth-spiked-brown.webp",
+  "system": {
+    "description": {
+      "value": "The spine devil's spines are hard, sharp needles that have a variety of uses. Harvesting is difficult - if the character fails the harvesting by 5 or more, they immediate take 1d6 damage. Success results in 10 needles (1sp each). The smaller needles are used by tailors and healers, while the larger barbs can be used to make arrows.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Spined Devil"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978191,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Kaxzrr9aUAwNPXGJ",
+  "sort": 0,
+  "_key": "!items!Kaxzrr9aUAwNPXGJ"
+}

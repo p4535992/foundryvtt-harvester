@@ -1,0 +1,48 @@
+{
+  "name": "Tanarukk Blood (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "This orc is corrupted in the womb using dark, abyssal magic. The blood of this orc is a dark, viscous ichor. Alchemists, summoners and demonologists have uses for this blood. Use: A creature may use an action to drink a vial of this blood. For the next minute, the creature deals an extra 1d10 damage when it hits with a melee attack. This ability does not work for elves and half-elves.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Tanarukk"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978434,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JVTDZ6S62G6p90A1",
+  "sort": 0,
+  "_key": "!items!JVTDZ6S62G6p90A1"
+}

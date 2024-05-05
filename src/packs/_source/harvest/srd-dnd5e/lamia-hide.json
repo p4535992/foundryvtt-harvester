@@ -1,0 +1,48 @@
+{
+  "name": "Lamia Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A lamia's hide is similar to a lion's pelt, but much softer, with a golden sheen. If harvested too quickly, the hide quickly begins to shed and often rips. The hide is prized by leatherworkers and furriers, and often still contains trace amounts of arcane energy.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Lamia"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976811,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "TaBAZx0XwqF1jjV0",
+  "sort": 0,
+  "_key": "!items!TaBAZx0XwqF1jjV0"
+}

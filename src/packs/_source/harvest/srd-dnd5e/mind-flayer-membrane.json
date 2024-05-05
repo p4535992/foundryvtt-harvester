@@ -1,0 +1,48 @@
+{
+  "name": "Mind Flayer Membrane",
+  "type": "loot",
+  "img": "icons/commodities/biological/pustules-red.webp",
+  "system": {
+    "description": {
+      "value": "Many of the illithid's organs are wrapped in a thin, semi-translucent membrane. It can rip easily if removed incorrectly or too quickly. The membrane is believed to insulate the creature's internal organs, allowing psionic energy to flow around the area. The membrane is valued as a psionic conduit.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ulitharid"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978582,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "sAmWNk4nHLzZy9OG",
+  "sort": 0,
+  "_key": "!items!sAmWNk4nHLzZy9OG"
+}

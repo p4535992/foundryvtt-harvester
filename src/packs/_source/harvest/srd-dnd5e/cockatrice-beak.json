@@ -1,0 +1,48 @@
+{
+  "name": "Cockatrice Beak",
+  "type": "loot",
+  "img": "icons/commodities/bones/beak-hooked-red.webp",
+  "system": {
+    "description": {
+      "value": "A cockatrice's beak is harden bone and keratin, sharp and smooth. The beak can be fashioned into weapons. Artificers and magic users may be able to reignite the arcane powers and magically empower these weapons.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Cockatrice"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974692,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "2V7FwHV3VI4cHrPu",
+  "sort": 0,
+  "_key": "!items!2V7FwHV3VI4cHrPu"
+}

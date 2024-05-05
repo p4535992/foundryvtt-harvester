@@ -1,0 +1,48 @@
+{
+  "name": "Sphinx Roar",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Once a sphinx falls, the creature's roar still reverberates in the air as an aura of arcane energy. A spellcasters can perform a quick ritual to contain this roar to be used in spells and magical creations. Requires an enchanted flask/vial.",
+      "chat": "30"
+    },
+    "source": {
+      "custom": "Androsphinx"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973699,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UtH1kL2a64ZqwfEk",
+  "sort": 0,
+  "_key": "!items!UtH1kL2a64ZqwfEk"
+}

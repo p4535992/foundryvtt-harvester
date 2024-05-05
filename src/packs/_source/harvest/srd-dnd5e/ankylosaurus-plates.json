@@ -1,0 +1,48 @@
+{
+  "name": "Ankylosaurus Plates",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "An ankylosaurus is covered in thick bony plates, spikes and fused bone. These plates can be harvested to create shields and armor.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ankylosaurus"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 9,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973734,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mrWkfWbrQwbdDjjL",
+  "sort": 0,
+  "_key": "!items!mrWkfWbrQwbdDjjL"
+}

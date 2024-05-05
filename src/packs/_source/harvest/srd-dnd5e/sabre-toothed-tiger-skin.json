@@ -1,0 +1,48 @@
+{
+  "name": "Sabre-Toothed Tiger Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The skin of a sabre-toothed tiger is covered in short, light brown fur. A sabre-toothed tiger's hide produces a good quality leather.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Saber-Toothed Tiger"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977970,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Qi0oDFF7PjNnXVwX",
+  "sort": 0,
+  "_key": "!items!Qi0oDFF7PjNnXVwX"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Sea Spawn Appendage",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Most sea spawns have an odd anatomical feature, such as: tentacle arm, sea urchin's spines, octopus eyes/beak, whale's fin, seaweed hair. The piscine body parts are prized by collectors and researchers. The parts may be useful to medical professionals and alchemists.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Sea Spawn"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978032,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EoKK3KJt7WYmlnbA",
+  "sort": 0,
+  "_key": "!items!EoKK3KJt7WYmlnbA"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Deinonychus Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The skin of a Deinonychus is a highly durable reptilian hide, making it desirable for heavy-duty items such as footwear and belts. It is also used in the production of other apparel, bags, upholstery, furniture, tents and more.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Deinonychus"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974871,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1MDt4v2YEjjdaE5Y",
+  "sort": 0,
+  "_key": "!items!1MDt4v2YEjjdaE5Y"
+}

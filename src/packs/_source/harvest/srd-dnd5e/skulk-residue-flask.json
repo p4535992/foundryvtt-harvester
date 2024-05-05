@@ -1,0 +1,48 @@
+{
+  "name": "Skulk Residue (flask)",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-jar-corked-glowing-blue.webp",
+  "system": {
+    "description": {
+      "value": "When a skulk is killed, its form disperses and it returns to the Shadowfell. Occasionally, it leaves behind a fine, almost invisible, moist residue. The residue resonates with shadow magic, and can be used by alchemists, spellcasters and anyone studying the Shadowfell. Requires an enchanted flask.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Skulk"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978115,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QJRufNNhlyU4tXIW",
+  "sort": 0,
+  "_key": "!items!QJRufNNhlyU4tXIW"
+}

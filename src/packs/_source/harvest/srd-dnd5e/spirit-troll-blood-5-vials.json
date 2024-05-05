@@ -1,0 +1,48 @@
+{
+  "name": "Spirit Troll Blood (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Spirit trolls have translucent green blood. The blood has amazing regenerative properties. It is a common ingredient in many healing potions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Spirit Troll"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978207,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9Z2Q9Cu9lFhutDZE",
+  "sort": 0,
+  "_key": "!items!9Z2Q9Cu9lFhutDZE"
+}

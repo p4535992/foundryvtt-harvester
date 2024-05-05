@@ -1,0 +1,48 @@
+{
+  "name": "Grell Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "The wrinkled hide of a grell has a purple-pink color. Due to the brain-like crevasses, the hide can be difficult to harvest in one piece. The hide can be treated and used to create any kind of leather items, however some artificers and spellcasters can enhance the hide's natural abilities.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Grell"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976250,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zvGgnHQCbi6tva1j",
+  "sort": 0,
+  "_key": "!items!zvGgnHQCbi6tva1j"
+}

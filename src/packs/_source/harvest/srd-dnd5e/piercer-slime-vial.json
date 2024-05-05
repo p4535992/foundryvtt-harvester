@@ -1,0 +1,48 @@
+{
+  "name": "Piercer Slime (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A piercer's underbelly is covered in a thick, sticky slime that it uses to climb up walls and aid in clinging to the ceiling. This slime can be used to create a strong adhesive useful to craftsmen and leatherworkers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Piercer"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977663,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "aVwlT2I9h7oArINq",
+  "sort": 0,
+  "_key": "!items!aVwlT2I9h7oArINq"
+}

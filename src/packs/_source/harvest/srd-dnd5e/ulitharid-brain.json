@@ -1,0 +1,48 @@
+{
+  "name": "Ulitharid Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "An illithid's brain is larger than a human brain, and contains many more ridges. The large pinkish organ secretes a translucent foggy yellow fluid, several days after death. The brain of an illithid are prized by the arcane community, and the fluid is highly valued by alchemists, healers and witches.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ulitharid"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 380,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978585,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "U1WWX3FPxDKnVo9v",
+  "sort": 0,
+  "_key": "!items!U1WWX3FPxDKnVo9v"
+}

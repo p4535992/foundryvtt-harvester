@@ -1,0 +1,48 @@
+{
+  "name": "Frost Salamander Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "The tough, scaled hide of a Frost Salamander has a blue, metallic sheen. Azer's often hunt these creatures for their hide to make armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Frost Salamander"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975681,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6hDAqT5rPr1ZqtBw",
+  "sort": 0,
+  "_key": "!items!6hDAqT5rPr1ZqtBw"
+}

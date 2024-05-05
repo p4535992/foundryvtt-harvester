@@ -1,0 +1,48 @@
+{
+  "name": "Giant Boar Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A giant boar's hide is valued for producing a good quality leather.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Boar"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 7,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975794,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "a6CAXEy7v9KDrrTi",
+  "sort": 0,
+  "_key": "!items!a6CAXEy7v9KDrrTi"
+}

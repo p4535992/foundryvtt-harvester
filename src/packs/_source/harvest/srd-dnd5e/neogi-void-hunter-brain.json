@@ -1,0 +1,48 @@
+{
+  "name": "Neogi Void Hunter Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "Neogi Void Hunters are rare creatures with several arcane abilities. As such, a neogi void hunter's brain is valued for research and study, and may be used in potions and arcane rituals.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Neogi Void Hunter"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977333,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rHVpZXApT7Q8a8n4",
+  "sort": 0,
+  "_key": "!items!rHVpZXApT7Q8a8n4"
+}

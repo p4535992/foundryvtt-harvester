@@ -1,0 +1,48 @@
+{
+  "name": "Orc Warchief Ornamentation",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "An orc warchief often wears jewelry and gems taken from its enemies. This ornamentation includes earrings, nose rings, ornamental hair ties, and tusk inlays.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Orc War Chief"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977566,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "k8mudvt51iU20z0U",
+  "sort": 0,
+  "_key": "!items!k8mudvt51iU20z0U"
+}

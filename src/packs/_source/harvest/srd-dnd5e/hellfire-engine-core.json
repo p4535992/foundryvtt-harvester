@@ -1,0 +1,48 @@
+{
+  "name": "Hellfire Engine Core",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "Embedded in the huge body of a hellfire engine is a metallic core filled with a hot magical lava. The core is useful to artificers and tinkerers. The hot lava is wanted by elemental wizards and researchers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Hellfire Engine"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976425,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "f5Tqpxn3GT7ZDIRT",
+  "sort": 0,
+  "_key": "!items!f5Tqpxn3GT7ZDIRT"
+}

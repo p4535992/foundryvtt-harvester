@@ -1,0 +1,48 @@
+{
+  "name": "Behir Scales (large bag)",
+  "type": "loot",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "Behir scaled are used by tailors and armorers, as they are lighter, smoother and more flexible than dragon scales.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Behir"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 55,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974085,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "urNRECxPukFnVmUh",
+  "sort": 0,
+  "_key": "!items!urNRECxPukFnVmUh"
+}

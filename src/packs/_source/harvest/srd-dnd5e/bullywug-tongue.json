@@ -1,0 +1,48 @@
+{
+  "name": "Bullywug Tongue",
+  "type": "loot",
+  "img": "icons/commodities/biological/tongue-red.webp",
+  "system": {
+    "description": {
+      "value": "A bullywug tongue is extremely long, rough covered in a sticky slime. The tongue can be dried and treated, and turned into a crude rope (20') with a successful Survival check (DC 14).",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Bullywug Knight"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 8,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974404,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ago5G0xZp4EYWTHc",
+  "sort": 0,
+  "_key": "!items!ago5G0xZp4EYWTHc"
+}

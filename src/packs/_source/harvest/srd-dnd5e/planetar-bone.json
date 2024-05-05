@@ -1,0 +1,48 @@
+{
+  "name": "Planetar Bone",
+  "type": "loot",
+  "img": "icons/commodities/bones/bones-stack-yellow.webp",
+  "system": {
+    "description": {
+      "value": "Planetar bones are extremely strong and infused with holy magic, making them extremely valuable to those who create magic weapons.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Planetar"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 7500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977697,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "HHOH9D2Uye0R7eBz",
+  "sort": 0,
+  "_key": "!items!HHOH9D2Uye0R7eBz"
+}

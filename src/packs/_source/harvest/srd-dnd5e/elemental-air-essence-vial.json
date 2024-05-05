@@ -1,0 +1,48 @@
+{
+  "name": "Elemental Air Essence (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "An invisible stalker can stir up dust and debris that carry trace amounts of the elementals energy. It is possible to harness this energy using an enchanted bottle to collect the creature's essence. Requires an enchanted vial. Harvesting note: 20 DC if the invisible stalker disperses over 20 feet above the ground (spreading its essence into a wider area, making it more difficult to find).",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Invisible Stalker"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976627,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "phl3Xu8XVTL2dYT1",
+  "sort": 0,
+  "_key": "!items!phl3Xu8XVTL2dYT1"
+}

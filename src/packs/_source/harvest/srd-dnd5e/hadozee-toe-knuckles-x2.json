@@ -1,0 +1,48 @@
+{
+  "name": "Hadozee Toe Knuckles (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/foot-black-grey.webp",
+  "system": {
+    "description": {
+      "value": "The opposable digits on a hadozees feet are valued by spellcasters interested in polymorph spells. They are also used by bone carvers and jewelers.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Hadozee Explorer"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976352,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "lRgoLFI5LYm69Hu4",
+  "sort": 0,
+  "_key": "!items!lRgoLFI5LYm69Hu4"
+}

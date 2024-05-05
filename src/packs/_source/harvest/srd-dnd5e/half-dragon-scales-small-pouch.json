@@ -1,0 +1,48 @@
+{
+  "name": "Half-Dragon Scales (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "While smaller than a full dragon, a half-dragon's scale have many of the same arcane properties. The scales of one half-dragon are too small to make any armor, but alchemists may be able to grind the scales into a powder, which can be used in various concoctions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Half Dragon"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 60,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976376,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nIdtG71qrWwCjggi",
+  "sort": 0,
+  "_key": "!items!nIdtG71qrWwCjggi"
+}

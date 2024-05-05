@@ -1,0 +1,48 @@
+{
+  "name": "Bear Pelt",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A bear's pelt can be made into anything from rugs to coats to bedspreads. Once removed from the corpse, typically with a skinning knife, the hide ranges from 5-7 feet long.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Black Bear"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974165,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hv9YPezKOJwqoNkb",
+  "sort": 0,
+  "_key": "!items!hv9YPezKOJwqoNkb"
+}

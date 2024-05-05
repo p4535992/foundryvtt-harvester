@@ -1,0 +1,48 @@
+{
+  "name": "Shadow Essence (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Requires an enchanted vial in order to extract. Use: You may spend an action to pour the contents of this vial over yourself, merging with the shadows within for the next hour. During this time, whenever you are in dim light or darkness, you may take the Hide action as a bonus action, and you may spend an action to teleport, along with whatever you are wearing and carrying, up to 30 feet to an unoccupied space of dim light or darkness that you can see.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Banderhobb"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 65,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973989,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IkXSrQejsJ1x775q",
+  "sort": 0,
+  "_key": "!items!IkXSrQejsJ1x775q"
+}

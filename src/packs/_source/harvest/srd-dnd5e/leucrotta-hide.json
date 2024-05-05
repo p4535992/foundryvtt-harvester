@@ -1,0 +1,48 @@
+{
+  "name": "Leucrotta Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A leucrota has a dark, thick, greasy hide. The oil makes the hide difficult to grab, cut, and harvest. An expert leatherworker may be able to fashion something from the hide. Although, the black ichor that continues to sweat off the hide (even after death) is a value to alchemists, demonologists and certain spellcasters.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Leucrotta"
+    },
+    "quantity": 1,
+    "weight": 16,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976823,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yTzgpKGcEStuZs45",
+  "sort": 0,
+  "_key": "!items!yTzgpKGcEStuZs45"
+}

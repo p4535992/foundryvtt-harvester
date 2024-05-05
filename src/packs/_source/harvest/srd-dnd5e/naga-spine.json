@@ -1,0 +1,48 @@
+{
+  "name": "Naga Spine",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-spine-white.webp",
+  "system": {
+    "description": {
+      "value": "A nage has a very long spine, made up of hundreds of vertebrae. The bones have various uses, especially to make tools and sculptures. The spine can also be fashioned into necromantic staves.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Spirit Naga"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978196,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vKFqQQ8gqVd5x4mE",
+  "sort": 0,
+  "_key": "!items!vKFqQQ8gqVd5x4mE"
+}

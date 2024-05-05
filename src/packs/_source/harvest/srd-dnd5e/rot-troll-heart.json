@@ -1,0 +1,48 @@
+{
+  "name": "Rot Troll Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A rot troll's heart is a large mass of red flesh that pumps the creature's regenerative blood throughout its body. The heart is used in arcane healing rituals and enchantments.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Rot Troll"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977952,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1nbxtYFb2wDP5tmV",
+  "sort": 0,
+  "_key": "!items!1nbxtYFb2wDP5tmV"
+}

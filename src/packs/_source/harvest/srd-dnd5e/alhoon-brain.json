@@ -1,0 +1,48 @@
+{
+  "name": "Alhoon Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "An illithid's brain is larger than a human brain, and contains many more ridges. An alhoon's brain is grey and secretes a clear black fluid, for several days after the alhoon's death. The brain of all illithids are prized by the arcane community, and the fluid is highly valued with alchemists, healers and witches.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Alhoon"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973589,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1x9GArPtdxzHEpoY",
+  "sort": 0,
+  "_key": "!items!1x9GArPtdxzHEpoY"
+}

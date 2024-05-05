@@ -1,0 +1,48 @@
+{
+  "name": "Oni Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "An oni's heart is a large mass of black flesh. The heart still radiates with energy, even after death. It can be used by spellcasters in rituals and summonings.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Oni"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977498,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "iMuNGyvnWUtzn6PW",
+  "sort": 0,
+  "_key": "!items!iMuNGyvnWUtzn6PW"
+}

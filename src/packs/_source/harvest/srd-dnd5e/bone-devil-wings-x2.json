@@ -1,0 +1,48 @@
+{
+  "name": "Bone Devil Wings (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "A bone devil's translucent wings appear light and fragile, but are surprisingly strong. Leatherworker praise the thin material because of its transparency and durability, which is unique in their profession. Artificers desire the wings for the magic they retain, even after death.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Bone Devil"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974240,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EgtBeGilG0Xb44QV",
+  "sort": 0,
+  "_key": "!items!EgtBeGilG0Xb44QV"
+}

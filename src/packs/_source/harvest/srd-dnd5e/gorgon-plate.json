@@ -1,0 +1,48 @@
+{
+  "name": "Gorgon Plate",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "The gorgon's iron plates are riddled with magical energy. A skilled blacksmith may be able to rework the plates into useful armor and weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Gorgon"
+    },
+    "quantity": 1,
+    "weight": 60,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976165,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zQMCjLvUcT7ib2zN",
+  "sort": 0,
+  "_key": "!items!zQMCjLvUcT7ib2zN"
+}

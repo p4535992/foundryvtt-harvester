@@ -1,0 +1,48 @@
+{
+  "name": "Bael's Horns (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "The horns of Bael are stronger than steel. Like most horns, they can be reshaped into musical instruments or large drinking horns. They can also be ground into a fine dust, which can be refined and used to strengthen weapons and armor.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Bael"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973960,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "T3Il1jS0P6X6twha",
+  "sort": 0,
+  "_key": "!items!T3Il1jS0P6X6twha"
+}

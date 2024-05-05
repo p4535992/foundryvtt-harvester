@@ -1,0 +1,48 @@
+{
+  "name": "Ssurran Tail",
+  "type": "loot",
+  "img": "icons/commodities/biological/tail-rodent-orange.webp",
+  "system": {
+    "description": {
+      "value": "The ssurran tail is long and thick with a thin spinal cord running down the middle. Alchemists and healers can use the tail for salves and potions, due to the creature's regenerative capabilities. Hungry communities and primitive tribes often use the tail for its meat. Other communities will pay for the tails as a bounty on the creatures.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Ssurran Defiler"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 8,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978231,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dtJbQan5NZSsdH5U",
+  "sort": 0,
+  "_key": "!items!dtJbQan5NZSsdH5U"
+}

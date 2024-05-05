@@ -1,0 +1,48 @@
+{
+  "name": "Ogre Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "An ogre has a large, rough layer of pale skin. While strong and durable, leather made from the skin is not very aesthetic and has an odd smell (even after being treated).",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ogre Battering Ram"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977440,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vd59a7wwkJQEzzsA",
+  "sort": 0,
+  "_key": "!items!vd59a7wwkJQEzzsA"
+}

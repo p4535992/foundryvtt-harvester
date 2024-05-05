@@ -1,0 +1,48 @@
+{
+  "name": "Nightmare Fuel (flask)",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-jar-corked-glowing-blue.webp",
+  "system": {
+    "description": {
+      "value": "This fluid is found in a black gland at the base of one of its tentacles. The black gland drips with a thick dark-red fluid that can be collected inside a flask. Alchemists and spellcasters can find many uses for this liquid. Use: If this flask is uncorked, using an action, within a 10 feet of any sleeping creature, the creature(s) must make a DC 13 Wisdom saving throw or experience terrifying nightmares, taking 16 (3d10) psychic damage and immediately wakes up. This effect is instantaneous and the liquid quickly evaporates in 1 round. When the flask is uncorked, any creature that is already awake (including the creature that uncorks the flask), must immediately make the same saving throw or become frightened. At the end of each turn, the creature can attempt to make a saving throw. The effect ends when the creature succeeds this saving throw, or a minute passes.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Feyr"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975505,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xxG64eJMkLSUaCZa",
+  "sort": 0,
+  "_key": "!items!xxG64eJMkLSUaCZa"
+}

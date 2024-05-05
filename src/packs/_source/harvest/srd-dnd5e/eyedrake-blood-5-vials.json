@@ -1,0 +1,48 @@
+{
+  "name": "Eyedrake Blood (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The blood of an eyedrake is a thick reddish purple fluid, flowing with arcane energy. The blood contains a mix of alchemical elements, which may be useful in potions and elixirs.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Eyedrake"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975453,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qihnyMIdcETNCAif",
+  "sort": 0,
+  "_key": "!items!qihnyMIdcETNCAif"
+}

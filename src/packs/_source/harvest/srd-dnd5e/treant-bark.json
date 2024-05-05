@@ -1,0 +1,48 @@
+{
+  "name": "Treant Bark",
+  "type": "loot",
+  "img": "icons/commodities/wood/bark-beige.webp",
+  "system": {
+    "description": {
+      "value": "The treant's bark is the hard, outer covering of its trunk and branches. The bark can be removed in large plates, which can then be crafted into wooden armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Treant"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978544,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bNHxGTfgMIZ5UgOh",
+  "sort": 0,
+  "_key": "!items!bNHxGTfgMIZ5UgOh"
+}

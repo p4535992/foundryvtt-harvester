@@ -1,0 +1,48 @@
+{
+  "name": "White Hand of Yurtrus",
+  "type": "loot",
+  "img": "icons/commodities/biological/hand-clawed-blue.webp",
+  "system": {
+    "description": {
+      "value": "The white hand of this orc is infused with dark necrotic energy, a blessing of the orc deity Yurtrus. The hand causes rot and decay. Healers and alchemists may be able to use the hand to reverse certain diseases. Spellcasters use the hand for its link to Yurtrus.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Orc Hand of Yurtrus"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977536,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "U0VZiEUdvJLuVcf8",
+  "sort": 0,
+  "_key": "!items!U0VZiEUdvJLuVcf8"
+}

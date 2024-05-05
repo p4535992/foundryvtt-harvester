@@ -1,0 +1,48 @@
+{
+  "name": "Elephant Tusk (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+  "system": {
+    "description": {
+      "value": "The elephant has two long ivory tusks that protrude well beyond its mouths. These tusks are prized as trophies and used to make small statues and carvings. There is enough ivory to create certain musical instruments and weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Elephant"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975371,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "iGRkoE4sXIoY1fA8",
+  "sort": 0,
+  "_key": "!items!iGRkoE4sXIoY1fA8"
+}

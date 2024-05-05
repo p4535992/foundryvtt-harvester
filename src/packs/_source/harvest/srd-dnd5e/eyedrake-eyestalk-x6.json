@@ -1,0 +1,48 @@
+{
+  "name": "Eyedrake Eyestalk (x6)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-tentacle-grey-orange.webp",
+  "system": {
+    "description": {
+      "value": "An eyedrake's eyestalks are valued by magic users, enchanters and artificers. The eyestalks must be carefully separated from the wing-webbing between them. Once successfully harvested, roll 1d6 for the type of eyestalk received (1. Frost, 2. Sonic, 3. Telekinetic, 4. Fire, 5. Paralyzing, 6. Necrotic). [See FToG p199 for more details on the Eyedrake]",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Eyedrake"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975455,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xiLQ7P61AbZiu3nU",
+  "sort": 0,
+  "_key": "!items!xiLQ7P61AbZiu3nU"
+}

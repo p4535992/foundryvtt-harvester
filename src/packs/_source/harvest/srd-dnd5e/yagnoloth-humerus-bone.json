@@ -1,0 +1,48 @@
+{
+  "name": "Yagnoloth Humerus Bone",
+  "type": "loot",
+  "img": "icons/commodities/bones/bones-stack-yellow.webp",
+  "system": {
+    "description": {
+      "value": "A yagnoloth has one massive, oversized arm. The humerus bone of this arm is a long, thick slab of steel-hard bone. Master weaponsmiths can carved the bone into a variety of weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Yagnoloth"
+    },
+    "quantity": 1,
+    "weight": 9,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978889,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CAP9EhZuKmdGdCSi",
+  "sort": 0,
+  "_key": "!items!CAP9EhZuKmdGdCSi"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Kraken Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A kraken's hide is a strong, rubbery material. The hide can only be harvested from certain areas of the creature, in order to find workable material. The hide is extremely versatile. It can be crafted into water resistant fabric and apparel. It can be treated and made into flexible tarps. It can also be soaked, stretched, and made into sturdy, but light, sails.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Kraken"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976764,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KiB9Z7mIxkV7ZDFB",
+  "sort": 0,
+  "_key": "!items!KiB9Z7mIxkV7ZDFB"
+}

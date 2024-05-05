@@ -1,0 +1,48 @@
+{
+  "name": "Stone Golem Core",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "In the middle of a stone golem's chest is a stone core. When the creature is destroyed, its body crumbles to the floor, and this core can get lost among the stone remains. The core contains traces of magic from the Elemental Plane of Earth. Artificers and those that study the elemental planes have an interest in this item.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Stone Golem"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978327,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bq8Ydhms9fIFmeTq",
+  "sort": 0,
+  "_key": "!items!bq8Ydhms9fIFmeTq"
+}

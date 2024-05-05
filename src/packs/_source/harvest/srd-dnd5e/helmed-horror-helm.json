@@ -1,0 +1,48 @@
+{
+  "name": "Helmed Horror Helm",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The helm of a helmed horror is magically enchanted, and crafted specifically for the creation of the construct. Harvesting the helm requires a simple ritual, or else the helm loses its value to the arcane community.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Helmed Horror"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976430,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yGkCAC2bzGGEiOdx",
+  "sort": 0,
+  "_key": "!items!yGkCAC2bzGGEiOdx"
+}

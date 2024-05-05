@@ -1,0 +1,48 @@
+{
+  "name": "Dryad Sap (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A dryads natural skin feels more like the stem of a flower, and their blood is more like thick, sticky orange sap. The sap has a variety of arcane properties that are prized by alchemists, magic users and artificers. Use: The sap can be used to coat 1 medium or smaller creature. Applying the sap takes 1 minute. Once covered with the sap, that creatures skin hardens, similar to the barkskin spell. For the next hour, the target's AC can't be less than 16. This effect does not require any concentration check to maintain.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dryad"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 8,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975237,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "2dbflEpL7gEOIBqX",
+  "sort": 0,
+  "_key": "!items!2dbflEpL7gEOIBqX"
+}

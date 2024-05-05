@@ -1,0 +1,48 @@
+{
+  "name": "Sea Spawn Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A sea spawns blood is a greenish brine that smells of rancid seaweed. The blood has many transformative properties that alchemists value. The harvesting DC becomes 15 if the attempt is done underwater.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Sea Spawn"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978034,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "BnlGML3ggAEU4uGb",
+  "sort": 0,
+  "_key": "!items!BnlGML3ggAEU4uGb"
+}

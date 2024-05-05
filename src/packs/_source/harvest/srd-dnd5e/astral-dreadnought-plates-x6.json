@@ -1,0 +1,48 @@
+{
+  "name": "Astral Dreadnought Plates (x6)",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "An Astral Dreadnought is covered in thick, spiked plates. These large plates can be harvested to create shields and armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Astral Dreadnought"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973820,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "U4MLhMaZwxsB0x7i",
+  "sort": 0,
+  "_key": "!items!U4MLhMaZwxsB0x7i"
+}

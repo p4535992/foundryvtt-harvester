@@ -1,0 +1,48 @@
+{
+  "name": "Quickling Blood (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Quickling blood flows quickly, having an extremely low viscosity. It is a red substance, with tiny swirling motes that appear to swim around inside the substance. It is difficult to fill a vial with so much blood from such a small creature. The blood is valued by alchemists. Use: A creature may spend an action to drink a vial of this blood. The creature will gain an extra reaction per round (if the creature normally has 1 action per round, they now have 2). This benefit lasts for 10 minutes.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Quickling"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977806,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "BvupAbcINwpfXvcS",
+  "sort": 0,
+  "_key": "!items!BvupAbcINwpfXvcS"
+}

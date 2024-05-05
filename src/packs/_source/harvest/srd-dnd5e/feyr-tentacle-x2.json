@@ -1,0 +1,48 @@
+{
+  "name": "Feyr Tentacle (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/tentacle-purple-white.webp",
+  "system": {
+    "description": {
+      "value": "5-foot long gray tentacles, ending in thin red strands. The tentacles are prized by anyone studying fear-based spells and effects.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Feyr"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975497,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6jsvOk8QXbgsRskC",
+  "sort": 0,
+  "_key": "!items!6jsvOk8QXbgsRskC"
+}

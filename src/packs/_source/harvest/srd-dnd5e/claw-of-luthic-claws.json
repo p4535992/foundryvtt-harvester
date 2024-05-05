@@ -1,0 +1,48 @@
+{
+  "name": "Claw of Luthic Claws",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-brown-black.webp",
+  "system": {
+    "description": {
+      "value": "A claw of luthic grows extremely long nails, just like its patron goddess. With Luthic's blessing, these nails become long, sharp claws that are hard as iron. The nails are often black, filthy and covered in dried blood. Alchemists and spellcasters often scratch the residue off of these nails and use it as an ingredient for components and potions. Some weaponsmiths can craft daggers and small tools from the claws.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Orc Claw of Luthic"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977512,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ssCPsuqTMW6rmA8K",
+  "sort": 0,
+  "_key": "!items!ssCPsuqTMW6rmA8K"
+}

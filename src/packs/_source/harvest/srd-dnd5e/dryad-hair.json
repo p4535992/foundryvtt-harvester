@@ -1,0 +1,48 @@
+{
+  "name": "Dryad Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-gold.webp",
+  "system": {
+    "description": {
+      "value": "A dryads hair is primarily thin branches, leaves and vines. The hair can be twisted, tied and coiled to create a 30' rope with a successful DC 14 Wisdom (Survival) check.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Dryad"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975233,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yy93jBLIb3oBr63o",
+  "sort": 0,
+  "_key": "!items!yy93jBLIb3oBr63o"
+}

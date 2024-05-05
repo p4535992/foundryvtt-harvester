@@ -1,0 +1,48 @@
+{
+  "name": "Yuan-ti Blood (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Yuan-ti's were originally created through foul sorcery and ritualist sacrifice, and that dark magic runs thick in their blood. The blood is used by spellcasters specializing in transmutation and alchemists creating polymorph potions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Yuan-ti Abomination"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978994,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "x7U3EmT3NWYA0exw",
+  "sort": 0,
+  "_key": "!items!x7U3EmT3NWYA0exw"
+}

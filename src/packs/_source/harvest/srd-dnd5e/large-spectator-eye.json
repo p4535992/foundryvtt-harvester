@@ -1,0 +1,48 @@
+{
+  "name": "Large Spectator Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A spectator main eye is highly valued to enchanters, artificers and magic users for it's magical reflective properties.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Spectator"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978179,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OLs3P3W40A7r6tU2",
+  "sort": 0,
+  "_key": "!items!OLs3P3W40A7r6tU2"
+}

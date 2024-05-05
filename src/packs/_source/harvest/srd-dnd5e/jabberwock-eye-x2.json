@@ -1,0 +1,48 @@
+{
+  "name": "Jabberwock Eye (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "The two round eyes of a jabberwock is capable of emitting a fiery gaze. Each round orb is about 8-inches wide. The eyes are extremely warm to the touch (even after they are removed), and radiate with arcane energy.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Jabberwock"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976657,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Fv1T3XmYN5XEd8YG",
+  "sort": 0,
+  "_key": "!items!Fv1T3XmYN5XEd8YG"
+}

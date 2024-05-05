@@ -1,0 +1,48 @@
+{
+  "name": "Neh-thalggu Pincers (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/mouth-pincer-brown.webp",
+  "system": {
+    "description": {
+      "value": "The pincers of a Neh-thalggu are about one foot long, and their white shell is often covered in dried blood. The pincers are extremely sharp, and often used by others to create cutting tools.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Neh-thalggu"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977292,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ii2Z4GzMkojCNZu8",
+  "sort": 0,
+  "_key": "!items!ii2Z4GzMkojCNZu8"
+}

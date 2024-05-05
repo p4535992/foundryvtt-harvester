@@ -1,0 +1,48 @@
+{
+  "name": "Weasel Pelt",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "Weasel fur, sometimes called ermine fur, is a thin strip of fur. It can be used as trim on parkas and on other clothing. It can also be used on scabbards and small pouches.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Weasel"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978790,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "kJIqTkO6ytlBkGOf",
+  "sort": 0,
+  "_key": "!items!kJIqTkO6ytlBkGOf"
+}

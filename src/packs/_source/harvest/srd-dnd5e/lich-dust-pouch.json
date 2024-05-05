@@ -1,0 +1,48 @@
+{
+  "name": "Lich Dust (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "While a lich's body is but a shell (and its soul is kept safe in its phylactery), the body still flows with arcane power. When the lich's body is destroyed, its withered form crumbles to ash and much of that power still resides. The ash is valuable to alchemists and spellcasters (especially artificers and necromancers).",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Lich"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 3000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976831,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QkJTnBBb0d1XaTZh",
+  "sort": 0,
+  "_key": "!items!QkJTnBBb0d1XaTZh"
+}

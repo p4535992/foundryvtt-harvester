@@ -1,0 +1,48 @@
+{
+  "name": "Mimic Skin Strip",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "When a mimic dies, it slowly melts into its original form, an amorphous gray blob. It is difficult to harvest even a strip of flesh from the creature, as it is like cutting through water. A mimic's natural skin is not good for making leather, but it is valued by transmutation spellcasters and those that study polymorphing.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Mimic"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977081,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NUc6svkEQJZHl28I",
+  "sort": 0,
+  "_key": "!items!NUc6svkEQJZHl28I"
+}

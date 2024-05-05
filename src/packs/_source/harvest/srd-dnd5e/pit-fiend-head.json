@@ -1,0 +1,48 @@
+{
+  "name": "Pit Fiend Head",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-tusked-grey.webp",
+  "system": {
+    "description": {
+      "value": "The skull of a pit fiend is a fearsome trophy. It can also be forged into a terrifying helm. Artificers may be able to retain some of the fiends hellish, arcane power.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Pit Fiend"
+    },
+    "quantity": 1,
+    "weight": 35,
+    "price": {
+      "value": 18000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977684,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YtN2uq8Jjchyrasx",
+  "sort": 0,
+  "_key": "!items!YtN2uq8Jjchyrasx"
+}

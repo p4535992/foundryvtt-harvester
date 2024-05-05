@@ -1,0 +1,48 @@
+{
+  "name": "Large Death Kiss Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A Death Kiss eye, when successfully harvested, can be used by alchemists in the creation of medicinal salves and potions. The eye's lens may also be used in the crafting of certain magical items.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Death Kiss"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974798,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Ye3V5UlZXnRsdETY",
+  "sort": 0,
+  "_key": "!items!Ye3V5UlZXnRsdETY"
+}

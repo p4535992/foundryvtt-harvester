@@ -1,0 +1,48 @@
+{
+  "name": "Aartuk Sap (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Aartuk sap is an extremely thick, reddish brown fluid that smells of fresh cut grass. Adept farmers can use the sap to create a rich fertilizer.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Aartuk Elder"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973428,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wv4wj7X28qWKkWHV",
+  "sort": 0,
+  "_key": "!items!wv4wj7X28qWKkWHV"
+}

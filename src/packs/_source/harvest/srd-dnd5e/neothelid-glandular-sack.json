@@ -1,0 +1,48 @@
+{
+  "name": "Neothelid Glandular Sack",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "A neothelid has two glands that secrete a collection of chemicals into the creature's throat. When these chemicals combine, and the neothelid exhales, a spray of acid shoots forth. If the harvesting DC check fails by 5 or more, the glandular sac ruptures, causing 4d6 acid damage to every creature within a 10-foot radius. These glands are valued by alchemist, artificers and anyone that studies illithids. Use: As an action, a creature may throw this sac at a point it can see within 20 feet, bursting on impact. All creatures within 5 feet of that point must succeed on a DC 14 Dexterity saving throw, taking 5d6 acid damage on a failed save, or half as much damage on a successful one.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Neothelid"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977337,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5CgR1HQiOuJIPUtD",
+  "sort": 0,
+  "_key": "!items!5CgR1HQiOuJIPUtD"
+}

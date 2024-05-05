@@ -1,0 +1,48 @@
+{
+  "name": "Quetzalcoatlus Beak",
+  "type": "loot",
+  "img": "icons/commodities/bones/beak-hooked-red.webp",
+  "system": {
+    "description": {
+      "value": "The beak of a Quetzalcoatlus is long, sharp and pointed, similar to storks but much larger.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Quetzalcoatlus"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 7,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977803,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "WzOCikFDd3jxUSYc",
+  "sort": 0,
+  "_key": "!items!WzOCikFDd3jxUSYc"
+}

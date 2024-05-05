@@ -1,0 +1,48 @@
+{
+  "name": "Mimic Adhesive (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A mimic can secrete a strong, clear adhesive. This glue-like substance dries very fast, and must be harvested quickly. The adhesive is valued by all kinds of craftsmen.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Hoard Mimic"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976463,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cuYYUbOXKWIqTSnk",
+  "sort": 0,
+  "_key": "!items!cuYYUbOXKWIqTSnk"
+}

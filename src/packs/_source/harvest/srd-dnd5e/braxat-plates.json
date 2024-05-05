@@ -1,0 +1,48 @@
+{
+  "name": "Braxat Plates",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "Plates can be harvested from the Braxat's articulated shell. These plates can be used to make armor and shields.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Braxat"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974285,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "gbm9D6H9qggQ9BgE",
+  "sort": 0,
+  "_key": "!items!gbm9D6H9qggQ9BgE"
+}

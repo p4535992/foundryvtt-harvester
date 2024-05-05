@@ -1,0 +1,48 @@
+{
+  "name": "Devil Wings (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "Erinyes have a large set of red feathered wings. While the feathers are useful, artificers may be able to use the entire wings in their crafting.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Erinyes"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 450,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975409,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ovITupJHYMD5XB9r",
+  "sort": 0,
+  "_key": "!items!ovITupJHYMD5XB9r"
+}

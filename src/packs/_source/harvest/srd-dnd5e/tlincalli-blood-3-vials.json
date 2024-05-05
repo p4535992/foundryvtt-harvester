@@ -1,0 +1,48 @@
+{
+  "name": "Tlincalli Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A tlincalli has dark red blood with a greenish sheen. The blood is useful to healers, especially in desert communities. Other alchemists and spellcasters may be able to use the blood as well.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Tlincalli"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978517,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "op15LY2Lkc5PkkOA",
+  "sort": 0,
+  "_key": "!items!op15LY2Lkc5PkkOA"
+}

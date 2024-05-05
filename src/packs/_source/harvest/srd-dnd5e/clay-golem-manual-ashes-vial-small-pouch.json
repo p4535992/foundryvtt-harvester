@@ -1,0 +1,48 @@
+{
+  "name": "Clay Golem Manual Ashes (vial, small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The final step of creating a new golem is to sprinkle the ashes of the manual of golem creation over the inanimate body. Harvesting these ashes can be difficult, as they are tiny and hard to find. The ashes don't retain the power they had prior to the golem's creation, but still have value in the arcane community.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Clay Golem"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974642,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Pqmw6oMeSYEIbRtA",
+  "sort": 0,
+  "_key": "!items!Pqmw6oMeSYEIbRtA"
+}

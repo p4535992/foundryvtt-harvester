@@ -1,0 +1,48 @@
+{
+  "name": "Gaj Mandibles (x6)",
+  "type": "loot",
+  "img": "icons/commodities/biological/mouth-pincer-brown.webp",
+  "system": {
+    "description": {
+      "value": "Gaj have six sharp, finger-like mandibles around its mouth. The mandibles can be fashioned into small weapons (daggers), tools and crude jewelry.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Gaj"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 7,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975692,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FmHoVJ08v0OrhM55",
+  "sort": 0,
+  "_key": "!items!FmHoVJ08v0OrhM55"
+}

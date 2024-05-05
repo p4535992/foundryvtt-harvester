@@ -1,0 +1,48 @@
+{
+  "name": "Shadow Dragon Scales (large bag)",
+  "type": "loot",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "Harvested from: Young, Adult, and Ancient Shadow Dragons A shadow dragons scales are deep black and appear to disappear as it gets darker, becoming almost invisible. The scales are used in apparel, decorations and armor. Artificers and some magic users may be able to reach into the shadow realm to enhance the scales powers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Young Red Shadow Dragon"
+    },
+    "quantity": 1,
+    "weight": 45,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978966,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Vdxusv0fyVIkuW2d",
+  "sort": 0,
+  "_key": "!items!Vdxusv0fyVIkuW2d"
+}

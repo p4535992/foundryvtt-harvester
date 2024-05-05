@@ -1,0 +1,48 @@
+{
+  "name": "Giant Crab Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-turtle-grey.webp",
+  "system": {
+    "description": {
+      "value": "The hard chitinous shell of the giant crab. Armorers often use the shell to craft armor and shields.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Crab"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975807,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "8g52BwbfN8j5uRqx",
+  "sort": 0,
+  "_key": "!items!8g52BwbfN8j5uRqx"
+}

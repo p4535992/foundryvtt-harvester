@@ -1,0 +1,48 @@
+{
+  "name": "Yuan-ti Abomination Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A yuan-ti abomination has a long snake-like tail which can yield large scaly skin. The skin is valued by leatherworkers because of its size.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Yuan-ti Abomination"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978999,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fLfeMQnuA0Sp7Q5G",
+  "sort": 0,
+  "_key": "!items!fLfeMQnuA0Sp7Q5G"
+}

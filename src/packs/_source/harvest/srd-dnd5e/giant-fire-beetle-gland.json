@@ -1,0 +1,48 @@
+{
+  "name": "Giant Fire Beetle Gland",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-black.webp",
+  "system": {
+    "description": {
+      "value": "The giant fire beetle has a gland that produces a luminescent gel that continues to glow 1d6 days after the beetle dies. It is possible to harvest the gland in tact. The gland can be used by alchemists and healers to produce glowing concoctions.",
+      "chat": "12"
+    },
+    "source": {
+      "custom": "Giant Fire Beetle"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975830,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "I4qCqn0S2nvYWzFe",
+  "sort": 0,
+  "_key": "!items!I4qCqn0S2nvYWzFe"
+}

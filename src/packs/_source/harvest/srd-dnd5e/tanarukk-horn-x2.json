@@ -1,0 +1,48 @@
+{
+  "name": "Tanarukk Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "A Tanarukk's horn is a long, sharp bone on the creature's skull. The horn is a beacon for abyssal energy, and retains some of the creature's power after death. Weaponsmiths can carve the bone into various weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Tanarukk"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978448,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JjImdq3VrFZfK6hl",
+  "sort": 0,
+  "_key": "!items!JjImdq3VrFZfK6hl"
+}

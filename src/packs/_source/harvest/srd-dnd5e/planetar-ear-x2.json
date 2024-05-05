@@ -1,0 +1,48 @@
+{
+  "name": "Planetar Ear (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "system": {
+    "description": {
+      "value": "Planetar's are natural lie detectors, making their ear's highly sought after. Use: If a player is holding 2 planetar's ears, they have advantage on Wisdom (Insight) ability checks to detect lies. The ears lose their magic and become ineffective after two weeks.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Planetar"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977689,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cduhfIVHUHMZcxm6",
+  "sort": 0,
+  "_key": "!items!cduhfIVHUHMZcxm6"
+}

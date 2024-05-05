@@ -1,0 +1,48 @@
+{
+  "name": "Nycaloth Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "A nycaloth's horns vary in size and shape, but each horn helps the creature focus its innate arcane abilities. The horns can be carved into daggers or small trinkets, which can be enchanted by adept spellcasters.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Nycaloth"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977392,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "f6dpSoOpFjAXBp1w",
+  "sort": 0,
+  "_key": "!items!f6dpSoOpFjAXBp1w"
+}

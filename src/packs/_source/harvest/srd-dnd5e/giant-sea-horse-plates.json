@@ -1,0 +1,48 @@
+{
+  "name": "Giant Sea Horse Plates",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "A giant sea horse's body is made up of hard, external, bony plates that are fused together with a fleshy covering. The plates can be used to create hard, waterproof pieces of armor.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Sea Horse"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975875,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "M0mHyEwomGe8F0Yv",
+  "sort": 0,
+  "_key": "!items!M0mHyEwomGe8F0Yv"
+}

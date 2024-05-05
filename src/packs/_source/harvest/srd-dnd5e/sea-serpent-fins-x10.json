@@ -1,0 +1,48 @@
+{
+  "name": "Sea Serpent Fins (x10)",
+  "type": "loot",
+  "img": "icons/commodities/biological/fin-red-green.webp",
+  "system": {
+    "description": {
+      "value": "The fins of a young sea serpent have a variety of uses. Expert leatherworkers can create waterproof tarps, sails and clothing from the large fins. The fins are also used as an ingredient in various dishes, especially in oceanside villages and sea communities. The fins are also coated in a waxy substance that alchemists can use in potions and elixirs.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ancient Sea Serpent"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973671,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "PHxeqwMUBu8tztHu",
+  "sort": 0,
+  "_key": "!items!PHxeqwMUBu8tztHu"
+}

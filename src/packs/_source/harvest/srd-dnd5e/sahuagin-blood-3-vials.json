@@ -1,0 +1,48 @@
+{
+  "name": "Sahuagin Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A sahuagin has dark blue blood that smells of rancid seaweed. The blood is oxygen rich, and has many transformative properties, making it useful in the alchemy community.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Sahuagin Priestess"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977987,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qrtwkb7l9HuJoh6O",
+  "sort": 0,
+  "_key": "!items!qrtwkb7l9HuJoh6O"
+}

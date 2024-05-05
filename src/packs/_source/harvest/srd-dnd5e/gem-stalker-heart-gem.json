@@ -1,0 +1,48 @@
+{
+  "name": "Gem Stalker Heart Gem",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+  "system": {
+    "description": {
+      "value": "The heart of a gem stalker is actually a glowing crystal, about the size of a fist, that sings with psychic energy. The gem is prized by spellcasters, and often used by artificers as a small energy source.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Gem Stalker"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 80,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975734,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "AA52OGKvZewD3pl5",
+  "sort": 0,
+  "_key": "!items!AA52OGKvZewD3pl5"
+}

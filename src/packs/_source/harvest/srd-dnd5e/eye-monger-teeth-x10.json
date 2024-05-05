@@ -1,0 +1,48 @@
+{
+  "name": "Eye Monger Teeth (x10)",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-jaw-white.webp",
+  "system": {
+    "description": {
+      "value": "Eye monger teeth look like smooth, hard, oddly shaped rocks. They range from 6 inches to a foot long. They are prized by sculptures and some spellcasters.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Eye Monger"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975441,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xM12AEtq0ZGR5jGY",
+  "sort": 0,
+  "_key": "!items!xM12AEtq0ZGR5jGY"
+}

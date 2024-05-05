@@ -1,0 +1,48 @@
+{
+  "name": "Fire Snake Scales (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "These small, hard, red scales have a metallic sheen and are warm to the touch, even after the creature's death. The scales are often used to make cold-weather apparel. They can also be ground into a fine powder to make red-hued inks, paints and dyes.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Fire Snake"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975553,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CTiuvWPqrUOpRGql",
+  "sort": 0,
+  "_key": "!items!CTiuvWPqrUOpRGql"
+}

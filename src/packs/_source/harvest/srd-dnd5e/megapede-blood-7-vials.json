@@ -1,0 +1,48 @@
+{
+  "name": "Megapede Blood (7 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A remorhaz has dark-red blood swirling with motes of black sand-like grains. The blood is swirling with psychic energy, and is valued my spellcasters and alchemists.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Megapede"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977008,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Ohm01JaAteDe7TAu",
+  "sort": 0,
+  "_key": "!items!Ohm01JaAteDe7TAu"
+}

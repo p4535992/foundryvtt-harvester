@@ -1,0 +1,48 @@
+{
+  "name": "Slippery Boggle Oil (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A slippery viscous oil. Use: You may spend an action to cover your body with this oil. For 1 hour, you gain advantage on Dexterity (Acrobatics) checks made to escape bonds, squeeze through narrow spaces, and end grapples. Alternatively, you may spend an action to pour this oil on the ground, creating a 5 foot puddle for 1 hour. Any creature that enters the puddle's space or starts its turn there must succeed a Dexterity save (DC 11) or fall prone.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Boggle"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974226,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "8W5JPFSVWUv2yKzZ",
+  "sort": 0,
+  "_key": "!items!8W5JPFSVWUv2yKzZ"
+}

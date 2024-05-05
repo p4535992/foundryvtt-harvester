@@ -1,0 +1,48 @@
+{
+  "name": "Owlbear Feathers (large pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "An owlbear's feathers are light decorative plumage. The feathers are used in decorations, fans, apparel, arrows and bolts.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Owlbear"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977608,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ivPt9Fc19DgLhbrU",
+  "sort": 0,
+  "_key": "!items!ivPt9Fc19DgLhbrU"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Basilisk Eye (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "Basilisk eyes, which cause petrification, are highly desired by both alchemists and magic users. The eyes can be used to make potions related to petrification, or to aid in the enchantment of armor and weapons.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Basilisk"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974054,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1INgJTcjymT2sCEd",
+  "sort": 0,
+  "_key": "!items!1INgJTcjymT2sCEd"
+}

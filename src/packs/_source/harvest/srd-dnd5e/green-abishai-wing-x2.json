@@ -1,0 +1,48 @@
+{
+  "name": "Green Abishai Wing (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "The wings of an abishai produce a durable scaly leather. Once the creature is killed, the wings can rip easily, and must be removed with care. The leather can be used in tents, backpacks, clothing and other items.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Green Abishai"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976221,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "RZnYS0R2sITDtNNz",
+  "sort": 0,
+  "_key": "!items!RZnYS0R2sITDtNNz"
+}

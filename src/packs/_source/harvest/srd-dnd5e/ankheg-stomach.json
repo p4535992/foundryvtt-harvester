@@ -1,0 +1,48 @@
+{
+  "name": "Ankheg Stomach",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "The thick walls of an Ankheg's stomach can be used by magic users to create hardy bags, sacks and pouches.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ankheg"
+    },
+    "quantity": 1,
+    "weight": 9,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973726,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "VnzlNf5dZ7Wu5HzA",
+  "sort": 0,
+  "_key": "!items!VnzlNf5dZ7Wu5HzA"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Nilbog Essence",
+  "type": "loot",
+  "img": "icons/commodities/materials/glass-orb-teal.webp",
+  "system": {
+    "description": {
+      "value": "When a nilbog dies, the essence of the goblin deity lingers briefly before dispersing. It is possible to collect a piece of this essence, which is valued by spellcasters and summoners. Requires an enchanted bottle.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Nilbog"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977378,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cPXrqslh3NAxhsh9",
+  "sort": 0,
+  "_key": "!items!cPXrqslh3NAxhsh9"
+}

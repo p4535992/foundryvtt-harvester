@@ -1,0 +1,48 @@
+{
+  "name": "Lock of Storm Giant Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-gold.webp",
+  "system": {
+    "description": {
+      "value": "Long strands of strong hair, often green in color with a metallic sheen. The hair appears to be a conductor of electricity. Highly valued among tailors, weavers and textile makers. Artificers and tinkers will pay double for the hair.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Storm Giant"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978338,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NVbjnlTcFaE9gaaj",
+  "sort": 0,
+  "_key": "!items!NVbjnlTcFaE9gaaj"
+}

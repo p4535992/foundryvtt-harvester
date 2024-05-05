@@ -1,0 +1,48 @@
+{
+  "name": "Giant Shark Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A shark's skin is covered in small, rough, hard scales. Leatherworkers dry and treat the leather, then grind down the scales to make the leather smoother and easier to handle, giving it a pebbled appearance.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Shark"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975881,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qXJKznXmFOn33QeQ",
+  "sort": 0,
+  "_key": "!items!qXJKznXmFOn33QeQ"
+}

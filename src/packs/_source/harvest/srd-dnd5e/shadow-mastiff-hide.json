@@ -1,0 +1,48 @@
+{
+  "name": "Shadow Mastiff Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A shadow mastiff's dark hide is covered in soft, short coat of black fur. The hide is difficult to see in dim light, and nearly invisible in darkness. If harvested incorrectly, the fur disperses into a fine black mist, and the hide falls apart. The fur has a connection to the Shadowfell, and is useful in making dark apparel.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Shadow Mastiff Alpha"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978067,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vyUXlSLXSWGPmRLA",
+  "sort": 0,
+  "_key": "!items!vyUXlSLXSWGPmRLA"
+}

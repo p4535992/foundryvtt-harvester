@@ -1,0 +1,48 @@
+{
+  "name": "Ogre Fat (large pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "An Ogre has a thick layer of fat under its filthy skin. It can be difficult to cut away enough useful fat, depending on the harvester's skill. The fat can be used to make soaps and candles.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ogre Bolt Launcher"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977445,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xfPQL4AoIwJdf4Hq",
+  "sort": 0,
+  "_key": "!items!xfPQL4AoIwJdf4Hq"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Cave Fisher Carapace",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "Hard, milky white chitinous sheets, highly valued in subterranean societies. Used to make armor, weapons, tools and jewelry.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Cave Fisher"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974494,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yl676Gy28qGLuR8h",
+  "sort": 0,
+  "_key": "!items!yl676Gy28qGLuR8h"
+}

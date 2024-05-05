@@ -1,0 +1,48 @@
+{
+  "name": "Roper Tendril (x6)",
+  "type": "loot",
+  "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
+  "system": {
+    "description": {
+      "value": "A roper has 6 long, fleshy tendrils. An expert craftsman can stretch these tendrils and carefully comb them into long, thin fibers. These fibers are then soaked and treated with oils, making them useful filaments for creating ropes and whips.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Roper"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977934,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YRpCv8sRvX5e9kX1",
+  "sort": 0,
+  "_key": "!items!YRpCv8sRvX5e9kX1"
+}

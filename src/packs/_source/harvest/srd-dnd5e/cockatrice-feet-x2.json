@@ -1,0 +1,48 @@
+{
+  "name": "Cockatrice Feet (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/foot-black-grey.webp",
+  "system": {
+    "description": {
+      "value": "A cockatrice's feet are almost indistinguishable from chicken feet. Most butchers discard the feet, but the feet are edible.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Cockatrice"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974689,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KopFZrQbUmOR5y71",
+  "sort": 0,
+  "_key": "!items!KopFZrQbUmOR5y71"
+}

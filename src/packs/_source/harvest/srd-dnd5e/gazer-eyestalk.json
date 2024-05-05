@@ -1,0 +1,48 @@
+{
+  "name": "Gazer Eyestalk",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-tentacle-grey-orange.webp",
+  "system": {
+    "description": {
+      "value": "Gazer eyestalks are valued by magic users, enchanters and artificers. Once successfully harvested, roll 1d4 for the type of eyestalk received (1. Dazing, 2. Fear, 3. Frost, 4. Telekinetic). [See VGM p126 for more details on the Gazer]",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Gazer"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975719,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zJWOsQY99rzu4TKj",
+  "sort": 0,
+  "_key": "!items!zJWOsQY99rzu4TKj"
+}

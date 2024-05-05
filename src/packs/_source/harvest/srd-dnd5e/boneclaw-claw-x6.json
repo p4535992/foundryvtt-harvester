@@ -1,0 +1,48 @@
+{
+  "name": "Boneclaw Claw (x6)",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-brown-black.webp",
+  "system": {
+    "description": {
+      "value": "A boneclaw has two very large, skeletal hands, each with three long fingers ending in razor-sharp claws. Each claw is blackened-bone, over a foot long, often covered in dried blood. Weaponsmiths can make curved daggers from the claws. Craftsmen can also use the bones to make jewelry, decorations and other items. Each claw must be wrapped in enchanted paper or it will fade from existence in a few hours.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Boneclaw"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974261,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EmfESRYaKYHOVxoI",
+  "sort": 0,
+  "_key": "!items!EmfESRYaKYHOVxoI"
+}

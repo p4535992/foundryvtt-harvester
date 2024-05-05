@@ -1,0 +1,48 @@
+{
+  "name": "Naga Scales (3 pouches)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Each scale of a naga holds a tiny mote of power that spellcasters may be able to harness. The scales can also be used to make apparel and decorations. They can also be ground into a fine powder to make dyes and ink.",
+      "chat": "12"
+    },
+    "source": {
+      "custom": "Guardian Naga"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976306,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "XvD4aaPNV15IsCOq",
+  "sort": 0,
+  "_key": "!items!XvD4aaPNV15IsCOq"
+}

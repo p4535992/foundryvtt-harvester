@@ -1,0 +1,48 @@
+{
+  "name": "Goat Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A goat is covered in a thick coat fur, often white in color. The coat is primarily used in apparel and bedding.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Goat"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976130,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "syy1LDk76nCQuxte",
+  "sort": 0,
+  "_key": "!items!syy1LDk76nCQuxte"
+}

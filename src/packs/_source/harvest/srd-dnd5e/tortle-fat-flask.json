@@ -1,0 +1,48 @@
+{
+  "name": "Tortle Fat (flask)",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-jar-corked-glowing-blue.webp",
+  "system": {
+    "description": {
+      "value": "The fat of a tortle can be used to make a fine wax. The wax is used to make long-lasting candle and is sometimes used to temporarily fill gaps (and stop leaks).",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Tortle Druid"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978532,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oY6vba99CH4l6mXQ",
+  "sort": 0,
+  "_key": "!items!oY6vba99CH4l6mXQ"
+}

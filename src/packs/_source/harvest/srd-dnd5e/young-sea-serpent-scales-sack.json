@@ -1,0 +1,48 @@
+{
+  "name": "Young Sea Serpent Scales (sack)",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "A young sea serpent's scales are thin and flexible, with a slightly metallic shine. The scales can be used to make armor, apparel and jewelry.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Young Sea Serpent"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978991,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jGWkEfE6fZfqC2hN",
+  "sort": 0,
+  "_key": "!items!jGWkEfE6fZfqC2hN"
+}

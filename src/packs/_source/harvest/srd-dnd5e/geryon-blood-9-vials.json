@@ -1,0 +1,48 @@
+{
+  "name": "Geryon Blood (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Geryon's blood is reddish fluid with swirls of green chemical trails. The blood has both toxic and regenerative abilities, making it highly valued among alchemists. The blood is also extremely poisonous, and does not need to be refined in order to be used as a poison. It also doesn't expire or dry like most blood.Poison of Geryon: A creature can coat up to 3 pieces of ammunition or 1 melee weapon. Applying the poison takes an action. The poison lasts for 1 minute, or until a creature is exposed to the poison. Any creature successfully hit must succeed a DC 17 Constitution saving throw or suffer 2d12 poison damage and be poisoned until it finishes a short or long rest. This poison can sell for 300gp.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Geryon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975738,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FRCi1IEzdVcBR6IG",
+  "sort": 0,
+  "_key": "!items!FRCi1IEzdVcBR6IG"
+}

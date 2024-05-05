@@ -1,0 +1,48 @@
+{
+  "name": "Azer Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "An azer's skin is hardened bronze, often user by blacksmiths and armorers.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Azer"
+    },
+    "quantity": 1,
+    "weight": 50,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973880,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "PQJFo4yrV5nugg9k",
+  "sort": 0,
+  "_key": "!items!PQJFo4yrV5nugg9k"
+}

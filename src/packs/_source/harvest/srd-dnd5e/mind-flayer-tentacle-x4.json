@@ -1,0 +1,48 @@
+{
+  "name": "Mind Flayer Tentacle (x4)",
+  "type": "loot",
+  "img": "icons/commodities/biological/tentacle-purple-white.webp",
+  "system": {
+    "description": {
+      "value": "An illithid's tentacles are writhing with psionic energy. Each tentacle is a long strand of moist purple flesh, oozing with a sticky, clear mucus. The tentacle's fluids are useful to alchemists, and artificers may be able to find a use for the tentacles themselves.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Mind Flayer"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977085,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "7ug1dNoYvME5ezxz",
+  "sort": 0,
+  "_key": "!items!7ug1dNoYvME5ezxz"
+}

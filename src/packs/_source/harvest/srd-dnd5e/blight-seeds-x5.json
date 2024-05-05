@@ -1,0 +1,48 @@
+{
+  "name": "Blight Seeds (x5)",
+  "type": "loot",
+  "img": "icons/consumables/nuts/pistachios-nute-shell-green-white.webp",
+  "system": {
+    "description": {
+      "value": "These hard, dry, wrinkled seeds, about the size of a walnut, can often be found on dead blights. Once a seed is unnaturally plucked from a blight's body, the seed become sterile. Alchemists often use the seeds to create oils and potions. Some farmers can repurpose the seeds as a unique fertilizer.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Vine Blight"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978687,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rDrkInENKdgyH0Vd",
+  "sort": 0,
+  "_key": "!items!rDrkInENKdgyH0Vd"
+}

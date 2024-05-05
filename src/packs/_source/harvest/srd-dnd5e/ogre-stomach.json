@@ -1,0 +1,48 @@
+{
+  "name": "Ogre Stomach",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "Ogres are known to be voracious eaters, and have an enlarged, elastic stomach with a strong lining. Leatherworkers can treat and fashion larger than normal sack and bags. While these bags are larger (50% bigger), they do not increase a character's encumbrance.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ogre Battering Ram"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977442,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yfz8ByoTQtZngUFM",
+  "sort": 0,
+  "_key": "!items!yfz8ByoTQtZngUFM"
+}

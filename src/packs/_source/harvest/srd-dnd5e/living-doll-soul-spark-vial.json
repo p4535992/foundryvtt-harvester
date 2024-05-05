@@ -1,0 +1,48 @@
+{
+  "name": "Living Doll Soul Spark (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The spirit that animates a living doll dissipates quickly, but can be gathered using an enchanted vial. The essence is valued by artificers and magic users, especially necromancers. Requires an enchanted vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Living Doll"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976846,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yhy5jxu8Z349kpj7",
+  "sort": 0,
+  "_key": "!items!yhy5jxu8Z349kpj7"
+}

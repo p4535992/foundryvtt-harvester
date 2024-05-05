@@ -1,0 +1,48 @@
+{
+  "name": "Ettin Head (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-tusked-grey.webp",
+  "system": {
+    "description": {
+      "value": "The two large heads of an ettin, although often bickering with each other, subconsciously work together to move their massive form. This connection is valued in the research community, especially among artificers. Other than that, the heads are sometimes mounted as trophies.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ettin"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 80,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975435,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "HnZZY1CxA7bLLKgW",
+  "sort": 0,
+  "_key": "!items!HnZZY1CxA7bLLKgW"
+}

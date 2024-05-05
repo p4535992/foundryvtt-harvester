@@ -1,0 +1,48 @@
+{
+  "name": "Vrock Spores (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A vrock has the ability to release a cloud of toxic spores. These spores can be harvested quickly after a vrock's death. Use: The spores can be used to coat up to 5 pieces of ammunition or one slashing/piercing weapon. Applying the spores takes 1 action. The coated item is considered magical and any creature successfully hit by this weapon must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 1d10 poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Vrock"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978741,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "L7teictrD7stGKE7",
+  "sort": 0,
+  "_key": "!items!L7teictrD7stGKE7"
+}

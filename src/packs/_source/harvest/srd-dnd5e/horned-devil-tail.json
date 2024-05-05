@@ -1,0 +1,48 @@
+{
+  "name": "Horned Devil Tail",
+  "type": "loot",
+  "img": "icons/commodities/biological/tail-rodent-orange.webp",
+  "system": {
+    "description": {
+      "value": "The horned devil's snake-like tail has a menacing barb at the end, that has a hellish arcane bite. Weaponsmiths may be able to use the barb to help create deadly weapons.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Horned Devil"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 625,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976524,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hWDhn1Ik0ErKXOXE",
+  "sort": 0,
+  "_key": "!items!hWDhn1Ik0ErKXOXE"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Stench Kow Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "Once it is cleaned, the hide of Stench Kow can be crafted into soft, supple leather, which is used to create armor and apparel.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Stench Kow"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978287,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rXeM9I9E88EqnnYV",
+  "sort": 0,
+  "_key": "!items!rXeM9I9E88EqnnYV"
+}

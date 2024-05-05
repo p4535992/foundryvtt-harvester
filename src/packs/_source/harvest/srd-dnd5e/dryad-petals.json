@@ -1,0 +1,48 @@
+{
+  "name": "Dryad Petals",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Occasionally, a dryad sprouts beautiful flowers, with large round petals. They typically appear in the dryad's hair. The petals can be used by alchemists for potions, dyes and elixirs.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Dryad"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975227,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cZCaHqMXzrQx6mTO",
+  "sort": 0,
+  "_key": "!items!cZCaHqMXzrQx6mTO"
+}

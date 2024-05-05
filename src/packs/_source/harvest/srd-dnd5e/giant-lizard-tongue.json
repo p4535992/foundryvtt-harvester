@@ -1,0 +1,48 @@
+{
+  "name": "Giant Lizard Tongue",
+  "type": "loot",
+  "img": "icons/commodities/biological/tongue-red.webp",
+  "system": {
+    "description": {
+      "value": "A giant lizard's tongue is a long, rough, spongy slab of red flesh. The tongue is cooked and eaten by some desert communities. Alchemists and healers can use the tongue as an ingredient in some potions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Giant Lizard"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975848,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9Hh32B8LLXiUUVVb",
+  "sort": 0,
+  "_key": "!items!9Hh32B8LLXiUUVVb"
+}

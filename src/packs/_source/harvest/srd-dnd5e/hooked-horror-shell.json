@@ -1,0 +1,48 @@
+{
+  "name": "Hooked Horror Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-turtle-grey.webp",
+  "system": {
+    "description": {
+      "value": "A hooked horror has an insect-like exoskeleton studded by sharp, bony protuberances. It is possible to remove the back shell, but it takes time and care. The hard shell can be used by armorers and craftsmen.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Hooked Horror"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976508,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yfM8feahr1f4dF7D",
+  "sort": 0,
+  "_key": "!items!yfM8feahr1f4dF7D"
+}

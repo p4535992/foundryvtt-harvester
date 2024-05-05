@@ -1,0 +1,48 @@
+{
+  "name": "Giant Goat Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "A giant goat's horn is used for protection and to help the goat regulate its body temperature. The horn can be used to make a large drinking horn, or in the creation of an instrument called a Bukkehorn.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Giant Goat"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975836,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "C45fzqIgzXhpHVcn",
+  "sort": 0,
+  "_key": "!items!C45fzqIgzXhpHVcn"
+}

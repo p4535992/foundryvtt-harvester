@@ -1,0 +1,48 @@
+{
+  "name": "Zaratan Elemental Essence (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When zaratan is slain, the gargantuan creature breaks apart, crumbling to pieces, often causing a landslide of rock and earth. Some of this debris contains traces of elemental energy that can be harnessed using a magical container (if they can be found). Requires an enchanted vial.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Zaratan"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174979074,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "o9hnY597RXtdXQGX",
+  "sort": 0,
+  "_key": "!items!o9hnY597RXtdXQGX"
+}

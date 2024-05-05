@@ -1,0 +1,48 @@
+{
+  "name": "Peryton Feathers (large pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A peryton is covered in a lush coat of soft feather, of various colors. The feathers can be used in apparel, decorations, bedding, arrows and bolts.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Peryton"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977639,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "2bvOS1AuRBYrLW6p",
+  "sort": 0,
+  "_key": "!items!2bvOS1AuRBYrLW6p"
+}

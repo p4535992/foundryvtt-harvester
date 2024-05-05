@@ -1,0 +1,48 @@
+{
+  "name": "Angry Sorrowsworn Hooks",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-brown-black.webp",
+  "system": {
+    "description": {
+      "value": "Angry sorrowsworn have bone hooks instead of hands. These hooks are as strong as steel, and highly valued amongst craftsmen. Others file the hooks down, and use the dust for potions and spells.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Angry Sorrowsworn"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 300,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973709,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "42YmvQqttlflk4q1",
+  "sort": 0,
+  "_key": "!items!42YmvQqttlflk4q1"
+}

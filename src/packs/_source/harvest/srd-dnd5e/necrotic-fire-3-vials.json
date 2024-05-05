@@ -1,0 +1,48 @@
+{
+  "name": "Necrotic Fire (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A shadow dragon exhales a shadowy cone of necrotic fire. If harvested quickly, some of these flames may still reside in the dragons throat. Using an enchanted vial, the flames can be \"\"pulled\"\" into the vial. Magic users, especially those who study the shadow realm, prize this item. Requires an enchanted vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Young Red Shadow Dragon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978964,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EbSSuVBprIaJ4DK0",
+  "sort": 0,
+  "_key": "!items!EbSSuVBprIaJ4DK0"
+}

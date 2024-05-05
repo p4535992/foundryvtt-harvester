@@ -1,0 +1,48 @@
+{
+  "name": "Roc Feathers (5 large pouches)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A rock has a large collection of feathers of a variety of colors. While the feathers appear too large for common crafting, the soft bristles of the feathers can be removed and used in most items.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Roc"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977893,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5PBFYIQrqHIOUXIY",
+  "sort": 0,
+  "_key": "!items!5PBFYIQrqHIOUXIY"
+}

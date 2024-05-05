@@ -1,0 +1,48 @@
+{
+  "name": "Sea Serpent Blood (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A sea serpent's blood is reddish-purple, and smells like salt water. The blood has some alchemical properties, but is often used to flavor certain seafood dishes.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Ancient Sea Serpent"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973666,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IMW3lE8sc5yW83eV",
+  "sort": 0,
+  "_key": "!items!IMW3lE8sc5yW83eV"
+}

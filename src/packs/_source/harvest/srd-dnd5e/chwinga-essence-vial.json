@@ -1,0 +1,48 @@
+{
+  "name": "Chwinga Essence (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When a chwinga is killed, it's elemental form disperses, temporarily leaving behind a small amount of wispy mist. If harvested quickly, this smokey vapor can be collected. It is prized by spellcasters and those that study the arcane. Requires an enchanted vial.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Chwinga"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974624,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YwcikPZuGRjAcGZB",
+  "sort": 0,
+  "_key": "!items!YwcikPZuGRjAcGZB"
+}

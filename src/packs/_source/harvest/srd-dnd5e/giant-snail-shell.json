@@ -1,0 +1,48 @@
+{
+  "name": "Giant Snail Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-turtle-grey.webp",
+  "system": {
+    "description": {
+      "value": "The large shell of a giant snail is extremely heavy, even after it is hollowed out. The shell can be repurposed for armor, or used as a tiny shelter.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Snail"
+    },
+    "quantity": 1,
+    "weight": 60,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975889,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "7lq0ORxPgMUGq4dj",
+  "sort": 0,
+  "_key": "!items!7lq0ORxPgMUGq4dj"
+}

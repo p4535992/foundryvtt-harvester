@@ -1,0 +1,48 @@
+{
+  "name": "Giant Toad Slime (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A giant toad's skin is covered by a thin layer of clear, viscous slime. The slime has a variety of medicinal properties. The slime on some toads can cause hallucinations.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Toad"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975921,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IWv7z2Awp7yH7GqR",
+  "sort": 0,
+  "_key": "!items!IWv7z2Awp7yH7GqR"
+}

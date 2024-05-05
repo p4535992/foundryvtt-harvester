@@ -1,0 +1,48 @@
+{
+  "name": "Tlincalli Chitin",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "The exoskeleton of a tlincalli is made of hard, durable chitinous plates. If harvesting fails, the harvester is just unable to pry the plates loose from the creature's large carcass. Armorers can use the plates to make useful pieces of armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Tlincalli"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978520,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KznFYqw0sBYccmTs",
+  "sort": 0,
+  "_key": "!items!KznFYqw0sBYccmTs"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shoosuva Spike",
+  "type": "loot",
+  "img": "icons/commodities/bones/tooth-spiked-brown.webp",
+  "system": {
+    "description": {
+      "value": "Running down a Shoosuva's spine are a series of bony ridges. These ridges are extremely hard and razor sharp. Adept weaponsmiths may be able to craft something useful from these spikes.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Shoosuva"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978086,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bAQMnokHooayXc59",
+  "sort": 0,
+  "_key": "!items!bAQMnokHooayXc59"
+}

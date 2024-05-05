@@ -1,0 +1,48 @@
+{
+  "name": "Dragon Wyrmling Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A dragon wyrmling's blood does not have the same arcane properties as old dragons, but they blood is still useful to alchemist and artificers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dragon Wyrmling"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975089,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fsq3bQQ8j11Kp4Rc",
+  "sort": 0,
+  "_key": "!items!fsq3bQQ8j11Kp4Rc"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Giant Vulture Talons (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A giant vulture's talons are sharp and curved, used for grasping and clawing at prey. They are several inches long. Most are used in jewelry and decorations. The longer talons can make hooked daggers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Vulture"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 8,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975930,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "lu7HNnPGYmZAnu5J",
+  "sort": 0,
+  "_key": "!items!lu7HNnPGYmZAnu5J"
+}

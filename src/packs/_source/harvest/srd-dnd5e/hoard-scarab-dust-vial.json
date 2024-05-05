@@ -1,0 +1,48 @@
+{
+  "name": "Hoard Scarab Dust (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Hoard scarabs produce a sticky, glittering metallic dust from their wings. The sticky glitter is difficult to collect. The dust has arcane properties and is valued by alchemists, often aiding in the creation of potions and elixirs involving light and tracking.Harvesting the dust from one hoard scarab yields one vial of dust. 5 vials contain enough dust to fill a pouch.Use: A pouch of this dust may be thrown up to 20 feet and the pouch explodes upon impact. Any creature within 10 feet of impact must roll a DC 13 Dexterity saving throw or be outlined in blue light for 10 minutes. While outlined in this way, a creature sheds dim light in a 10-foot radius and can't benefit from being invisible.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Hoard Scarab"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976468,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "T4qqcADQWWXYExRd",
+  "sort": 0,
+  "_key": "!items!T4qqcADQWWXYExRd"
+}

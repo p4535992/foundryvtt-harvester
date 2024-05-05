@@ -1,0 +1,48 @@
+{
+  "name": "Orthon Ash (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When an orthon drops under 16 hit points, it explodes. Before the ashes scatter, it may be possible to harvest some of these burnt remains. Due to the creatures various abilities and resistances, the ashes have many alchemical properties.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Orthon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977594,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yv6L10v2axW2mFOb",
+  "sort": 0,
+  "_key": "!items!yv6L10v2axW2mFOb"
+}

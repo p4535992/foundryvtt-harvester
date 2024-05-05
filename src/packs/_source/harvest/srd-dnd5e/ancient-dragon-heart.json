@@ -1,0 +1,48 @@
+{
+  "name": "Ancient Dragon Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The dragons heart holds a great deal of power, but only retains that power for a short time. Although rare, some magic users may be able to capture that power, transforming the heart into an arcane relic.",
+      "chat": "30"
+    },
+    "source": {
+      "custom": "Ancient Dragon"
+    },
+    "quantity": 1,
+    "weight": 60,
+    "price": {
+      "value": 20000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973662,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "MiUfYsRKU9qyCtBb",
+  "sort": 0,
+  "_key": "!items!MiUfYsRKU9qyCtBb"
+}

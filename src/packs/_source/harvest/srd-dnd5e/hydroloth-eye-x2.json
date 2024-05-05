@@ -1,0 +1,48 @@
+{
+  "name": "Hydroloth Eye (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "The squishy eyes of a Hydroloth are used to create salves and unguents. Alchemists and healers tend to buy these when available.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Hydroloth"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976576,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6NBfIxIpyoAQaPnW",
+  "sort": 0,
+  "_key": "!items!6NBfIxIpyoAQaPnW"
+}

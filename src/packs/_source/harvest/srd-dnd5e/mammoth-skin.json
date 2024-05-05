@@ -1,0 +1,48 @@
+{
+  "name": "Mammoth Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The large hide of an elephant is covered in a thick coat of brown fur. The hide is primarily used to make blankets, bedding and apparel.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Mammoth"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 8,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976923,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "usKwh4fuXkDhJ2P7",
+  "sort": 0,
+  "_key": "!items!usKwh4fuXkDhJ2P7"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Feyr Saliva (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The bite of a Feyr is known to cause fear. The creature's saliva is valued by alchemists, witches and other spellcasters for the creation of fear-based potions and spells.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Feyr"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975503,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EKE0v58s98egK6l4",
+  "sort": 0,
+  "_key": "!items!EKE0v58s98egK6l4"
+}

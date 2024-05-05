@@ -1,0 +1,48 @@
+{
+  "name": "Mark or Gruumsh",
+  "type": "loot",
+  "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+  "system": {
+    "description": {
+      "value": "An orc warchief is often marked with the symbol of Gruumsh (a triangular eye with bony protrusions). The tattoo is commonly found on its forearm or pectoral muscle. Harvesting the item requires flaying the skin under the mark, in one piece. The mark retains a connection to the deity, and is valued by many spellcasters. Healers and potion makers may find the mark useful for the alchemical properties of the tattooed skin.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Orc War Chief"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977568,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xVNkkHo6vBmKP5Bm",
+  "sort": 0,
+  "_key": "!items!xVNkkHo6vBmKP5Bm"
+}

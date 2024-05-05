@@ -1,0 +1,48 @@
+{
+  "name": "Vampire Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The dark heart of a vampire is a black hole of necrotic power, slowly draining the life essence from everything around it. Harvesting requires extracting the heart and then performing a ritual to temporarily contain the heart's power. Spellcaster can use the heart to fuel powerful rituals and create magic items.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Vampire"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 10000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978644,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "R32ewLw3dr2xo6Oj",
+  "sort": 0,
+  "_key": "!items!R32ewLw3dr2xo6Oj"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Abominable Yeti Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "An abominable yeti has two pointy, curved, dark blue horns that extend backward from the sides of its forehead, just above its ears. The horns always seem to be cold, even after they are removed from the yeti. Some weaponsmiths can carve the horns into curved swords. Others value the item because they can be fashioned into small kegs that keep liquids cool.",
+      "chat": "12"
+    },
+    "source": {
+      "custom": "Abominable Yeti"
+    },
+    "quantity": 1,
+    "weight": 13,
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973510,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "udJ0hpUkHnbZMu5q",
+  "sort": 0,
+  "_key": "!items!udJ0hpUkHnbZMu5q"
+}

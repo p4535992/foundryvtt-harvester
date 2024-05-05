@@ -1,0 +1,48 @@
+{
+  "name": "Sahuagin Egg Clutch (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Only female sahuagin are deemed worthy of channeling the shark god Sekolah's power. It may be possible that a sahuagin priestess has various opaque, spongy egg sacs stuck to her back. The eggs are always unfertilized, as fertilized eggs are removed and taken to a hatchery. The eggs are a delicacy in some coastal cities, but are also used in potions and fertility rituals.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Sahuagin Priestess"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977990,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "3cH8B2TdGr57a8wA",
+  "sort": 0,
+  "_key": "!items!3cH8B2TdGr57a8wA"
+}

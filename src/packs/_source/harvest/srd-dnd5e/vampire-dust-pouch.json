@@ -1,0 +1,48 @@
+{
+  "name": "Vampire Dust (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Vampire dust is all that remains when a vampire dies in direct sunlight. This dust is highly valued among necromancers and alchemists.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Vampire"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978634,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NQB90wEm1zLrTlj4",
+  "sort": 0,
+  "_key": "!items!NQB90wEm1zLrTlj4"
+}

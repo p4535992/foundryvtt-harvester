@@ -1,0 +1,48 @@
+{
+  "name": "Vines (small bundle)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Sturdier and more flexible than regular vines. These vines can be stripped down to their fibers to make 10' of rope (DC 14 Survival check).",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Vine Blight"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978684,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YeAPFrJpLPF2osjL",
+  "sort": 0,
+  "_key": "!items!YeAPFrJpLPF2osjL"
+}

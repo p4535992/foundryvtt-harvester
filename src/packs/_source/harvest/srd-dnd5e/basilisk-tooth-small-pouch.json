@@ -1,0 +1,48 @@
+{
+  "name": "Basilisk Tooth (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Basilisk use their teeth to crunch and grind stone. As such, their teeth are extremely hard and sharp. Basilisk teeth are prized for use in tools and weapons.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Basilisk"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974051,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "kYk0lhLAlMF3pIKP",
+  "sort": 0,
+  "_key": "!items!kYk0lhLAlMF3pIKP"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bugbear Ears (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "system": {
+    "description": {
+      "value": "Two pointy, leather ears. Some towns offer a bounty for these ears.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Bugbear"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974335,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uuwjiBGBg3e5lrBv",
+  "sort": 0,
+  "_key": "!items!uuwjiBGBg3e5lrBv"
+}

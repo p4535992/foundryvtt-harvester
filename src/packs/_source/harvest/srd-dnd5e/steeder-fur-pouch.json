@@ -1,0 +1,48 @@
+{
+  "name": "Steeder Fur (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A steeder's body is covered in a fine fur. This fur can be collected and is often used to fill pillows and mattresses. If enough fur is collected, it may be used for clothing and apparel. The fur also has some alchemical properties.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Male Steeder"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976914,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "lJVhZMt97vH6dln0",
+  "sort": 0,
+  "_key": "!items!lJVhZMt97vH6dln0"
+}

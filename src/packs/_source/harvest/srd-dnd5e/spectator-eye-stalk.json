@@ -1,0 +1,48 @@
+{
+  "name": "Spectator Eye Stalk",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "Spectator eyestalks are valued by magic users, enchanters and artificers. Once successfully harvested, roll 1d4 for the type of eyestalk received (1. Confusion, 2. Paralyzing, 3. Fear, 4. Wounding). [see MM p30 for more details on the Spectator]",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Spectator"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978177,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5Cv8DyySdsHAk4uI",
+  "sort": 0,
+  "_key": "!items!5Cv8DyySdsHAk4uI"
+}

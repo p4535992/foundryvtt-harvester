@@ -1,0 +1,48 @@
+{
+  "name": "Hutijin's Larynx",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Hutijin's Larynx is capable of producing a fearful voice to make his enemies tremble. The larynx must be carefully cut away, without tearing the vocal cords within. The larynx can be used by skilled instrument makers and artificers.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Hutijin"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 6000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976558,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zUNdXeP4a5Y7kOL1",
+  "sort": 0,
+  "_key": "!items!zUNdXeP4a5Y7kOL1"
+}

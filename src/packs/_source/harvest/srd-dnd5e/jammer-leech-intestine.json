@@ -1,0 +1,48 @@
+{
+  "name": "Jammer Leech Intestine",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-intestines-red.webp",
+  "system": {
+    "description": {
+      "value": "A jammer leech slowly absorbs magic from whatever it is attached to through it's uniquely made intestines. These tiny intestines act as a sponge for arcane power. While too small to cause any noticeable effects, they are still valued by spellcasters.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Jammer Leech"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976675,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ORaXUP8UJT70IXO3",
+  "sort": 0,
+  "_key": "!items!ORaXUP8UJT70IXO3"
+}

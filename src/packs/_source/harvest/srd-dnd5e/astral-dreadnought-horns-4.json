@@ -1,0 +1,48 @@
+{
+  "name": "Astral Dreadnought Horns (4)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "An Astral Dreadnought's head is covered in many hard, bone-like protrusions. These large bones are difficult to harvest, considering their size. Cutting into the bone is difficult, and can fracture the item, making it useless. Expert craftsmen can carve the horns down into many shapes and sizes, including weapons and armor.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Astral Dreadnought"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973824,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ETStRIHOFB1hJgvE",
+  "sort": 0,
+  "_key": "!items!ETStRIHOFB1hJgvE"
+}

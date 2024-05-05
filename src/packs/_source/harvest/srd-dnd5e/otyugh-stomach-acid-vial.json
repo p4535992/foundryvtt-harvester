@@ -1,0 +1,48 @@
+{
+  "name": "Otyugh Stomach Acid (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "An Otyugh's stomach acid is so exceptionally corrosive, that it can safely digest carrion and disease infested flesh. To harvest the item successfully, the stomach must be cut open without exposing the acid to blood. The stomach acid is useful to alchemists.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Otyugh"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977601,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ctl1uzNZROSdaXTc",
+  "sort": 0,
+  "_key": "!items!ctl1uzNZROSdaXTc"
+}

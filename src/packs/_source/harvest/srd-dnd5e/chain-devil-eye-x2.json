@@ -1,0 +1,48 @@
+{
+  "name": "Chain Devil Eye (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A chain devil's eyes have an unnerving ability to incite fear, as well as the power to see through magical darkness. Artificers and magic users find this item useful in their endeavors.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Chain Devil"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 300,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974520,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "I6i5HK5yShE0VYWB",
+  "sort": 0,
+  "_key": "!items!I6i5HK5yShE0VYWB"
+}

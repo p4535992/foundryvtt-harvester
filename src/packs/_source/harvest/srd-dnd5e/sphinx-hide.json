@@ -1,0 +1,48 @@
+{
+  "name": "Sphinx Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A sphinx has a soft hide of short fur (usually golden in color). The beautiful hide swirls with protective magic, and is valued among leatherworkers, tailors and spellcasters.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Gynosphinx"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 3000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976350,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "gQavb6VlbuttmiLH",
+  "sort": 0,
+  "_key": "!items!gQavb6VlbuttmiLH"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Skull Lord Dust (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "When a skull lord is destroyed, its skeletal form crumbles to ash. The ash is valuable to alchemists and spellcasters (especially artificers and necromancers).",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Skull Lord"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978118,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NB2lepV3m8kJzhDp",
+  "sort": 0,
+  "_key": "!items!NB2lepV3m8kJzhDp"
+}

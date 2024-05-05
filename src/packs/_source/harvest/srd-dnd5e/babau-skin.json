@@ -1,0 +1,48 @@
+{
+  "name": "Babau Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A babau's skin is surprisingly strong, yet extremely thin, making it very difficult to harvest. If properly treated, the skin can be crafted into magical sheets of vellum, prized by magic users.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Babau"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973935,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "73SwM1anOksndiUE",
+  "sort": 0,
+  "_key": "!items!73SwM1anOksndiUE"
+}

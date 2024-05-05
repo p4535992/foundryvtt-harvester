@@ -1,0 +1,48 @@
+{
+  "name": "Steel Predator Amplifier",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Steel predators are capable of emitting a stunning roar. Inside the constructs throat is a small mechanical device that, when powered, amplifies their roar. The device becomes useless once the creature drops below 0 hit points, but is considered valuable among artificers, tinkerers and inventors.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Steel Predator"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978274,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "RjYtNy6XZXduY4ed",
+  "sort": 0,
+  "_key": "!items!RjYtNy6XZXduY4ed"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dragonbone Golem Remains",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The remains of a dragonbone golem includes dragon bones and thick adamantine wire. The bones still retain arcane energy, and the wire is valued for the adamantine. The bones can be used to make a variety of tools and weapons. The bones can also be ground into dust and used as an ingredient in alchemists potions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dragonbone Golem"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975107,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vNvRCnxYBLKxjkeB",
+  "sort": 0,
+  "_key": "!items!vNvRCnxYBLKxjkeB"
+}

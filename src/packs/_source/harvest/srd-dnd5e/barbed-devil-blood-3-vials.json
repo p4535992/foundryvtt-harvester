@@ -1,0 +1,48 @@
+{
+  "name": "Barbed Devil Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Barbed devils have the ability to hurl fire, an arcane power that runs through their very blood. Alchemists use the blood in the creation of various concoctions.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Barbed Devil"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 14,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974014,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5hJx6anUTrayXEjR",
+  "sort": 0,
+  "_key": "!items!5hJx6anUTrayXEjR"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Nagpa Hair (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A nagpa has scattered patches of long, hard, black bristles sticking out of its body. Spellcasters and researchers often use these pointing hairs as writing implements. Craftsmen may use the hairs as needles and thin supports for fabric and other lightweight materials.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Nagpa"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977258,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "tBmzlOfO4AB2GLAx",
+  "sort": 0,
+  "_key": "!items!tBmzlOfO4AB2GLAx"
+}

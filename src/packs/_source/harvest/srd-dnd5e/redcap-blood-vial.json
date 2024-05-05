@@ -1,0 +1,48 @@
+{
+  "name": "Redcap Blood (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A redcap's blood is infused with dark fey energy. The blood is dark red, almost black. The blood can be used in potions and summonings, but is especially valued by anyone studying the connection between the feywild and the prime material plane.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Redcap"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977838,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "4yIaOu53JsFsaNpL",
+  "sort": 0,
+  "_key": "!items!4yIaOu53JsFsaNpL"
+}

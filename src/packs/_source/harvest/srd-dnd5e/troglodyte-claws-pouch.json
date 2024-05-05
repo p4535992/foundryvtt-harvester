@@ -1,0 +1,48 @@
+{
+  "name": "Troglodyte Claws (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A troglodyte has long, sharp claws on their enormous hands, each several inches long. The claws can be used to make small weapons and tools.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Troglodyte"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 8,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978555,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "agHGBvwkJQ52C90m",
+  "sort": 0,
+  "_key": "!items!agHGBvwkJQ52C90m"
+}

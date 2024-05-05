@@ -1,0 +1,48 @@
+{
+  "name": "Ki-rin Horn",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "A ki'rin's horn appears to be made of pure gold and radiates with arcane energy. The horn is exceptionally strong, yet easily malleable to an expert craftsman. It can be forged into a variety of items, including weapons and tools.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Ki-rin"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976705,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UGpwzlPrcvl8G17T",
+  "sort": 0,
+  "_key": "!items!UGpwzlPrcvl8G17T"
+}

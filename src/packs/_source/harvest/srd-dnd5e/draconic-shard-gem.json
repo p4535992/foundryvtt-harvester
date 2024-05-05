@@ -1,0 +1,48 @@
+{
+  "name": "Draconic Shard Gem",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+  "system": {
+    "description": {
+      "value": "When a draconic shard is slain, or the object that it inhabits is destroyed, a draconic shard leaves behind a cracked gemstone. This gemstone is valued by anyone interested in psionics or studying dragons. And even though the gemstone is cracked, jewelers will still purchase the large, 6-inch gem.DM Note: Only a successful DC 15 Arcana check will reveal that the cracked gemstone is actually holding the spirit of the gem dragon, while it slowly regains strength. The only way to completely destroy the dragonic shard is to destroy this gem holding it.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Draconic Shard"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975057,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vISMTql8FlhGQ4QI",
+  "sort": 0,
+  "_key": "!items!vISMTql8FlhGQ4QI"
+}

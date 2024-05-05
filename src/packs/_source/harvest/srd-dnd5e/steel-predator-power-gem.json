@@ -1,0 +1,48 @@
+{
+  "name": "Steel Predator Power Gem",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+  "system": {
+    "description": {
+      "value": "Embedded in the chest of a steel predator is a large, glowing yellow gem. The gem is warm and radiates with arcane power. The core is useful to artificers and other spellcasters.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Steel Predator"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978276,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bhnXGwlGtrK4oHQN",
+  "sort": 0,
+  "_key": "!items!bhnXGwlGtrK4oHQN"
+}

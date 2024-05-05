@@ -1,0 +1,48 @@
+{
+  "name": "Iron Golem Iron Scrap",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The iron used to make an iron golem is magically infused and very valuable to expert craftsmen. This magic iron can be reforged to make various weapons and armor.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Iron Golem"
+    },
+    "quantity": 1,
+    "weight": 45,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976649,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "tvAs2BRzbbbUrAlI",
+  "sort": 0,
+  "_key": "!items!tvAs2BRzbbbUrAlI"
+}

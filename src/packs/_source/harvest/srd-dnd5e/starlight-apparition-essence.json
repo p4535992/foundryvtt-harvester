@@ -1,0 +1,48 @@
+{
+  "name": "Starlight Apparition Essence",
+  "type": "loot",
+  "img": "icons/commodities/materials/glass-orb-teal.webp",
+  "system": {
+    "description": {
+      "value": "When a starlight apparition is destroyed, it bursts into a harmless explosion of tiny motes of light. Before these tiny lights disappear, it may be possible to collect several in an enchanted container. It is believed that these lights may be useful to a holy person trying to communicate with a god. Requires an enchanted vial.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Starlight Apparition"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978263,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cPHsXZSBWrwqs5x1",
+  "sort": 0,
+  "_key": "!items!cPHsXZSBWrwqs5x1"
+}

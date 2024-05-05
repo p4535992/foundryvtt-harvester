@@ -1,0 +1,48 @@
+{
+  "name": "Howler Claws (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The long, black claws of a Howler are extremely sharp and strong. The bone can be used in jewelry, decorations or to create small weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Howler"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976532,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rYnTwmmeXMMHHrZE",
+  "sort": 0,
+  "_key": "!items!rYnTwmmeXMMHHrZE"
+}

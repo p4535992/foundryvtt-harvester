@@ -1,0 +1,48 @@
+{
+  "name": "Elder Brain Dragon Pineal Gland",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-black.webp",
+  "system": {
+    "description": {
+      "value": "The pineal gland is believed to be the heart of the elder brain dragon's psionic power. The gland is a pea-shaped mound of soft, maroon flesh, about the size of a basketball. The gland is a psionic focal point, and can be used to enhance psionic power.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Elder Brain Dragon"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 6000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975360,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "erhpSVMAYtmZpjP0",
+  "sort": 0,
+  "_key": "!items!erhpSVMAYtmZpjP0"
+}

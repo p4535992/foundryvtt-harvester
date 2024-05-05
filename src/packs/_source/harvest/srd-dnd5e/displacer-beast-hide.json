@@ -1,0 +1,48 @@
+{
+  "name": "Displacer Beast Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A displacer beasts innate ability to illusory shift its location is tied to the blue-black hide. Incorrectly skinning the beast can destroy the skins magical properties. Clothes and apparel can be made with the hide, but the true power is unlocked when the fabric is placed in the hands of an artificer or enchanter.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Displacer Beast"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974963,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "h474WBlZZmrfHTrv",
+  "sort": 0,
+  "_key": "!items!h474WBlZZmrfHTrv"
+}

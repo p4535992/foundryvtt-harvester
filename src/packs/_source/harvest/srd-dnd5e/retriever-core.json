@@ -1,0 +1,48 @@
+{
+  "name": "Retriever Core",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "Embedded inside the body of a retriever is a steel orb, swirling with dark magic. The orb is useful to artificers, tinkerers, inventors and other spellcasters.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Retriever"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977869,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hR8oSd2LUoQ1ZcmI",
+  "sort": 0,
+  "_key": "!items!hR8oSd2LUoQ1ZcmI"
+}

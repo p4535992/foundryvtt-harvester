@@ -1,0 +1,48 @@
+{
+  "name": "Hollow Dragon Ash",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "system": {
+    "description": {
+      "value": "When a hollow dragon is slain, the energy that fills the hollow husk of the dragon surges and then is sucked inward, and the creature's body quickly disintegrates to ash. Depending on the metallic dragon type, this surge appears as a fiery burst, a surge of electricity, or a cloud of misty vapor. This ash is quickly dispersed by a small breeze, so it can be difficult to collect. The ash has alchemical and arcane value.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Hollow Dragon"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976499,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "SalFF7BvKKg2wGBn",
+  "sort": 0,
+  "_key": "!items!SalFF7BvKKg2wGBn"
+}

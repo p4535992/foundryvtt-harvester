@@ -1,0 +1,48 @@
+{
+  "name": "Storm Giant Sternum",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "A storm giant's sternum (the long flat bone located in the central part of the chest) has a natural metal filling, making it an ideal conductor of electricity. The storm giant uses the sternum to focus its innate magical abilities. Smiths can use the bone to make weapons. Tinkerers and artificers use the item for its electrical properties.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Storm Giant Quintessent"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978354,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jM0hlE4g5cE5ZW0v",
+  "sort": 0,
+  "_key": "!items!jM0hlE4g5cE5ZW0v"
+}

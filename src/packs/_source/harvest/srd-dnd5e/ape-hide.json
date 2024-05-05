@@ -1,0 +1,48 @@
+{
+  "name": "Ape Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "An adult ape's hide can provide an adequate source of dark leather. Once removed from the corpse, typically with a skinning knife, the hide ranges from 4-6 feet long.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ape"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973774,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hXolfwIGH6OkVLHs",
+  "sort": 0,
+  "_key": "!items!hXolfwIGH6OkVLHs"
+}

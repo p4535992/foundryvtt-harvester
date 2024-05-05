@@ -1,0 +1,48 @@
+{
+  "name": "Stone Giant Blood (7 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A stone giant's blood is a thick, viscous liquid, a slightly darker color than the stone giant's skin. The blood must be harvested quickly as it hardens into stone when exposed to air. The blood has many alchemical and medicinal uses.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Stone Giant"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 80,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978310,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Puz3wYfqoCF4wFuB",
+  "sort": 0,
+  "_key": "!items!Puz3wYfqoCF4wFuB"
+}

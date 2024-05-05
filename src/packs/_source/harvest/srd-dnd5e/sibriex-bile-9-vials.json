@@ -1,0 +1,48 @@
+{
+  "name": "Sibriex Bile (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The sibriex excretes a disgusting combination of blood, puss and bile. This revolting fluid drips down from it's floating bulbous form. The bile contains a mix of demonic fluids, all of which are valuable to a proficient alchemist. It is rumored that the fluid can be used to cause mutations.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Sibriex"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978097,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OHRE1CWcsR4y9hZY",
+  "sort": 0,
+  "_key": "!items!OHRE1CWcsR4y9hZY"
+}

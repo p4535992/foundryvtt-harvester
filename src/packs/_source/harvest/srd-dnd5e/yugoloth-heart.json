@@ -1,0 +1,48 @@
+{
+  "name": "Yugoloth Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A Yugoloth's heart is a red ball of flesh strewn with dark veins. The heart has strong ties to the yogoloth's home plane of Gehenna, and is valued among summoners and anyone that studies the Outer Planes. The heart is rumored to have the ability to teleport creatures to Gehenna.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ultraloth"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978596,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pcGIHUoJYLoHmZej",
+  "sort": 0,
+  "_key": "!items!pcGIHUoJYLoHmZej"
+}

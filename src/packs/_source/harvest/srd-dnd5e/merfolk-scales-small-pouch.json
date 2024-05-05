@@ -1,0 +1,48 @@
+{
+  "name": "Merfolk Scales (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Merfolk scales appear blue-green underwater, but have a rainbow sheen when brought to the surface. The small scales are useful when creating jewelry, decorations, and apparel. Some dyers and alchemists use the scales to create a variety of colorful dyes and paints.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Merfolk"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977030,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Gl8JjTE9W34Vgppo",
+  "sort": 0,
+  "_key": "!items!Gl8JjTE9W34Vgppo"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Fraz-Urb'luu's Hair (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The hair of Fraz-Urb'luu frames the sides of its large face, much like a dirty beard. The hair is swirling with arcane energy, mainly from the school of illusion. The hair is prized by illusionist and other spellcasters, and can be used in potions and elixirs that cause hallucinogenic visions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Fraz-Urb'luu"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975621,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ApdppAtsfryXSFPS",
+  "sort": 0,
+  "_key": "!items!ApdppAtsfryXSFPS"
+}

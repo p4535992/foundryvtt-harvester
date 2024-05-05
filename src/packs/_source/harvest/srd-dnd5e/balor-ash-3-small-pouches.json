@@ -1,0 +1,48 @@
+{
+  "name": "Balor Ash (3 small pouches)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Once a balor is defeated, it combusts and often leaves behind enough ash to be collected. The dark gray ash smells of sulfur. Spellcasters can use the ash to summon lesser demons. Artificers and alchemists may be able to craft explosive substances with the ash.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Balor"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973981,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1ucFSGnOHCzrdMS6",
+  "sort": 0,
+  "_key": "!items!1ucFSGnOHCzrdMS6"
+}

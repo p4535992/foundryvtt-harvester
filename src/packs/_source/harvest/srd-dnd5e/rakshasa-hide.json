@@ -1,0 +1,48 @@
+{
+  "name": "Rakshasa Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A rakshasa's tiger-like hide is covered in orange fur with black and white streaks. The hide has a strong resistance to magic, which makes it highly valued in most places.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Rakshasa"
+    },
+    "quantity": 1,
+    "weight": 9,
+    "price": {
+      "value": 1250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977816,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UIilbLw5FJlAu2qZ",
+  "sort": 0,
+  "_key": "!items!UIilbLw5FJlAu2qZ"
+}

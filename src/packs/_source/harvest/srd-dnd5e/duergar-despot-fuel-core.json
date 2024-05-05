@@ -1,0 +1,48 @@
+{
+  "name": "Duergar Despot Fuel Core",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A duergar despot has a powerful cannon fused to one of its arms that shoots a jet of flames at its enemies. Somewhere inside this cannon is a small glass orb filled with swirling red fluid. The core is difficult to find and remove without exploding (when harvesting, if a 5 or less is rolled, the orb explodes and every creature within 10 feet of the must make a DC 12 Dexterity check. On a fail, a creature takes 2d6 fire damage. On success, it takes half). The core is valuable to alchemists and artificers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Duergar Despot"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975246,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "HZfEm0qtHhYTOA0R",
+  "sort": 0,
+  "_key": "!items!HZfEm0qtHhYTOA0R"
+}

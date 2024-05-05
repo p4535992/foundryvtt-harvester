@@ -1,0 +1,48 @@
+{
+  "name": "Titivilus' Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Titivilus' blood is a dark red fluid with a strong metallic smell. Fiend blood has many uses to alchemists and conjurers. It is believed that Titivilus' blood can be used to create strong charm potions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Titivilus"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978510,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "SH5iiCs9PUp2hVbj",
+  "sort": 0,
+  "_key": "!items!SH5iiCs9PUp2hVbj"
+}

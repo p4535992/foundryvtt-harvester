@@ -1,0 +1,48 @@
+{
+  "name": "Goristro Hoof (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/hooves-cloven-brown.webp",
+  "system": {
+    "description": {
+      "value": "A goristro's hooves are strong enough to mash stone to dust. A skilled weaponsmith may be able to use the hooved to create powerful bludgeoning weapons.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Goristro"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 3000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976176,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "D7nfEuOT94zB9kpe",
+  "sort": 0,
+  "_key": "!items!D7nfEuOT94zB9kpe"
+}

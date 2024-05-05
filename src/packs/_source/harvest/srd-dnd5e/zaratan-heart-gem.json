@@ -1,0 +1,48 @@
+{
+  "name": "Zaratan Heart Gem",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+  "system": {
+    "description": {
+      "value": "Somewhere inside zaratan's large body is an enormous, uncut, yellow tourmaline, the size of a basketball. The gem has a soft glow, and resonates with elemental energy. An expert jeweler can break the gem into 1d8+2 Elemental Gems. Alternatively, the large gem can be magically altered to create a Ring of Earth Elemental Command.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Zaratan"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174979079,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pucoCL0dkG7lyD1n",
+  "sort": 0,
+  "_key": "!items!pucoCL0dkG7lyD1n"
+}

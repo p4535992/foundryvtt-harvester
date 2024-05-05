@@ -1,0 +1,48 @@
+{
+  "name": "Firenewt Mucus (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A firenewt typically lives in a hot, moist environment, which gives them a thin coating of mucus on their skin. Alchemists often use the mucus to make lubricants.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Firenewt Warlock"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975556,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zfmLnIBzwe5wJAlK",
+  "sort": 0,
+  "_key": "!items!zfmLnIBzwe5wJAlK"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Armanite Serrated Tail",
+  "type": "loot",
+  "img": "icons/commodities/biological/tail-rodent-orange.webp",
+  "system": {
+    "description": {
+      "value": "An armanite has a whiplike tail that ends in a sharp serrated blade. Harvesting can be difficult, as the blade may crack when it is removed from the body. The tail can be used to create sharp weapons and tools.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Armanite"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973806,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oTBHUgOfPIfU0QBy",
+  "sort": 0,
+  "_key": "!items!oTBHUgOfPIfU0QBy"
+}

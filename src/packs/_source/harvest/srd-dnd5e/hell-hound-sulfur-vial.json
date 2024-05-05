@@ -1,0 +1,48 @@
+{
+  "name": "Hell Hound Sulfur (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Hell hounds often combust upon death, leaving behind a cloud of sulfuric ash. The sulfur has various alchemical properties and uses.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Hell Hound"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976412,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6RRSjLxGHLEDGqEU",
+  "sort": 0,
+  "_key": "!items!6RRSjLxGHLEDGqEU"
+}

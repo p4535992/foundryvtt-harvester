@@ -1,0 +1,48 @@
+{
+  "name": "Rust Monster Saliva (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The saliva of this creature is a rusty red, highly acidic fluid. The saliva is highly valued by alchemists. Sculptors, masons, carvers and etchers all find the corrosive saliva useful.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Rust Monster"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977960,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ot02JIRsoWpwBybF",
+  "sort": 0,
+  "_key": "!items!ot02JIRsoWpwBybF"
+}

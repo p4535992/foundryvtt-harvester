@@ -1,0 +1,48 @@
+{
+  "name": "Elemental Essence (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When a Murder Comet is destroyed, the flames subside and the stone face crumbles to pieces. The creature may leave behind a trace amount of essence from the elemental plane of earth. While invisible to the naked eye, a quick ritual can reveal its presence - a small glowing ball of reddish light. Requires an enchanted vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Murder Comet"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977218,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "abRWvFnDYjgKzHyw",
+  "sort": 0,
+  "_key": "!items!abRWvFnDYjgKzHyw"
+}

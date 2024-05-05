@@ -1,0 +1,48 @@
+{
+  "name": "Arcanaloth Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "When in its true form, an arcanaloth has a well-groomed coat of soft fur (usually reddish-brown) covering its jackal-headed humanoid form. As an arcanaloth can take the shape of other humanoids, the fur is swirling with transformative arcane magic. Because the fur is so well taken care of, the hide is valued by most leatherworkers. Artificers may be able to capture the furs magical essence and use it to create unique items.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Arcanaloth"
+    },
+    "quantity": 1,
+    "weight": 9,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973788,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "okhhmgA25bFYQLC4",
+  "sort": 0,
+  "_key": "!items!okhhmgA25bFYQLC4"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Water Weird Fluid (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When a water weird disperses, it loses its form and gravity pulls the water downward. It may be possible to collect some of this water, which alchemists can use to lower the viscosity of certain substances. Harvesting note: 20 DC if the water weird disperses into a pool of water over 10 ft in diameter. Use: If a character has proficiency with alchemy supplies or a poisoner kit, they can make a DC 15 check to use the vial of water weird fluid to create a second vial of poison from one they have (while retaining the poison's potency). On a successful roll, the vial of water weird fluid is used to create two vials of poison, from a single vial. Failure ruins both the poison and the water weird fluid, making both useless. The water weird fluid is completely used up in this process.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Water Weird"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978785,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "gyDt10mKkDqi6tmo",
+  "sort": 0,
+  "_key": "!items!gyDt10mKkDqi6tmo"
+}

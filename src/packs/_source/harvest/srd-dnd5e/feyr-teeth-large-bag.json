@@ -1,0 +1,48 @@
+{
+  "name": "Feyr Teeth (large bag)",
+  "type": "loot",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "Feyr teeth can be crafted into jewelry and are prized tokens and often a focus for fear-based spells.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Feyr"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975500,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "91iHqfYKiRmb0lay",
+  "sort": 0,
+  "_key": "!items!91iHqfYKiRmb0lay"
+}

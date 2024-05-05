@@ -1,0 +1,48 @@
+{
+  "name": "Goristro Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "The horns of the goristro are stronger than steel. Like most horns, they can be reshaped into musical instruments or large drinking horns. They can also be ground into a fine dust, which can be refined and used to strengthen weapons and armor.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Goristro"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 9500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976179,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "4nlFxouGqfJQWtou",
+  "sort": 0,
+  "_key": "!items!4nlFxouGqfJQWtou"
+}

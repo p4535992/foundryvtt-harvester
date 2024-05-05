@@ -1,0 +1,48 @@
+{
+  "name": "Merrow Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Compared to regular merfolk, the transformed nature of the merrow makes their blood more useful when used in alchemy. One of the most common uses of their blood is for the ubiquitous potion of water breathing. Ironically, a failed merrow assault can lead to survivors using their blood as a means to go back and hunt their attackers in their own domain.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Merrow"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977050,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "amtMpY9ZigmN59WI",
+  "sort": 0,
+  "_key": "!items!amtMpY9ZigmN59WI"
+}

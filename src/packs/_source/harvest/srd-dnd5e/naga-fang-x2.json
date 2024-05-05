@@ -1,0 +1,48 @@
+{
+  "name": "Naga Fang (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/teeth-pointed-white.webp",
+  "system": {
+    "description": {
+      "value": "A naga has no poison gland, but the fangs magically produce a deadly venom. This poison fades once the naga is killed, but the large fangs remain an arcane conduit. The fangs can be crafted into useful items that are easily enchanted by an adept artificer.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Bone Naga"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974253,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "LtpZVmh6sbZfH7I6",
+  "sort": 0,
+  "_key": "!items!LtpZVmh6sbZfH7I6"
+}

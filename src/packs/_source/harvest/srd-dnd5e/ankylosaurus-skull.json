@@ -1,0 +1,48 @@
+{
+  "name": "Ankylosaurus Skull",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-deformed-white.webp",
+  "system": {
+    "description": {
+      "value": "An Ankylosaurs head has plentiful spikes, as well as a beak at the tip of the mouth and enlarged nasals. The skull makes a fantastic trophy, but can also be fashioned into a helm by a skilled armorsmith.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ankylosaurus"
+    },
+    "quantity": 1,
+    "weight": 60,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973745,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "eqKoNqrcbSr0YKzE",
+  "sort": 0,
+  "_key": "!items!eqKoNqrcbSr0YKzE"
+}

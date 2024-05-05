@@ -1,0 +1,48 @@
+{
+  "name": "Baphomet's Pineal Gland",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-black.webp",
+  "system": {
+    "description": {
+      "value": "Baphomet can visualize every route it might take to reach its prey. This ability to coordinate its senses, and possible tie into a psionic \"\"third eye\"\", is a result of the creature's pineal gland. The gland is a small pea-shaped ball of flesh located in the center of the brain. The gland is useful to many researchers (especially those studying demonology or Baphomet). Alchemist, artificers and spellcasters may also be interested in the gland.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Baphomet"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974005,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9DWnVgw6WV3Snd6A",
+  "sort": 0,
+  "_key": "!items!9DWnVgw6WV3Snd6A"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Pteranodon Wings (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "The wings of a Pteranodon can be harvested to make a thin but tough reptilian hide. Leatherworkers can use the wings to make apparel, bags, upholstery, furniture, and more.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Pteranodon"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977773,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fBBEMQm7V5KGWOsr",
+  "sort": 0,
+  "_key": "!items!fBBEMQm7V5KGWOsr"
+}

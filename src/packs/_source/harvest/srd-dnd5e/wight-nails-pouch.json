@@ -1,0 +1,48 @@
+{
+  "name": "Wight Nails (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The hard yellowed nails of a wight channel the creature's life draining ability. The nails can used by necromancers in dark rituals, or repurposed by alchemists to create rejuvenation potions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Wight"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978818,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uJJQYd3ubz3a5QRg",
+  "sort": 0,
+  "_key": "!items!uJJQYd3ubz3a5QRg"
+}

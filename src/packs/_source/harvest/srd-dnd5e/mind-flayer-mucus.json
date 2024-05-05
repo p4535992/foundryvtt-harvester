@@ -1,0 +1,48 @@
+{
+  "name": "Mind Flayer Mucus",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The moist, rubbery mauve skin of a mind flayer is coated with a thin glaze of mucus that smells of formaldehyde. The mucus is valued by alchemists. Spellcasters value the mucus for its ability to enhance psionic powers.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Ulitharid"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978577,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wwjH0f4cfY1Mf0zP",
+  "sort": 0,
+  "_key": "!items!wwjH0f4cfY1Mf0zP"
+}

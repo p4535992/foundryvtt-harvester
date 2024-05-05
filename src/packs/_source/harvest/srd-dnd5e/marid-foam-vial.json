@@ -1,0 +1,48 @@
+{
+  "name": "Marid Foam (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "On the prime material plane, when a dead marid turns to water and splashes to the ground, it can leave behind a frothy foam. This foam quickly disperses and must be harvested quickly. This foam contain a strong amount of arcane power that can be used by spellcasters to enhance their magic. Requires an enchanted vial. Use: When casting the spell conjure minor elemental or conjure elemental, this crystalline powder may be used as the spell's material component, which allows the spell can be cast at one level higher than the spell slot used to cast it. The crystalline powder then becomes inert and useless.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Marid"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976942,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QsCuZJtsvPvGkhRU",
+  "sort": 0,
+  "_key": "!items!QsCuZJtsvPvGkhRU"
+}

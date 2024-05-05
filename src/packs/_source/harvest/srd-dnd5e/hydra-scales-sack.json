@@ -1,0 +1,48 @@
+{
+  "name": "Hydra Scales (sack)",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "A hydras scales are tough and flexible. The scale can be used to make armor, apparel and jewelry.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Hydra"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976567,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "X5D8mFETnUcYpdhs",
+  "sort": 0,
+  "_key": "!items!X5D8mFETnUcYpdhs"
+}

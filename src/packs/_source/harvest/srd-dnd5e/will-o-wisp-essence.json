@@ -1,0 +1,48 @@
+{
+  "name": "Will-o'-Wisp Essence",
+  "type": "loot",
+  "img": "icons/commodities/materials/glass-orb-teal.webp",
+  "system": {
+    "description": {
+      "value": "When a will-o'-wisp disperses, the ball of light spreads out into a glowing mist that quickly fades. A skilled harvester can perform a simple ritual to attempt to reform the necrotic energy into a small ball of power that can be collected. Requires an enchanted vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Will-o'-Wisp"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978821,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dFkUJMRokwOWXpa7",
+  "sort": 0,
+  "_key": "!items!dFkUJMRokwOWXpa7"
+}

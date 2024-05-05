@@ -1,0 +1,48 @@
+{
+  "name": "Efretti Ember Spark (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When an efreeti burns away, disappearing from the prime material plane, it leaves behind a handful of tiny floating embers. Before these embers burn out and fade, they may be harvested. These embers contain a strong amount of arcane power that can be used by spellcasters to enhance their magic. Requires an enchanted vial. Use: When casting the spell conjure minor elemental or conjure elemental, this crystalline powder may be used as the spell's material component, which allows the spell can be cast at one level higher than the spell slot used to cast it. The crystalline powder then becomes inert and useless.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Efreeti"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975314,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mJHZ9oTg4wGYUiHD",
+  "sort": 0,
+  "_key": "!items!mJHZ9oTg4wGYUiHD"
+}

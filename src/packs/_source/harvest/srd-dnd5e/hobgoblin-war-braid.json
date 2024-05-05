@@ -1,0 +1,48 @@
+{
+  "name": "Hobgoblin War Braid",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "War-hardened hobgoblin veterans grow a long strand of hair to show their victories. Long braids signified a long life of fighting. And with every victory, the hobgoblin would add another knot and decoration. Powerful warriors had extremely long braids, full of beads, jewelry and small ornate bones. These braids fetch a good price in most markets.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Hobgoblin Devastator"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976479,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qA6QSX9tMx06EKgs",
+  "sort": 0,
+  "_key": "!items!qA6QSX9tMx06EKgs"
+}

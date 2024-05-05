@@ -1,0 +1,48 @@
+{
+  "name": "Chimera Lion Claws (x2)",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-brown-black.webp",
+  "system": {
+    "description": {
+      "value": "A lion's claws must be some of the most fearsome weaponry in nature. The chimera's claws are twice the size of a regular lions. They are razor sharp and as strong as steel. The claws can be used to make small weapons and jewelry.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Chimera"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974532,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "AEbu1KRIObI8vCna",
+  "sort": 0,
+  "_key": "!items!AEbu1KRIObI8vCna"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bone Dust (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "When destroyed, the bones of a skeleton collapse to the ground. Shifting through the remains, it may be possible to find bone dust coated with dark necrotic energy. The dust is commonly used in many necromantic spells and rituals.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Minotaur Skeleton"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 8,
+      "denomination": "cp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977137,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "v1zZmT9bp38CTUYG",
+  "sort": 0,
+  "_key": "!items!v1zZmT9bp38CTUYG"
+}

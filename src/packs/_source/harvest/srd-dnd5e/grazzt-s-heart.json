@@ -1,0 +1,48 @@
+{
+  "name": "Graz'zt's Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The heart of Graz'zt is a black mass of flesh, about the size of a cantaloupe, that continues to slowly beat after his death. The heart can be used to create Graz'zt's Charm, a magical amulet imbued with some of the demon lord's power.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Graz'zt"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976213,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hDOBkEKHcl1D7xba",
+  "sort": 0,
+  "_key": "!items!hDOBkEKHcl1D7xba"
+}

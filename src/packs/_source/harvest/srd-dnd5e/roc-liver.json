@@ -1,0 +1,48 @@
+{
+  "name": "Roc Liver",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-liver-red.webp",
+  "system": {
+    "description": {
+      "value": "A roc's liver is a dark red, rubbery organ, about three feet long, that has many alchemical properties. It helps with bile production, synthesizing proteins, and has many other functions. In addition, the liver also has use in various arcane rituals, or can be used as a food item.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Roc"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977924,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "tiwWtPwijVVnKruZ",
+  "sort": 0,
+  "_key": "!items!tiwWtPwijVVnKruZ"
+}

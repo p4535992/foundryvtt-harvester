@@ -1,0 +1,48 @@
+{
+  "name": "Night Scavver Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A night scavver's skin is covered in small, rough, hard scales. Leatherworkers dry and treat the leather, then grind down the scales to make the leather smoother and easier to handle, giving it a pebbled appearance.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Night Scavver"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977361,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ZgI8SoWcr5hSmtmz",
+  "sort": 0,
+  "_key": "!items!ZgI8SoWcr5hSmtmz"
+}

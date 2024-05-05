@@ -1,0 +1,48 @@
+{
+  "name": "Giant Bat Wings",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "The large black wings of a giant bat can be harvested for their leather.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Giant Bat"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975787,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "eBAoGx3dvsfU4Kdm",
+  "sort": 0,
+  "_key": "!items!eBAoGx3dvsfU4Kdm"
+}

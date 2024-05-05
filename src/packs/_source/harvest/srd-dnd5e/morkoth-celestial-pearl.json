@@ -1,0 +1,48 @@
+{
+  "name": "Morkoth Celestial Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearls-white.webp",
+  "system": {
+    "description": {
+      "value": "A morkoth is believed to have been created when the dead body of a deity of greed collided with a piece of life-giving celestial matter. It may be possible to find a remnant of celestial power within the creature's carcass, which resembles a white shimmering stone with a rainbow sheen. Collectors value the pearl for its beauty, and arcanists value its celestial power.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Morkoth"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977182,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uhf3OGIqI6VCx3Fa",
+  "sort": 0,
+  "_key": "!items!uhf3OGIqI6VCx3Fa"
+}

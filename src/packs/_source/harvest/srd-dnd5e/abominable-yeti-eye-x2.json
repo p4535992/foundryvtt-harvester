@@ -1,0 +1,48 @@
+{
+  "name": "Abominable Yeti Eye (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A abominable yeti's eyeball is a soft white orb with a light, vivid blue iris. It has the power to focus the surrounding air into a frigid surge of arcane energy. If an eyeball is harvested intact, an adept spellcaster or alchemist may be able to harness that energy into something useful.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Abominable Yeti"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973518,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Ib9me0OGg2ZA0bsU",
+  "sort": 0,
+  "_key": "!items!Ib9me0OGg2ZA0bsU"
+}

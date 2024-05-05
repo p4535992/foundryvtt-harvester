@@ -1,0 +1,48 @@
+{
+  "name": "Metallic Peacekeeper Mist",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "A metallic peacekeeper is able to release a calming gas. When the construct is destroyed, a cloud of this gas is released. Using an enchanted flask or vial, it may be possible to collect some of this mist. The calming properties are often studied by alchemists and healers. Requires an enchanted flask/vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Metallic Peacekeeper"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977064,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oICXZZ8mS1KC2OQs",
+  "sort": 0,
+  "_key": "!items!oICXZZ8mS1KC2OQs"
+}

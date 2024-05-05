@@ -1,0 +1,48 @@
+{
+  "name": "Axe Beak Pelt (cold climates)",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "Axe beaks in cold climates tend to have a lush coat of soft fur, which can be used in apparel and bedding.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Axe Beak"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973872,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vKnOyQq9ereeQHLZ",
+  "sort": 0,
+  "_key": "!items!vKnOyQq9ereeQHLZ"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ancient Sea Serpent Teeth (2 sacks)",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "An ancient sea serpent has rows of sharp, shark-like teeth. The teeth can be carved into jewelry, but can also be made into weapons. A sack of ancient sea serpent teeth contains 2d20+30 teeth. Most of the teeth are about a foot long, with two large fangs about 3 feet long.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ancient Sea Serpent"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973679,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "DwTISDi7tdQFH1PI",
+  "sort": 0,
+  "_key": "!items!DwTISDi7tdQFH1PI"
+}

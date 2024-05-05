@@ -1,0 +1,48 @@
+{
+  "name": "Cosmic Horror Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "A cosmic horror's hide is strong and rubbery. The hide can only be harvested from certain areas of the creature, in order to find workable material. This rubber-like fabric is used in protective cloaks and strong leather armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Cosmic Horror"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974720,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uJfIwJH1sJKg8GLy",
+  "sort": 0,
+  "_key": "!items!uJfIwJH1sJKg8GLy"
+}

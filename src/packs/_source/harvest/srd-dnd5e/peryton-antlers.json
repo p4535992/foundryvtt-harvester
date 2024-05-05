@@ -1,0 +1,48 @@
+{
+  "name": "Peryton Antlers",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-antler-tan.webp",
+  "system": {
+    "description": {
+      "value": "A peryton has a set of large branching bone-like protrusions on the top of its head, similar to a buck. The antlers are covered in a thin layer of skin with a soft fur, that feels like velvet. The antlers are strong as steel, and can be used by craftsmen and weaponsmiths to create various items. They are also a prized trophy for hunters.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Peryton"
+    },
+    "quantity": 1,
+    "weight": 9,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977643,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9Ds8kQJSsW5xh0Rg",
+  "sort": 0,
+  "_key": "!items!9Ds8kQJSsW5xh0Rg"
+}

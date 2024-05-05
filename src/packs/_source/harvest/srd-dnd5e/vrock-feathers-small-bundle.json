@@ -1,0 +1,48 @@
+{
+  "name": "Vrock Feathers (small bundle)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The dark gray feathers of a vrock can be used as decorations and in apparel. Fletches also use the feathers to make arrows.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Vrock"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978733,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JWmvjXSJ47dMPk7n",
+  "sort": 0,
+  "_key": "!items!JWmvjXSJ47dMPk7n"
+}

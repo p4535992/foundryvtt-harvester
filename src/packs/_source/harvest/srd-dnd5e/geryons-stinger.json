@@ -1,0 +1,48 @@
+{
+  "name": "Geryon's Stinger",
+  "type": "loot",
+  "img": "icons/creatures/abilities/stinger-poison-scorpion-brown.webp",
+  "system": {
+    "description": {
+      "value": "Geryon's snake-like tail ends in a large, barbed, poisonous stinger. It is about the size of a football, and is as hard as steel. The stinger may be used to create a special poisonous dagger.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Geryon"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975743,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "sO3gyRQe7ML9F0y1",
+  "sort": 0,
+  "_key": "!items!sO3gyRQe7ML9F0y1"
+}

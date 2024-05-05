@@ -1,0 +1,48 @@
+{
+  "name": "Unicorn Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "The pure white hide of a unicorn is soft to the touch, yet strong and durable. The hide is highly valued by leatherworkers and tailors.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Unicorn"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 350,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978616,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zNwhxQADDMtfY4Fa",
+  "sort": 0,
+  "_key": "!items!zNwhxQADDMtfY4Fa"
+}

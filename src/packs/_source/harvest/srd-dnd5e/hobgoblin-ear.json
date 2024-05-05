@@ -1,0 +1,48 @@
+{
+  "name": "Hobgoblin Ear",
+  "type": "loot",
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "system": {
+    "description": {
+      "value": "A hobgoblin's ear has little practical use. However, most communities will offer a bounty for showing proof of killing such creature.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Hobgoblin Iron Shadow"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976489,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "t0fEZ1b50m9GZ45l",
+  "sort": 0,
+  "_key": "!items!t0fEZ1b50m9GZ45l"
+}

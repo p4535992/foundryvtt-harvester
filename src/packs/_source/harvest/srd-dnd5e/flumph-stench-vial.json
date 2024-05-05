@@ -1,0 +1,48 @@
+{
+  "name": "Flumph Stench (Vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A flumph has a gland that secretes a harmless, yet irritating spray, similar to a skunk. The fluid in the gland can be harvested and sold to perfumers and aromatologists, who can change the noxious liquid into a very pleasant perfume. Hunters can use the vial to mark hunting areas, disguise one's own scent, and scare off certain predators. Use: As an action, you may throw the vial of flumph stench up to 20 feet away, shattering it on impact. Each creature within 5 feet of the target location must succeed a DC 10 Dexterity saving throw or be coated in the foul-smelling liquid. A coated creature exudes a horrible stench for 1d4 hours. The coated creature is poisoned as long as the stench lasts. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Flumph"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975603,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FzEmCHcVoEKUNtcs",
+  "sort": 0,
+  "_key": "!items!FzEmCHcVoEKUNtcs"
+}

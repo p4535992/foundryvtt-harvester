@@ -1,0 +1,48 @@
+{
+  "name": "Storm Giant Blood (7 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A storm giant's blood is a thick, dark red liquid, that crackles with a soft electrical current (which is numbing to the touch). It has many useful properties, including being a conductor of electricity. The blood must be harvested quickly as it disperses when exposed to air. The blood has many alchemical and medicinal uses.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Storm Giant"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978336,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NAw8A71KiGi2ONkQ",
+  "sort": 0,
+  "_key": "!items!NAw8A71KiGi2ONkQ"
+}

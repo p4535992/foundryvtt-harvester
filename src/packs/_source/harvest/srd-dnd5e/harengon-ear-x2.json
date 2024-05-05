@@ -1,0 +1,48 @@
+{
+  "name": "Harengon Ear (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "system": {
+    "description": {
+      "value": "Harengon's have two long pointy ears on top of their head. Harvesting harengon ears are frowned upon in societies that are friendly toward harengons (and may be difficult, or even illegal to sell). However, these fluffy ears have value in other circles and in evil societies.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Harengon Sniper"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976386,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rn5eHhqBNYrV2FIf",
+  "sort": 0,
+  "_key": "!items!rn5eHhqBNYrV2FIf"
+}

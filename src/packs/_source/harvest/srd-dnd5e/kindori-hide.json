@@ -1,0 +1,48 @@
+{
+  "name": "Kindori Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "The thick hide of a kindori can be as hard as a rock. If harvested carefully, and treated by a master leatherworker, this hide can be used to make strong leather armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Kindori"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976719,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OMpC5nj19QnnmdvX",
+  "sort": 0,
+  "_key": "!items!OMpC5nj19QnnmdvX"
+}

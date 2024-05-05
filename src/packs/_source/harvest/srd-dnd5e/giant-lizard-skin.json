@@ -1,0 +1,48 @@
+{
+  "name": "Giant Lizard Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A giant lizard's hide is large, green and covered in scales. The hide can be used to make apparel and accessories, including belts and footwear.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Giant Lizard"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975845,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "2YlxGHNQQpF885Z4",
+  "sort": 0,
+  "_key": "!items!2YlxGHNQQpF885Z4"
+}

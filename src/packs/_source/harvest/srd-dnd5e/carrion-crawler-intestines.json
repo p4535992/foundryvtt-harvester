@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Crawler Intestines",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-intestines-red.webp",
+  "system": {
+    "description": {
+      "value": "As a scavenger that feeds off the dead and rotting flesh, harvesting a carrion crawler's intestines can be a revolting task. Such creatures are have a unique digestive system that is uniquely adapted to overcoming various diseases and poisons. These intestines are used in salves, tonics and potions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Carrion Crawler"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974464,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NuyQRZDLgbMStLRL",
+  "sort": 0,
+  "_key": "!items!NuyQRZDLgbMStLRL"
+}

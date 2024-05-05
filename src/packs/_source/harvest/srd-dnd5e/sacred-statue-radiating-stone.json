@@ -1,0 +1,48 @@
+{
+  "name": "Sacred Statue Radiating Stone",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-red.webp",
+  "system": {
+    "description": {
+      "value": "When a sacred statue is destroyed, it crumbles to pieces. Occasionally, one of the rocks that made up the statue is imbued with the eidolon's arcane power and has a soft blue glow. This stone, often referred to as a spirit stone, is prized by spellcasters.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Sacred Statue"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977978,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "aBkFeBu69go4ctar",
+  "sort": 0,
+  "_key": "!items!aBkFeBu69go4ctar"
+}

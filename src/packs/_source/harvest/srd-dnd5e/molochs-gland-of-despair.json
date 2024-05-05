@@ -1,0 +1,48 @@
+{
+  "name": "Moloch's Gland of Despair",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-black.webp",
+  "system": {
+    "description": {
+      "value": "Moloch is capable of exhaling a noxious breath of despair, causing a powerful psychic blast, that makes enemies run in fear. This toxic blast is emitted from a glandular sac, that resonates in arcane power, located at the roof of the creature's mouth. Use: As an action, a creature may throw this sac at a point it can see within 30 feet, bursting on impact. All creatures within 10 feet of that point must succeed on a DC 17 Wisdom saving throw, or take 3d10 psychic damage and become frightened of the attacker for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Moloch"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977154,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zp5tlDXJVXTUjTrP",
+  "sort": 0,
+  "_key": "!items!zp5tlDXJVXTUjTrP"
+}

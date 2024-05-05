@@ -1,0 +1,48 @@
+{
+  "name": "Ox Horns (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "Ox horns can be used to create drinking horns, decorations, jewelry, weapon handles and simple tools (hoes, rakes, etc.).",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Ox"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977617,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5gLsZFUKpLB6vU6u",
+  "sort": 0,
+  "_key": "!items!5gLsZFUKpLB6vU6u"
+}

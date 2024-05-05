@@ -1,0 +1,48 @@
+{
+  "name": "Dragon Turtle Tooth (x4)",
+  "type": "loot",
+  "img": "icons/commodities/bones/tooth-hollow-brown.webp",
+  "system": {
+    "description": {
+      "value": "The large teeth of a dragon turtle are several feet long. They provide enough bone to create several weapons. However, the large teeth are unwieldy too large to place into a normal backpack.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Dragon Turtle"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975081,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UJpfnOpvcrX1wQbc",
+  "sort": 0,
+  "_key": "!items!UJpfnOpvcrX1wQbc"
+}

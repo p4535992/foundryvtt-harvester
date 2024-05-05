@@ -1,0 +1,48 @@
+{
+  "name": "Frost Giant Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A frost giant's skin is tough to harvest, as it starts to hardened like ice quickly after death. Once collected, the skin is highly insulated and provides a large degree of protection from the cold. Expert leatherworkers can treat and coat the skin, making it a great insulator for lining apparel.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Frost Giant Everlasting One"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975671,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jlYdUyGibaCmfSmk",
+  "sort": 0,
+  "_key": "!items!jlYdUyGibaCmfSmk"
+}

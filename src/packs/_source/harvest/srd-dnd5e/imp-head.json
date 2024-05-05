@@ -1,0 +1,48 @@
+{
+  "name": "Imp Head",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-tusked-grey.webp",
+  "system": {
+    "description": {
+      "value": "A successfully harvested imp's head may still retains some of its arcane power. Artificers and magic users may be able to tap into that power, either to craft detection devices, or to find information that the imp had.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Imp"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976600,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xLTjjeVWLQ3nBM6X",
+  "sort": 0,
+  "_key": "!items!xLTjjeVWLQ3nBM6X"
+}

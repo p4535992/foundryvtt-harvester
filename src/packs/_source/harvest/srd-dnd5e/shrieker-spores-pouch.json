@@ -1,0 +1,48 @@
+{
+  "name": "Shrieker Spores (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Shrieker spores are light, round, puffy yellow balls about a millimeter in diameter. They are highly valued among underground societies, as they provide a natural alarm system for a community.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Shrieker"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978094,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pkLja5lCZ3HZboMG",
+  "sort": 0,
+  "_key": "!items!pkLja5lCZ3HZboMG"
+}

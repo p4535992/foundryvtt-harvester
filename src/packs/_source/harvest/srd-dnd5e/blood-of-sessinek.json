@@ -1,0 +1,48 @@
+{
+  "name": "Blood of Sess'inek",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-red.webp",
+  "system": {
+    "description": {
+      "value": "Some lizardfolk leaders are touched by Sess'inek. This demon lord grants the creature strength and cunning, and makes it thoroughly evil. As a result, the creature's blood becomes a black ichor. The blood is useful to spellcasters, summoners, demonologists and alchemists.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Lizardfolk Queen"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976871,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nPdqGqfdBPSMVvab",
+  "sort": 0,
+  "_key": "!items!nPdqGqfdBPSMVvab"
+}

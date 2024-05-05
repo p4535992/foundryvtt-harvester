@@ -1,0 +1,48 @@
+{
+  "name": "Baphomet's Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "The iron, pointed horns of Baphomet have many uses. Craftsmen can use the item to create drinking horns, musical instruments, decorations and weapons. The horns may be used to create a powerful helm.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Baphomet"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974002,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "teSQKp1wqOjbMkwo",
+  "sort": 0,
+  "_key": "!items!teSQKp1wqOjbMkwo"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Erinyes Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The dark heart of an erinyes is a dark redish, fist-sized organ, wrapped in thick veins. The heart is often used in rituals to curse, and cure curses.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Erinyes"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975406,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "phWQbuDs8uPyNABz",
+  "sort": 0,
+  "_key": "!items!phWQbuDs8uPyNABz"
+}

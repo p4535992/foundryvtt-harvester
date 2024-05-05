@@ -1,0 +1,48 @@
+{
+  "name": "Brontosaurus Spine",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-spine-white.webp",
+  "system": {
+    "description": {
+      "value": "The long spine of a brontosaurus is prized by museums and collectors. The individual joins can be used to create crafts, decorations or weapons and tools.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Brontosaurus"
+    },
+    "quantity": 1,
+    "weight": 60,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974305,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IpIrBwnAOa1OKbcC",
+  "sort": 0,
+  "_key": "!items!IpIrBwnAOa1OKbcC"
+}

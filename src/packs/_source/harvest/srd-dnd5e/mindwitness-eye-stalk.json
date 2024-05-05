@@ -1,0 +1,48 @@
+{
+  "name": "Mindwitness Eye Stalk",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "The eye stalks of a mindwitness each have unique psionic properties, and are prized by spellcasters, artificers and anyone studying psionics. Once successfully harvested, roll 1d6 for the type of eyestalk received (1. Aversion, 2. Fear, 3. Psychic, 4. Slowing, 5. Stunning, 6. Telekinetic). [see VGM p176 for more details on the Mindwitness]",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Mindwitness"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977099,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "PoIWhOygpzvUUO3f",
+  "sort": 0,
+  "_key": "!items!PoIWhOygpzvUUO3f"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bheur Hag's Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A hag's blood is a black, viscous fluid that radiates cold. The blood has arcane properties that can be harnessed by certain spellcasters and alchemists.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Bheur Hag"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974133,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oHgNghlWUwPTHU7G",
+  "sort": 0,
+  "_key": "!items!oHgNghlWUwPTHU7G"
+}

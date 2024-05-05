@@ -1,0 +1,48 @@
+{
+  "name": "Elder Brain Fluid (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The Elder Brain dwells in a dimly glowing brine pool, filled with foul and brackish water infused with the elder brain's vital fluids and with psionic energy. The fluid has many uses to many spellcasters, craftsmen and alchemists. Use: As an action, a creature may drink a vial of this fluid. For the next 1o minutes, the creature gets advantage on all Intelligence, Wisdom, and Charisma Saving Throws against magic pertaining to illusions.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Elder Brain"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975330,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wHXSMPJzPAzQipcl",
+  "sort": 0,
+  "_key": "!items!wHXSMPJzPAzQipcl"
+}

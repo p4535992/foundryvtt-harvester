@@ -1,0 +1,48 @@
+{
+  "name": "Ki-rin Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-gold.webp",
+  "system": {
+    "description": {
+      "value": "A ki'rin's thick mane is made of soft, thick stands of golden hair that shimmers in the light. The hair is valued in the healing community. Wounds stitched with a ki'rin's hair heal extremely fast. The hair is also prized by upscale weavers and tailors.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ki-rin"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 45,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976696,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5wvBPzdIJX4EtTyf",
+  "sort": 0,
+  "_key": "!items!5wvBPzdIJX4EtTyf"
+}

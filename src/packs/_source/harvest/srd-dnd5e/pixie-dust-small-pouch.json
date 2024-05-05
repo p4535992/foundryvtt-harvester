@@ -1,0 +1,48 @@
+{
+  "name": "Pixie Dust (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Pixies have tiny gossamer wings, like those of dragonflies, which shed tiny flecks of shimmering dust when they fly. When a pixie dies, the dust is difficult to see, and it is often hard to harvest a sufficient amount. The dust has a variety of uses, especially among spellcasters and alchemists.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Pixie"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977686,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fx6I3FnXg1KGDMks",
+  "sort": 0,
+  "_key": "!items!fx6I3FnXg1KGDMks"
+}

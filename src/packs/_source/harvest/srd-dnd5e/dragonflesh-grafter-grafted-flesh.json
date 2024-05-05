@@ -1,0 +1,48 @@
+{
+  "name": "Dragonflesh Grafter Grafted Flesh",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Strips of the grafted dragon flesh can be harvested from this creature. This flesh is sought after by spellcasters, especially anyone performing grafting and regeneration research. Alchemists and healers may mistake the flesh as fresh dragon flesh (20% chance, x2 value).",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Dragonflesh Grafter"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975124,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oYG6w7yTKkIQLnPx",
+  "sort": 0,
+  "_key": "!items!oYG6w7yTKkIQLnPx"
+}

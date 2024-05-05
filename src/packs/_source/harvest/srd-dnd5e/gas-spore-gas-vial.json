@@ -1,0 +1,48 @@
+{
+  "name": "Gas Spore Gas (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The gas spore floats using a mixture of gases, which include trace amounts of helium. It is possible to collect a sample of those gases before they disperse. Tinkerers and artificers may find uses for the gases. Alchemists may be able to use the gases to aid in potion creation. Requires an enchanted vial.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Gas Spore"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975708,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "lPGan12OkSKllBIU",
+  "sort": 0,
+  "_key": "!items!lPGan12OkSKllBIU"
+}

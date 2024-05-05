@@ -1,0 +1,48 @@
+{
+  "name": "Slithering Tracker Essence (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The essence of a slithering tracker is invisible to the naked eye. Harvesting the essence requires a simple ritual, which gathers a red mote of light into an enchanted container. The red light is almost hypnotizing, and fills most people with a deep anger. The essence is just a speck of the creature's vengeful spirit, and is useful to spellcasters. Requires an enchanted vial.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Slithering Tracker"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978127,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oNdixzdv557gQtf7",
+  "sort": 0,
+  "_key": "!items!oNdixzdv557gQtf7"
+}

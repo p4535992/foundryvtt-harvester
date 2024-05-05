@@ -1,0 +1,48 @@
+{
+  "name": "Dohwar Beak",
+  "type": "loot",
+  "img": "icons/commodities/bones/beak-hooked-red.webp",
+  "system": {
+    "description": {
+      "value": "A dohwar's beak is black, hardened bone, covered in a shiny sheath keratin. The beak can be ground into a fine powder, and used to enhance telepathic abilities.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dohwar"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974982,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wEqPoYRlEzM2yvLK",
+  "sort": 0,
+  "_key": "!items!wEqPoYRlEzM2yvLK"
+}

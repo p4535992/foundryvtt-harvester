@@ -1,0 +1,48 @@
+{
+  "name": "Flumph Brain Stem",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "The flumph has a small gland on it's brain stem that controls it's psionic abilities. Harvesting the brain stem is valuable among those that study telepathy and powers.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Flumph"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975600,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rRaaKyuqgHEO44N7",
+  "sort": 0,
+  "_key": "!items!rRaaKyuqgHEO44N7"
+}

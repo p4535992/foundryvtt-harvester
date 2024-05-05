@@ -1,0 +1,48 @@
+{
+  "name": "Flying Snake Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A snake's skin can be used in the creation of boots, belts and other apparel. A regular size snake only has enough harvestable skin to create a single belt. Some tailors may refuse to purchase a single skin, as more skins are needed for most apparel.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Flying Snake"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975609,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "XS3fjGPeh3h5qerR",
+  "sort": 0,
+  "_key": "!items!XS3fjGPeh3h5qerR"
+}

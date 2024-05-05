@@ -1,0 +1,48 @@
+{
+  "name": "Devil-Tinged Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The dark red blood of a cambion possesses certain magical properties commonly associated with fiends. Because a cambion is the child of a fiend and a human, the blood is highly valued because of the compatibility with humanoid physiology. Typically the blood is harvested from area where the cambion died, and not from the cambion itself (since they combust on death)",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Cambion"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974428,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hdeEuTiu6GscNvUo",
+  "sort": 0,
+  "_key": "!items!hdeEuTiu6GscNvUo"
+}

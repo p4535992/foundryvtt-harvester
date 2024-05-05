@@ -1,0 +1,48 @@
+{
+  "name": "Darkling Ash (small pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "All that remains of a darkling is a fine, dark powder that smells of soot. Alchemists and magic users often acquire the ash for the tiny bit of magical essence that it contains. Use: When you cast the darkness spell, you may expend 1 or more pouches of this ash instead of the usual material components. If you do so, the radius of the magical darkness you create expands by 5 feet for every pouch of ash used.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Darkling"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974773,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "muyygrCmiedWCfDH",
+  "sort": 0,
+  "_key": "!items!muyygrCmiedWCfDH"
+}

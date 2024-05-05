@@ -1,0 +1,48 @@
+{
+  "name": "Octopus Ink (2 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "An octopus produces a dark-colored, watery ink. A vial of octopus ink can easily be converted into a 1 ounce bottle of writing ink (using 3 gp worth of materials, proficiency with Alchemist's Supplies, DC 5). Most merchants or alchemists will purchase the ink.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Octopus"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977426,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OdGsI5h0YxBkQwqr",
+  "sort": 0,
+  "_key": "!items!OdGsI5h0YxBkQwqr"
+}

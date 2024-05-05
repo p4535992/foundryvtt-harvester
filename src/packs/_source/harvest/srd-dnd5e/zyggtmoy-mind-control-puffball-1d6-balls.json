@@ -1,0 +1,48 @@
+{
+  "name": "Zyggtmoy Mind Control Puffball (1d6 balls)",
+  "type": "loot",
+  "img": "icons/commodities/materials/plant-sprout-teal.webp",
+  "system": {
+    "description": {
+      "value": "Zuggtmoy's Mind Control Puffballs are small, puffy green balls that contain a collection of spores. These spores are prized by horticulturists and mycologists. Use: Using an action, you can throw one of these puffballs at a creature you can see within 30 feet. If the target is hit, the small ball explodes into a cloud of spores, and the target must make a DC 17 saving throw. On a failed save, the creature is under the effects of the charmed condition.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Zuggtmoy"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174979095,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "4UozxwWny6rsZJS9",
+  "sort": 0,
+  "_key": "!items!4UozxwWny6rsZJS9"
+}

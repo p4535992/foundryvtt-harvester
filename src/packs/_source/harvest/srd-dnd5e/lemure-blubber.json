@@ -1,0 +1,48 @@
+{
+  "name": "Lemure Blubber",
+  "type": "loot",
+  "img": "icons/commodities/materials/slime-white.webp",
+  "system": {
+    "description": {
+      "value": "The blubbery fat of a lemure can be cut away and saved. It is useful in making soap and oils.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Lemure"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976817,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "3S5zeUcBG2ddYDpe",
+  "sort": 0,
+  "_key": "!items!3S5zeUcBG2ddYDpe"
+}

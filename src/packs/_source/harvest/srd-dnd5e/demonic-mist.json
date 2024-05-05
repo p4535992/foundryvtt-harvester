@@ -1,0 +1,48 @@
+{
+  "name": "Demonic Mist",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Being a creature of darkness, lacking physical form, one may be able to capture the creature's dark demonic essence using an enchanted bottle. The essence can be used by a skilled magic user in dark experiments, or to create certain magic items. Requires an enchanted bottle.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Shadow Demon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 160,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978050,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cX4iQCQba5Ikm21w",
+  "sort": 0,
+  "_key": "!items!cX4iQCQba5Ikm21w"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Draegloth Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The creation of a draegloth is considered a blessing of Lloth's favor. Thus, the heart of a draegloth has strong ties to Lloth and her realm in the Abyss. Summoner's may value this item in order to enhance their magic. Use: This item can only be used by a magic user who can cast summon lesser demon. The spellcaster may expend this item instead of its usual material component, resulting in the CR limits of the summoned demons specified in the spell being doubled.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Draegloth"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975063,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ddyp9pL0NeyodYPC",
+  "sort": 0,
+  "_key": "!items!ddyp9pL0NeyodYPC"
+}

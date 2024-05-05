@@ -1,0 +1,48 @@
+{
+  "name": "Doppelganger Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "A doppelgangers telepathic abilities can be studied from the brain of such a creature. To the untrained eye, a doppelgangers brain looks identical to other humanoids brains. Artificers, enchanters, researchers and other magic users may find the brain worth study. Some may be able to create magic items with",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Doppelganger"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975007,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9Jmkd4LFc03VcSq5",
+  "sort": 0,
+  "_key": "!items!9Jmkd4LFc03VcSq5"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dragonblood Ooze Slime (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When a dragonblood ooze is slain, its amorphous form collapses into a puddle. The puddle looks like blood, but is thicker, almost gelatinous. Dragon blood normally has many beneficial uses, but the tainted slime of a dragonblood ooze is a vile, acidic substance. Alchemists, spellcasters and anyone that performs odd experiments may be interested in the substance.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dragonblood Ooze"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975104,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mTrI64VQFieW8CzF",
+  "sort": 0,
+  "_key": "!items!mTrI64VQFieW8CzF"
+}

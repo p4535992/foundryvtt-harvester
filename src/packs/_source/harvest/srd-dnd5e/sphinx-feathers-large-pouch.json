@@ -1,0 +1,48 @@
+{
+  "name": "Sphinx Feathers (large pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A sphinx has two large wings with light, soft feathers. The feathers are infused with ancient arcane energy, allowing them to carry a large amount of weight. The feathers can be used in mundane items, like apparel and bedding, but hold more value with spellcasters and artificers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Androsphinx"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973693,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ctUFZHin3kwSQlBI",
+  "sort": 0,
+  "_key": "!items!ctUFZHin3kwSQlBI"
+}

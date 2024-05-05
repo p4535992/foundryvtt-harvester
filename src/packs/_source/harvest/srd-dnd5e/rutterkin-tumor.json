@@ -1,0 +1,48 @@
+{
+  "name": "Rutterkin Tumor",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "A rutterkin's body is often riddled with tumors and cysts. These balls of tissue often contain several components that healers can extract to aid in treating growths.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Rutterkin"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977968,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dLhqi9rpbjeWmFn9",
+  "sort": 0,
+  "_key": "!items!dLhqi9rpbjeWmFn9"
+}

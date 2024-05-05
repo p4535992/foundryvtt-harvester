@@ -1,0 +1,48 @@
+{
+  "name": "Ochre Jelly (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "This yellow jelly is extremely thick, and burns to the touch. Samples of this ooze are often bought by alchemists and most merchants.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ochre Jelly"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 7,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977423,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "F2kqzVCfcClHDzOv",
+  "sort": 0,
+  "_key": "!items!F2kqzVCfcClHDzOv"
+}

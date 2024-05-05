@@ -1,0 +1,48 @@
+{
+  "name": "Gorgon Horn (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "system": {
+    "description": {
+      "value": "A gorgon has two iron horns on top of its head. The horns are heavy and difficult to remove, being attached to the monstrosity's skull. The horns can be fashioned into weapons by adept blacksmiths, or just sold as a trophy.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Gorgon"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976161,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KHA3rq2OgqX2c4eg",
+  "sort": 0,
+  "_key": "!items!KHA3rq2OgqX2c4eg"
+}

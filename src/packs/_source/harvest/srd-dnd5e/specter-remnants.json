@@ -1,0 +1,48 @@
+{
+  "name": "Specter Remnants",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "On rare occasions, a dispersed specter may leave behind a physical formation from their spectral form. This can be a strip of fabric, a lock of hair or even a piece of jewelry. The item glows with a soft blue color. These items are useful in arcane rituals and necromancy spells.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Specter"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978184,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ptji3307e9ygXkuV",
+  "sort": 0,
+  "_key": "!items!ptji3307e9ygXkuV"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Centaur Mane/Tail",
+  "type": "loot",
+  "img": "icons/commodities/biological/tail-rodent-orange.webp",
+  "system": {
+    "description": {
+      "value": "Long, thick, strong strands of hair (colors varies, depending on the centaur). The hairs of a centaur are renowned for their tensile strength while remaining supple and flexible. As such they make superb bowstrings and centaur archers are known for using their own hairs in their bows.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Centaur"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974499,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CioUIgmzJ6SqEqlO",
+  "sort": 0,
+  "_key": "!items!CioUIgmzJ6SqEqlO"
+}

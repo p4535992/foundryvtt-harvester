@@ -1,0 +1,48 @@
+{
+  "name": "Oni Claws (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "An oni has long, black claws, often filthy and covered in dry blood. The claws have some arcane properties relating to the creature's polymorphing ability.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Oni"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 45,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977493,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YjGXYM9b5JlMppQV",
+  "sort": 0,
+  "_key": "!items!YjGXYM9b5JlMppQV"
+}

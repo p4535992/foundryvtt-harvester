@@ -1,0 +1,48 @@
+{
+  "name": "Nycaloth Wing (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "The leathery, bat-like wings of a nycaloth are extremely light, yet incredibly sturdy. Leatherworkers can use the leather to create various items, but artificers make use of the arcane power that courses through the item.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Nycaloth"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977402,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "TkDeUvoYXVOg6pwi",
+  "sort": 0,
+  "_key": "!items!TkDeUvoYXVOg6pwi"
+}

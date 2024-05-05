@@ -1,0 +1,48 @@
+{
+  "name": "Hellfire Engine Arcane Gunpowder",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The hellfire engine's thunder cannon fueled by magically infused gunpowder. If any of this gunpowder exists, it is useful to gunsmiths, artificers, tinkerers and alchemists.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Hellfire Engine"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976420,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "TrBGHfjK2u6SYJou",
+  "sort": 0,
+  "_key": "!items!TrBGHfjK2u6SYJou"
+}

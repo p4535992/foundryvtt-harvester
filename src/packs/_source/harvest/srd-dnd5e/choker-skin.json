@@ -1,0 +1,48 @@
+{
+  "name": "Choker Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The rubbery skin of a choker can be repurposed as a stretchable, waterproof fabric.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Choker"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974561,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JYly50sWslquhc0a",
+  "sort": 0,
+  "_key": "!items!JYly50sWslquhc0a"
+}

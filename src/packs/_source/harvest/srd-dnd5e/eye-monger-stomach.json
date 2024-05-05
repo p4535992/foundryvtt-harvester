@@ -1,0 +1,48 @@
+{
+  "name": "Eye Monger Stomach",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "An Eye Monger's stomach is a thick, gray membrane. The stomach is known to suppress magical effects, and is valued by anyone studying or creating anti-magic items and devices. If the stomach lining is dried out and treated by a master leatherworker, it may be used to cover a shield, and provide resistance to certain effects and spells.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Eye Monger"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975449,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "EjmNzk5GgCoJdgfH",
+  "sort": 0,
+  "_key": "!items!EjmNzk5GgCoJdgfH"
+}

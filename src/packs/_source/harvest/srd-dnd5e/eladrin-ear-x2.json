@@ -1,0 +1,48 @@
+{
+  "name": "Eladrin Ear (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "system": {
+    "description": {
+      "value": "Eladrin ears are similar to elven ears, but slightly longer. Most people considering killing an eladrin an evil act, and are suspicious of those selling such items. However, some evil communities, or those having trouble with Eladrin (such as lumbermills), may pay a bounty for such ears.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Spring Eladrin"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978214,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nAqrER5M7dypihno",
+  "sort": 0,
+  "_key": "!items!nAqrER5M7dypihno"
+}

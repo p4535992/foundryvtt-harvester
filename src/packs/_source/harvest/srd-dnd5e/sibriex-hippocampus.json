@@ -1,0 +1,48 @@
+{
+  "name": "Sibriex Hippocampus",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "A sibriex's body is little more than an enormous, deformed head. As such, the creature has a well-formed hippocampus, located in the brain's temporal lobe. The hippocampus is where memories are formed and indexed for later access. Being a creature that seeks ancient lore, a sibriex's hippocampus is often sought after by anyone looking to tap into lost knowledge. And since sibriexes are thought to be as old as the Abyss itself, they probably have many secrets.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Sibriex"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 3000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978102,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mPFVGdP87IuSLccy",
+  "sort": 0,
+  "_key": "!items!mPFVGdP87IuSLccy"
+}

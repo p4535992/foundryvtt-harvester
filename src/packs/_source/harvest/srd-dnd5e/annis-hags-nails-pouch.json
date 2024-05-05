@@ -1,0 +1,48 @@
+{
+  "name": "Annis Hag's Nails (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The nails of an annis hag are sharp as blades, made of iron that magically grew like the keratin. After years of wielding magic, the nails become a conduit for the hag's power. They must be carefully extracted during a complex ritual in order to retain their usefulness. Alchemists, magic users and other hags find value in this item.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Annis Hag"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973761,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nOCiS60MW7Ax60AZ",
+  "sort": 0,
+  "_key": "!items!nOCiS60MW7Ax60AZ"
+}

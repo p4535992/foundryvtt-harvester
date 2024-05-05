@@ -1,0 +1,48 @@
+{
+  "name": "Merrenoloth Eyes (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A merrenoloth has burning red eyes. Fluids can be extracted from these soft orbs that have alchemical properties, and is believed to be used to bolster a creatures fortitude, and negate the effects of fear-based spells and effects.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Merrenoloth"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977040,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "d1bdEUwatdzKC3Aa",
+  "sort": 0,
+  "_key": "!items!d1bdEUwatdzKC3Aa"
+}

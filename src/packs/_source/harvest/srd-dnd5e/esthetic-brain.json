@@ -1,0 +1,48 @@
+{
+  "name": "Esthetic Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "An esthetic's brain, which is only the size of a softball, is wrapped inside a bundle of nerves located somewhere inside the creature's body. While an esthetic relies on its controller for decisions, all instructions flow through this organ. Spellcasters and artificers may be able to use an esthetic's brain to help build automatons and golems. Others may be able to use the brain to build their own spelljammers.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Esthetic"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975423,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oAYTPPdU7SHZuOuv",
+  "sort": 0,
+  "_key": "!items!oAYTPPdU7SHZuOuv"
+}

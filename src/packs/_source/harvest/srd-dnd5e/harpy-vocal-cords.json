@@ -1,0 +1,48 @@
+{
+  "name": "Harpy Vocal Cords",
+  "type": "loot",
+  "img": "icons/consumables/meat/chicken-breast-raw-pink.webp",
+  "system": {
+    "description": {
+      "value": "The vocal cords of a harpy are difficult to harvest, as removing them takes great care. The cords resonate with a magical aura and create a soft hypnotizing hum when they are touched. A skilled craftsmen can stretch the cords into a fine wire, which can be used to string certain instruments.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Harpy"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976391,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "0Mr0wm2CuyuuYKbr",
+  "sort": 0,
+  "_key": "!items!0Mr0wm2CuyuuYKbr"
+}

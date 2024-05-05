@@ -1,0 +1,48 @@
+{
+  "name": "Vampiric Mist Blood (flask)",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-jar-corked-glowing-blue.webp",
+  "system": {
+    "description": {
+      "value": "A vampiric mist is a billowing cloud filled with watery droplets of blood. When the creature is slain, the mist disperses, and the blood of its victims falls to the ground. The mist's blood is extremely watery, spreads quickly, and is difficult to collect. The blood has life draining properties, and is filled with chaotic necrotic power.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Vampiric Mist"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978657,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "WSue1fBfZqzVMPM2",
+  "sort": 0,
+  "_key": "!items!WSue1fBfZqzVMPM2"
+}

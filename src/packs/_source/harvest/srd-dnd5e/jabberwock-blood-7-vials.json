@@ -1,0 +1,48 @@
+{
+  "name": "Jabberwock Blood (7 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Very few people have seen a jabberwock, so very little is known about it's blood. However, its ties to the fey and its similarities to dragons, make its blood highly sought after.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Jabberwock"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976653,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "s2Prha95hYMl0MG3",
+  "sort": 0,
+  "_key": "!items!s2Prha95hYMl0MG3"
+}

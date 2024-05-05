@@ -1,0 +1,48 @@
+{
+  "name": "Demogorgan's Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+  "system": {
+    "description": {
+      "value": "The hide of Demogorgon's torso is extremely tough and durable. A master leathermaker can use the hide to make armor, clothing, bags, shoes and rugs.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Demogorgon"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974887,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jy4e2dFdJP0HSXp4",
+  "sort": 0,
+  "_key": "!items!jy4e2dFdJP0HSXp4"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ettercap Spinneret",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "An ettercaps spinneret is a small group of organs that the creature uses to make spider webs. The spinnerets are valued for the raw silk they still hold, and the alchemical properties in the organs. Use: As an action, a creature may throw the spinneret up to 15 feet. Upon impact with the ground, the item explodes, forcing all creatures within 5 feet to succeed on a DC 11 Dexterity saving throw or be restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check and escape from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, resistance to bludgeoning damage, and immunity to poison and psychic damage.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ettercap"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 8,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975426,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xrY9TVNfONTIHJvW",
+  "sort": 0,
+  "_key": "!items!xrY9TVNfONTIHJvW"
+}

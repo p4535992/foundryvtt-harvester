@@ -1,0 +1,48 @@
+{
+  "name": "Hungry Sorrowsworn Stomach",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "The stomach of a hungry sorrowsworn is a large, extremely flexible sac. The sac is valued by weavers and tailors for its elasticity.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Hungry Sorrowsworn"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976540,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Cb0YNyxs4cUUXTBu",
+  "sort": 0,
+  "_key": "!items!Cb0YNyxs4cUUXTBu"
+}

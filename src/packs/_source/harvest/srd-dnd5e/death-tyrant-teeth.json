@@ -1,0 +1,48 @@
+{
+  "name": "Death Tyrant Teeth",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-jaw-white.webp",
+  "system": {
+    "description": {
+      "value": "The teeth of a Death Tyrant are strong and sharp. The teeth can be used in bone crafts, decorations, jewelry and small weapons. Weaponsmiths often decorate hilts, or line blades with these teeth.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Death Tyrant"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974818,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "3UicvT8AJcQH1EMj",
+  "sort": 0,
+  "_key": "!items!3UicvT8AJcQH1EMj"
+}

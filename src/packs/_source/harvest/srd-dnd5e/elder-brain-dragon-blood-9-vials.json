@@ -1,0 +1,48 @@
+{
+  "name": "Elder Brain Dragon Blood (9 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The blood of an elder brain dragon resonates with psionic energy. The blood is extremely powerful, and valuable to alchemists and spellcasters.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Elder Brain Dragon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975344,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Q69QokOXzlgZGLc2",
+  "sort": 0,
+  "_key": "!items!Q69QokOXzlgZGLc2"
+}

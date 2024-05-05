@@ -1,0 +1,48 @@
+{
+  "name": "Spirit Troll Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A spirit troll's heart is a large mass of translucent red flesh that pumps the creature's regenerative blood throughout its body. The heart is used in arcane healing rituals and enchantments.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Spirit Troll"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978211,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "we0XcETcm5u2v5CY",
+  "sort": 0,
+  "_key": "!items!we0XcETcm5u2v5CY"
+}

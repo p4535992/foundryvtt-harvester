@@ -1,0 +1,48 @@
+{
+  "name": "Lion's Mane",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-white-tan.webp",
+  "system": {
+    "description": {
+      "value": "A lion's mane can be blond, reddish-brown or black. Harvesting the mane incorrectly means that not enough hair was gathered, or it was ruined by getting covered in the animal's blood. The hair is mainly used by weavers, tailors and wig makers.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Lion"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 8,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976837,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "kxWpdIUuwoMpWigT",
+  "sort": 0,
+  "_key": "!items!kxWpdIUuwoMpWigT"
+}

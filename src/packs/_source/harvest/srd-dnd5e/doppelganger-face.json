@@ -1,0 +1,48 @@
+{
+  "name": "Doppelganger Face",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Harvesting this item involves the delicate process of skinning a doppelgangers face. If carefully removed, the resulting skin appears to be a morbid mask of flesh. Artificers and enchanters may be able to use this \"\"mask\"\" to tap into the doppelgangers transformative abilities.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Doppelganger"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975004,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QXzdtYe6Vx4xxMDF",
+  "sort": 0,
+  "_key": "!items!QXzdtYe6Vx4xxMDF"
+}

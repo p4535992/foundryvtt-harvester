@@ -1,0 +1,48 @@
+{
+  "name": "Choker Cartilage",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Instead of a skeleton, a choker has an internal structure made of flexible cartilage. Craftsmen use this pliable material to make specialized tools and machine parts.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Choker"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974571,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "tv0NmNTt2EN0myWA",
+  "sort": 0,
+  "_key": "!items!tv0NmNTt2EN0myWA"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Wyvern Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The tough reptilian skin of a wyvern is covered in pointy scales. The hide is valued among armorsmiths, but can be used in cloaks and other apparel.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Wyvern"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978858,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "aGgGl7argZWrKt2S",
+  "sort": 0,
+  "_key": "!items!aGgGl7argZWrKt2S"
+}

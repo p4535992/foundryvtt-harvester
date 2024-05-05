@@ -1,0 +1,48 @@
+{
+  "name": "Gray Render Claws (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A gray render has sharp, rock-hard talons. The talons can be used in jewelry, decorations, and to make small weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Gray Render"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 60,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976190,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "idCCUlBXER1dtWf5",
+  "sort": 0,
+  "_key": "!items!idCCUlBXER1dtWf5"
+}

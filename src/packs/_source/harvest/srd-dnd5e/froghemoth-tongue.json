@@ -1,0 +1,48 @@
+{
+  "name": "Froghemoth Tongue",
+  "type": "loot",
+  "img": "icons/commodities/biological/tongue-red.webp",
+  "system": {
+    "description": {
+      "value": "The froghemoth's tongue can be dried and stretched into strands, and then coated and treated with various oils. The long, rope-like filaments can then be crafted into various weapons and ropes.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Froghemoth"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975643,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "J4irG7dI9okB6ZAV",
+  "sort": 0,
+  "_key": "!items!J4irG7dI9okB6ZAV"
+}

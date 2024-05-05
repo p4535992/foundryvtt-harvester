@@ -1,0 +1,48 @@
+{
+  "name": "Pegasus Wings (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "A pegasus has a large set of white wings covered in soft, plush feathers. The feather are often used for bedding, apparel, fans and quills. The feathers also have useful alchemical properties.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Pegasus"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977632,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oBtFdWm6MguHHBkL",
+  "sort": 0,
+  "_key": "!items!oBtFdWm6MguHHBkL"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Megapede Mandible (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/mouth-pincer-brown.webp",
+  "system": {
+    "description": {
+      "value": "The mandibles of a megapede are about 4 feet long, and are hard as steel. An expert weaponsmith can craft the mandibles into various weapons and tools.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Megapede"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977017,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Pc88szitANkNZ5NV",
+  "sort": 0,
+  "_key": "!items!Pc88szitANkNZ5NV"
+}

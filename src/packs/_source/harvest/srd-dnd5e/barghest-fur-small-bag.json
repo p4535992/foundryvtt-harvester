@@ -1,0 +1,48 @@
+{
+  "name": "Barghest Fur (small bag)",
+  "type": "loot",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "Barghest fur has various uses. It is often used by tailors to create fur trimmed apparel, but also used in the creation of portals to Gehenna. Goblins often use the hair in effigy's. Use: If a small bag of barghest fur is thrown into a fire larger than 10 feet high or wide, the fur is instantly disintegrated and the fire transforms into a portal to a random location on the plane of Gehenna (for 1 minute or until the fire is extinguished). Anything entering the portal automatically suffers 4d8 fire damage from the heat of the original flame.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Barghest"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 13,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974031,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xlxoiJTmqdvqMB8d",
+  "sort": 0,
+  "_key": "!items!xlxoiJTmqdvqMB8d"
+}

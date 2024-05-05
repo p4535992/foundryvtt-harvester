@@ -1,0 +1,48 @@
+{
+  "name": "Ice Devil Carapace",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "The hard, segmented shell of the ice devil. The carapace not only protects against physical attacks, but also is resistant to cold. Often used to fashion armor.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Ice Devil"
+    },
+    "quantity": 1,
+    "weight": 80,
+    "price": {
+      "value": 5000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976594,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "iCK5uJydA5Qxjzpz",
+  "sort": 0,
+  "_key": "!items!iCK5uJydA5Qxjzpz"
+}

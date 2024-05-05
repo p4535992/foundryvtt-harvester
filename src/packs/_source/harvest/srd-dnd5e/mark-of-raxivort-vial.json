@@ -1,0 +1,48 @@
+{
+  "name": "Mark of Raxivort (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The demigod Raxivort imbues worthy xvarts with magical abilities, and each is given a splotchy dark blue birthmark of a blue hand. The birthmark is hard to find, as all xvarts have dark blue splotches all over their blue skin. The mark can scrapped off, similar to removing a mole, and placed in a vial. The mark has several alchemical uses, but spellcasters may be able to tap into the demigod's power.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Xvart Warlock of Raxivort"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978879,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CVzQDaOeknAkDWhJ",
+  "sort": 0,
+  "_key": "!items!CVzQDaOeknAkDWhJ"
+}

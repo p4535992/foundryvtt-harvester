@@ -1,0 +1,48 @@
+{
+  "name": "Specter Dust",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "system": {
+    "description": {
+      "value": "When a specter is killed, its form disperses into a fine mist, often scattering tiny motes of dust. The dust resonates with dark necrotic energy and is highly valued by necromancers, but has uses in other areas.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Specter"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978182,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vQOaphU7WhbkoV14",
+  "sort": 0,
+  "_key": "!items!vQOaphU7WhbkoV14"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Draconian Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Draconians are born from dragon eggs corrupted and warped by powerful magic. This blood resembles dragon blood, but is tainted with dark arcane power. The blood is valued by spellcasters, alchemists and others.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Bozak Draconian"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974269,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wDuqfwNPcu9BcDuN",
+  "sort": 0,
+  "_key": "!items!wDuqfwNPcu9BcDuN"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Kindori Eyes (x6)",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "A Kindori's body is dotted with several glowing eyes. If harvested quickly and intact, the radiant properties can be preserved. These foot-wide glowing orbs are valued by spellcasters, and often used to create balls of continual light.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Kindori"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976716,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OrkHzQbCZ2VBwlmN",
+  "sort": 0,
+  "_key": "!items!OrkHzQbCZ2VBwlmN"
+}

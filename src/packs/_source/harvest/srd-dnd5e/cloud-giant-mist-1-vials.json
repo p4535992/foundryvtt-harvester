@@ -1,0 +1,48 @@
+{
+  "name": "Cloud Giant Mist (1 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The air in a cloud giant's lungs often has a misty, cloud-like shroud, probably the result of its innate arcane energy dispersing upon death. It must be harvested quickly before the mist dissolves. The mist can be harvested using an enchanted vial. Requires an enchanted vial.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Cloud Giant"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974669,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cCOHA1XpOsstZGdH",
+  "sort": 0,
+  "_key": "!items!cCOHA1XpOsstZGdH"
+}

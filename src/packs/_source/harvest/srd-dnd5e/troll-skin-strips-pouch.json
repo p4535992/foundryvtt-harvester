@@ -1,0 +1,48 @@
+{
+  "name": "Troll Skin Strips (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A troll's skin is often green and covered in warts, pustules and mold. Despite its appearance, the skin has amazing healing properties. Samples of the vile flesh can be harvested and sold to healers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Troll"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978558,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ydCKfP6Df2JLMXaB",
+  "sort": 0,
+  "_key": "!items!ydCKfP6Df2JLMXaB"
+}

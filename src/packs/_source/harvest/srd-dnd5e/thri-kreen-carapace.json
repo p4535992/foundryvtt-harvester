@@ -1,0 +1,48 @@
+{
+  "name": "Thri-kreen Carapace",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "A Thri-kreen has a hard chitinous shell. The shell has a thin translucent coating, which allows the creature to change its color slightly. Armorers often use the carapace to craft armor and shields.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Thri-kreen Hunter"
+    },
+    "quantity": 1,
+    "weight": 24,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978482,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "MWNErDXPvmC9Cptd",
+  "sort": 0,
+  "_key": "!items!MWNErDXPvmC9Cptd"
+}

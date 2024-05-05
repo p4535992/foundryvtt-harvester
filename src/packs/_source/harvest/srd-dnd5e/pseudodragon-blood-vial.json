@@ -1,0 +1,48 @@
+{
+  "name": "Pseudodragon Blood (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Due to its draconic ancestry, a pseudodragon's blood is flowing with trace amounts of arcane power. Alchemists, healers and spellcasters can all finds a use for this item",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Pseudodragon"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977741,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zsQw6GxXQXLmG0ko",
+  "sort": 0,
+  "_key": "!items!zsQw6GxXQXLmG0ko"
+}

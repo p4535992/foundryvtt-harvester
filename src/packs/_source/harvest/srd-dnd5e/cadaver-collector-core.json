@@ -1,0 +1,48 @@
+{
+  "name": "Cadaver Collector Core",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "Embedded inside the chest of a cadaver collector is a hot, metal and glass tube filled with a glowing blue substance. This tube continues to glow, long after the cadaver collector is destroyed. The core is useful to artificers and other spellcasters.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Cadaver Collector"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974415,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "7cQmu4zMTsxMTsZC",
+  "sort": 0,
+  "_key": "!items!7cQmu4zMTsxMTsZC"
+}

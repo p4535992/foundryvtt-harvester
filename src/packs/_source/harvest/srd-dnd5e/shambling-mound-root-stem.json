@@ -1,0 +1,48 @@
+{
+  "name": "Shambling Mound Root-Stem",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "At the center of a shambling mound is a knotted ball of roots that branch out in all directions. This fleshy root-stem is valued by healers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Shambling Mound"
+    },
+    "quantity": 1,
+    "weight": 12,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978075,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "WXkT2flqFZXvcovR",
+  "sort": 0,
+  "_key": "!items!WXkT2flqFZXvcovR"
+}

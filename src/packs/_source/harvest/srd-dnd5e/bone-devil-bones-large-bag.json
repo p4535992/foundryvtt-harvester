@@ -1,0 +1,48 @@
+{
+  "name": "Bone Devil Bones (large bag)",
+  "type": "loot",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "A bone devil's bones are as hard as steel, and due to the creature's origins, are resistant to fire. Weaponsmiths, blacksmiths and crafters may be able to create tools and weapons from these bones.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Bone Devil"
+    },
+    "quantity": 1,
+    "weight": 40,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974232,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6gO7uZG9p45NU3cP",
+  "sort": 0,
+  "_key": "!items!6gO7uZG9p45NU3cP"
+}

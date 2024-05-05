@@ -1,0 +1,48 @@
+{
+  "name": "Sphinx Mane/Hair (large pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A sphinx often has a lush main of hair, similar to that of a lions. It is composed of soft, long strands that shimmer in the light, and are often braided and decorated with jewelry. The hair is valued among weavers and tailors. Spellcasters may be able to harness the hair's arcane energy when creating robes and hats.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Gynosphinx"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976339,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "fhVn55CQPllrHZgG",
+  "sort": 0,
+  "_key": "!items!fhVn55CQPllrHZgG"
+}

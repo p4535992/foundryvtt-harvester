@@ -1,0 +1,48 @@
+{
+  "name": "Alhoon Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The necrotic, leprous skin of an alhoon has various arcane and alchemical properties. The skin is difficult to harvest, as it breaks apart quickly. However, if large enough patches can be collected, they can be dried and mashed into dust, which can be used in various potions and magical incantations.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Alhoon"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973579,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Uo1jzUwtU1sD6nMR",
+  "sort": 0,
+  "_key": "!items!Uo1jzUwtU1sD6nMR"
+}

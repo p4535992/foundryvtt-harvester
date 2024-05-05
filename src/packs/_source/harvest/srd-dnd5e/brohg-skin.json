@@ -1,0 +1,48 @@
+{
+  "name": "B'rohg Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The skin of a B'rohg begins to dry and fade as soon as it dies. If quick, an adventurer can carve off several thin strips. The unique pigment of the skin makes it valued by alchemists, dyers and painters.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "B'rohg"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973908,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uBpwAlGV3BxV2nka",
+  "sort": 0,
+  "_key": "!items!uBpwAlGV3BxV2nka"
+}

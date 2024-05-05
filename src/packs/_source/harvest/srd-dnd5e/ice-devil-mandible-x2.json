@@ -1,0 +1,48 @@
+{
+  "name": "Ice Devil Mandible (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/mouth-pincer-brown.webp",
+  "system": {
+    "description": {
+      "value": "The two large appendages near the ice devils mouth sometimes retains the creatures arcane immunity to cold. Using the mandibles, some magic users and weaponsmiths can enhance certain weapons.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Ice Devil"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 550,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976591,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NXEQlrIy3uimA0GS",
+  "sort": 0,
+  "_key": "!items!NXEQlrIy3uimA0GS"
+}

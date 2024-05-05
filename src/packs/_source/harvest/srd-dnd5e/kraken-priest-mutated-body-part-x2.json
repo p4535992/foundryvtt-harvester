@@ -1,0 +1,48 @@
+{
+  "name": "Kraken Priest Mutated Body Part (x2)",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Every kraken priest is goes through a unique physical transformation. Some have tentacles, gills, fins and/or flippers. These body parts are useful to alchemists and anyone studying sea creatures, especially the kraken.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Kraken Priest"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976779,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nv8m73W1qlP8mHtL",
+  "sort": 0,
+  "_key": "!items!nv8m73W1qlP8mHtL"
+}

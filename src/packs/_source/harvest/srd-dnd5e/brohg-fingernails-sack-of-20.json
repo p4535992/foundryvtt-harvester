@@ -1,0 +1,48 @@
+{
+  "name": "B'rohg Fingernails (sack of 20)",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "A B'rohg has hard, yellow fingernails. In order to retain their usefulness, the nails must be pulled out slowly and removed whole. Alchemists and healers use the nails to create various concoctions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "B'rohg"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973901,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "WmeYfPIlLLWwvzE6",
+  "sort": 0,
+  "_key": "!items!WmeYfPIlLLWwvzE6"
+}

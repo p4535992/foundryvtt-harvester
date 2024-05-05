@@ -1,0 +1,48 @@
+{
+  "name": "Lock of Hill Giant Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-gold.webp",
+  "system": {
+    "description": {
+      "value": "Shaggy bunches of strong strands. This hair is often brown or black. The hair is used by tailors, weavers and textile makers.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Mouth of Grolantor"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977185,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "a9Vnq2wHQeAQJwSh",
+  "sort": 0,
+  "_key": "!items!a9Vnq2wHQeAQJwSh"
+}

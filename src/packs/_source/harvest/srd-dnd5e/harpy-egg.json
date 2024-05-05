@@ -1,0 +1,48 @@
+{
+  "name": "Harpy Egg",
+  "type": "loot",
+  "img": "icons/consumables/eggs/egg-speckled-tan.webp",
+  "system": {
+    "description": {
+      "value": "It is possible to have slain a harpy while it was ovulating, and to recover an egg intact. The egg holds value to collectors, researchers and magic users. Alchemists and others may be able to make use of the shell or its content.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Harpy"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976395,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xv6aCs86K2WLel7M",
+  "sort": 0,
+  "_key": "!items!xv6aCs86K2WLel7M"
+}

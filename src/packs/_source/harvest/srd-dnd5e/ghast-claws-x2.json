@@ -1,0 +1,48 @@
+{
+  "name": "Ghast Claws (x2)",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-brown-black.webp",
+  "system": {
+    "description": {
+      "value": "A ghast's claws are covered in a numbing paralytic, which makes their claws useful. Harvesting the claws incorrectly can destroy the paralytic. Some alchemists, artificers and other spellcasters can use these claws in the craft.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Ghast"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975749,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "XmzvU9nHgwLRaCIk",
+  "sort": 0,
+  "_key": "!items!XmzvU9nHgwLRaCIk"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Egg Hunter Hatchling's Tooth",
+  "type": "loot",
+  "img": "icons/commodities/bones/tooth-hollow-brown.webp",
+  "system": {
+    "description": {
+      "value": "An egg hunter has a small, hard, needle-like tooth that it uses to crack into an egg and suck out its contents. A hatchling's tooth is 2-3 inches long, and can be fashioned into a fine needle, usable by tailors and weavers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Egg Hunter Hatchling"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975324,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "MmFNMNdjBmc8NgOw",
+  "sort": 0,
+  "_key": "!items!MmFNMNdjBmc8NgOw"
+}

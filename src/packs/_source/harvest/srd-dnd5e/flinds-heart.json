@@ -1,0 +1,48 @@
+{
+  "name": "Flind's Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A flind is touched by Yeenoghu, a demon lord worshipped by gnolls. Their heart is a black mass of flesh, that still retains a tiny connection to its abyssal lord. Alchemists, demonologists, summoners and other spellcasters all have uses for the heart.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Flind"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975594,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Ct1508yKxD9Xjfeo",
+  "sort": 0,
+  "_key": "!items!Ct1508yKxD9Xjfeo"
+}

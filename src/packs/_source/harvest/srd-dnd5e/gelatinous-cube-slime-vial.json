@@ -1,0 +1,48 @@
+{
+  "name": "Gelatinous Cube Slime (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The gelatinous, transparent cube begins to melt and lose it's form on death. The slime is extremely viscous, and has an acidic smell that burns the eyes. Samples of this ooze are often bought by alchemists and most merchants.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Gelatinous Cube"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 7,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975725,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "gbPkjwAWQ0MBFjhQ",
+  "sort": 0,
+  "_key": "!items!gbPkjwAWQ0MBFjhQ"
+}

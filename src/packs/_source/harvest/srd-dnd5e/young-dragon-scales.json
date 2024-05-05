@@ -1,0 +1,48 @@
+{
+  "name": "Young Dragon Scales",
+  "type": "loot",
+  "img": "icons/commodities/leather/scales-brown.webp",
+  "system": {
+    "description": {
+      "value": "A young dragon's scales are hard, yet malleable. Compared to an adult dragon's scales, there are easier to manipulate by an expert armorer.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Young Dragon"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 1600,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978956,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "VNlcTjur6spnXoV2",
+  "sort": 0,
+  "_key": "!items!VNlcTjur6spnXoV2"
+}

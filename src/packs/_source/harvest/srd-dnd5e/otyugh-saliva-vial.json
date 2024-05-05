@@ -1,0 +1,48 @@
+{
+  "name": "Otyugh Saliva (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "An otyugh's saliva is a clear, viscous fluid that burns slightly to the flesh, and slowing eats away at organic matter. The fluid has a number of uses in the alchemical community.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Otyugh"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977596,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "GiQialYXMwYWXTwm",
+  "sort": 0,
+  "_key": "!items!GiQialYXMwYWXTwm"
+}

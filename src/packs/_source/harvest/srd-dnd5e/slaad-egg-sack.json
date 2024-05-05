@@ -1,0 +1,48 @@
+{
+  "name": "Slaad Egg Sack",
+  "type": "loot",
+  "img": "icons/containers/bags/sack-leather-tan.webp",
+  "system": {
+    "description": {
+      "value": "Under one of the red slaad's long black claws is a sac of tiny eggs that it can inject into its victims. Its a bulbous sac, a couple inches wide, filled with hundreds of tiny black orbs. The eggs are a dangerous item, and often illegal in many cities. They are valued by witches, cruel assassins and anyone studying Limbo or Slaads.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Red Slaad"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977833,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "zjmyU633CoMKBBlo",
+  "sort": 0,
+  "_key": "!items!zjmyU633CoMKBBlo"
+}

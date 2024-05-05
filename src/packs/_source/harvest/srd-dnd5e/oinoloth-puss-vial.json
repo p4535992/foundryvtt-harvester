@@ -1,0 +1,48 @@
+{
+  "name": "Oinoloth Puss (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The puss from the Oinoloth's boils carry numerous plagues and diseases. This puss can be used to create antitoxins and cures for some of these illnesses.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Oinoloth"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977483,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "H4q0mEr6ChYToLd6",
+  "sort": 0,
+  "_key": "!items!H4q0mEr6ChYToLd6"
+}

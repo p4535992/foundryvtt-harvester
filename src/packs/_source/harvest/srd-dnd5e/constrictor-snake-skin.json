@@ -1,0 +1,48 @@
+{
+  "name": "Constrictor Snake Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "A snake's skin can be used in the creation of boots, belts and other apparel. A large constrictor snake can be as large as 7 meters long. The often have enough skin for tailors to create most apparel.",
+      "chat": "7"
+    },
+    "source": {
+      "custom": "Constrictor Snake"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974700,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CtYSvwVsUeO8s2VY",
+  "sort": 0,
+  "_key": "!items!CtYSvwVsUeO8s2VY"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Vampire Hair (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "The long strands of a vampire's hair are thin wisps of necrotic energy. The hair has uses in arcane rituals and potions.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Vampire"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978638,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rybgcUD3b2PHs5Bb",
+  "sort": 0,
+  "_key": "!items!rybgcUD3b2PHs5Bb"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ulitharid Tentacle (x6)",
+  "type": "loot",
+  "img": "icons/commodities/biological/tentacle-purple-white.webp",
+  "system": {
+    "description": {
+      "value": "An illithid's tentacles are writhing with psionic energy. Each tentacle is a long strand of moist purple flesh, oozing with a sticky, clear mucus. The tentacle's fluids are useful to alchemists, and artificers may be able to find a use for the tentacles themselves.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Ulitharid"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978580,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6HlzAXGuVpkRtVxO",
+  "sort": 0,
+  "_key": "!items!6HlzAXGuVpkRtVxO"
+}

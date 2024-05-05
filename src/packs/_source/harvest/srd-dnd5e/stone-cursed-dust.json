@@ -1,0 +1,48 @@
+{
+  "name": "Stone Cursed Dust",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "system": {
+    "description": {
+      "value": "When the creature is slain, the statue shatters to pieces, scattering rocks debris and stone dust all over the area. The stone dust is an arcane powder, often used in potions and arcane rituals.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Stone Cursed"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978302,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "51vCnUxKQuWz4UPy",
+  "sort": 0,
+  "_key": "!items!51vCnUxKQuWz4UPy"
+}

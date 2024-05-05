@@ -1,0 +1,48 @@
+{
+  "name": "Spring Eladrin Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-gold.webp",
+  "system": {
+    "description": {
+      "value": "The hair of a spring eladrin is green, silky, and smells like freshly cut grass. The hair retains magic from the Feywild, and is often used is potions and elixirs. The hair can also be used as decorations and trinkets.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Spring Eladrin"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978217,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "lbnJK5GchV92dWYg",
+  "sort": 0,
+  "_key": "!items!lbnJK5GchV92dWYg"
+}

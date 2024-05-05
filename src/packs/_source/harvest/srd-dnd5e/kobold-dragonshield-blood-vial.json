@@ -1,0 +1,48 @@
+{
+  "name": "Kobold Dragonshield Blood (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A kobold dragonshield has several innate abilities, and a power runs through its veins. The blood must be harvested quickly before that power dissipates. The blood can be used to create various potions. Uses: If a creature is frightened or paralyzed, they can use an action to drink the blood, or pour it down another creatures throat. The creature that drinks the blood is no longer frightened or paralyzed, and can't be frightened or paralyzed for 1 minute.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Kobold Dragonshield"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976731,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yPt1ODCGgyRd4zyX",
+  "sort": 0,
+  "_key": "!items!yPt1ODCGgyRd4zyX"
+}

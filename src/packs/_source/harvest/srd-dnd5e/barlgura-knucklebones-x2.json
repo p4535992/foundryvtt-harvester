@@ -1,0 +1,48 @@
+{
+  "name": "Barlgura Knucklebones (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/foot-black-grey.webp",
+  "system": {
+    "description": {
+      "value": "The enormous hands of the barlgura can pound a boulder to dust. A character can harvest the hands for their extremely strong knucklebones, which can be used to make powerful bludgeoning weapons.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Barlgura"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974043,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "DnrsK2NeQbPwtg65",
+  "sort": 0,
+  "_key": "!items!DnrsK2NeQbPwtg65"
+}

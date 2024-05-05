@@ -1,0 +1,48 @@
+{
+  "name": "Dracohydra Head",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-tusked-grey.webp",
+  "system": {
+    "description": {
+      "value": "A dracohydra is a terror to civilizations, often hunting local fauna to extinction, and then moving on to the people. The creature typically has a bounty on it, but the heads make grand hunting trophies. Artificers and spellcasters find the heads worth studying. Alchemists and healers can find useful ingredients in each head.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Dracohydra"
+    },
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975017,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ZuJyDelHM3Hf9njs",
+  "sort": 0,
+  "_key": "!items!ZuJyDelHM3Hf9njs"
+}

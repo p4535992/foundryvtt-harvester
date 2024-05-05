@@ -1,0 +1,48 @@
+{
+  "name": "Bael's Blood (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Bael's blood is a scalding red fluid, that bubbles with the fiery heat of hell. Skilled alchemists can cool and refine the blood using a variety of alchemical processes, and use the resulting liquid as a component in various potions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Bael"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973949,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "oAKO4C539XLJ1Zx7",
+  "sort": 0,
+  "_key": "!items!oAKO4C539XLJ1Zx7"
+}

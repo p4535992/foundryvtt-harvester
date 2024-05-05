@@ -1,0 +1,48 @@
+{
+  "name": "Nurtured One of Yurtrus Puss (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The plague infested skin of a nurtured one is riddled with boils and pustules. If a boil is lanced incorrectly, it pops and the puss cannot be harvested. The puss is often used by healers and alchemists, attempting to cure an affliction. Necromancers may also have an interest in the puss for darker purposes.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Orc Nurtured One of Yurtrus"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977545,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "VpJ1JHIMnclABP5U",
+  "sort": 0,
+  "_key": "!items!VpJ1JHIMnclABP5U"
+}

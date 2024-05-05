@@ -1,0 +1,48 @@
+{
+  "name": "Darkmantle Tentacle (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A darkmantle's tentacles are lined with powerful suction cups, used to grasp and ensnare their prey. The suction cups for often used for medical purposes. Some cultures consider the darkmantle's tentacle a tasty delicacy.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Darkmantle"
+    },
+    "quantity": 1,
+    "weight": 4,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974784,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "TyFKYR0RBpTA7jIK",
+  "sort": 0,
+  "_key": "!items!TyFKYR0RBpTA7jIK"
+}

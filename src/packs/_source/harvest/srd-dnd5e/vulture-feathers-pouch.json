@@ -1,0 +1,48 @@
+{
+  "name": "Vulture Feathers (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "Vulture feathers are dark decorative plumage, that help the bird soar through the sky. The feathers are used in decorations, dusters, apparel and creating arrows and bolts.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Vulture"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978744,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "IPq6Eyn1qWXoQfpk",
+  "sort": 0,
+  "_key": "!items!IPq6Eyn1qWXoQfpk"
+}

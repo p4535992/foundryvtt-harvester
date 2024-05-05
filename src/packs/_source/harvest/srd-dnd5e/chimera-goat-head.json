@@ -1,0 +1,48 @@
+{
+  "name": "Chimera Goat Head",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-tusked-grey.webp",
+  "system": {
+    "description": {
+      "value": "One of the chimera's three heads. Larger than a regular goat's, the horns are particularly hard and large. The head is a prized trophy, and the horns can be crafted into prized ale horns (ornate drinking mugs).",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Chimera"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974538,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uogfLC0WNmVulzeP",
+  "sort": 0,
+  "_key": "!items!uogfLC0WNmVulzeP"
+}

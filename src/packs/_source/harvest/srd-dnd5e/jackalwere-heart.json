@@ -1,0 +1,48 @@
+{
+  "name": "Jackalwere Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A jackalwere is a shapechanger created by the demon lord Graz'zt. As such, its heart flows with the chaotic energy of the Abyss, making the organ a powerful arcane conduit. The heart has value among those that study the occult, demons and the Abyss. Summoners and alchemists may also find uses for the heart.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Jackalwere"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976669,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "sCXQpqfGsgqVUkLg",
+  "sort": 0,
+  "_key": "!items!sCXQpqfGsgqVUkLg"
+}

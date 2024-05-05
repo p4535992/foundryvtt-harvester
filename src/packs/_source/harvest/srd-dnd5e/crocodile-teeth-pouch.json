@@ -1,0 +1,48 @@
+{
+  "name": "Crocodile Teeth (pouch)",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "A successful harvest can yield over 60 teeth, the longest being over 4 inches long. Crocodile teeth can be used to create simple jewelry and crafts.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Crocodile"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974748,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "POb7U2dOwNvWYFIq",
+  "sort": 0,
+  "_key": "!items!POb7U2dOwNvWYFIq"
+}

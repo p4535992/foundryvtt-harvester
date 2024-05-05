@@ -1,0 +1,48 @@
+{
+  "name": "Umber Hulk Mandible (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/mouth-pincer-brown.webp",
+  "system": {
+    "description": {
+      "value": "An umber hulk's mandibles are sharp, curved blades of hard chitin, several feet long. The blades can be fashioned into various tools and weapons.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Umber Hulk"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 8,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978601,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "n2bdJrgIlV0prqFc",
+  "sort": 0,
+  "_key": "!items!n2bdJrgIlV0prqFc"
+}

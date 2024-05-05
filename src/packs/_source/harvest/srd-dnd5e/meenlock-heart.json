@@ -1,0 +1,48 @@
+{
+  "name": "Meenlock Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "The heart of a meenlock is a small bundle of yellow-orange muscle and veins. The cold heart radiates a sense of fear, and is possibly the source of the creature's terror. Alchemists, spellcasters and witches may find a use for the heart. Use: The heart has the same effect as a level 3 fear spell. A creature may use an action to squeeze the heart, making it burst in a spray of blood. All creatures in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. While frightened by this effect, a creature must take the Dash action and move away from the source by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight with the source, the creature can make a Wisdom saving throw. On a successful save, the effect ends for that creature.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Meenlock"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977005,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "PB09xzDTvV8FojJU",
+  "sort": 0,
+  "_key": "!items!PB09xzDTvV8FojJU"
+}

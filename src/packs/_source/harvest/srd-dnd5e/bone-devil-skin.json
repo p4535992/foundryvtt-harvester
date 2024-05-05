@@ -1,0 +1,48 @@
+{
+  "name": "Bone Devil Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The thin layer of skin that stretches over the bone devil's emaciated form can be harvested, oiled and treated. The skin is too thin to be useful in apparel, however, leatherworkers may be able to make thin sheets of a unique vellum which are useful within the arcane community.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Bone Devil"
+    },
+    "quantity": 1,
+    "weight": 6,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974236,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "gmvapDA1XKbCTnf8",
+  "sort": 0,
+  "_key": "!items!gmvapDA1XKbCTnf8"
+}

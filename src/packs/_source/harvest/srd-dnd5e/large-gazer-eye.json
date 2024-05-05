@@ -1,0 +1,48 @@
+{
+  "name": "Large Gazer Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "The large eye of a gazer can be useful to magic users and certain alchemists. Use: Along with 100gp worth of rare components and spending 2 hours of preparation, the gazer's eye can be prepped for use in the find familiar spell. When casting find familiar, you may expend this prepared eye instead of the usual material components. The summoned familiar takes the form of a gazer instead of the usual choices. This gazer has all of the normal abilities of a familiar, as well as its normal abilities as a gazer. This familiar lasts until it either drops to 0 hit points or is dismissed. [See VGM p126 for more details on the Gazer]",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Gazer"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975722,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5RUX3IkkIvloJZEl",
+  "sort": 0,
+  "_key": "!items!5RUX3IkkIvloJZEl"
+}

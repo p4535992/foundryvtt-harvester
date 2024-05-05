@@ -1,0 +1,48 @@
+{
+  "name": "Gaj Plates (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-tan.webp",
+  "system": {
+    "description": {
+      "value": "A gaj has a hard exoskelton, made up of thick chitinous plates. Upon death, the exoskeleton immediately becomes brittle. If careful, some of these plates can be remove without cracking. A skilled armorer can treat the plates and make them into effective shields and armor.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Gaj"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975687,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "8GsEpIWh5uX7Jcob",
+  "sort": 0,
+  "_key": "!items!8GsEpIWh5uX7Jcob"
+}

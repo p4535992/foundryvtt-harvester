@@ -1,0 +1,48 @@
+{
+  "name": "Piercer Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-turtle-grey.webp",
+  "system": {
+    "description": {
+      "value": "A piercer is covered in a rock-like shell, which encases the creature's body. This shell can be used to craft pieces of armor and protective equipment.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Piercer"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977666,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "8YGCu3KjlsQAlg3a",
+  "sort": 0,
+  "_key": "!items!8YGCu3KjlsQAlg3a"
+}

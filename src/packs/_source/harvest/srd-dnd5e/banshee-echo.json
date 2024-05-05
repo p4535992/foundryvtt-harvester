@@ -1,0 +1,48 @@
+{
+  "name": "Banshee Echo",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "It is possible to capture a banshee's wail before it disperses. Requires a magical jar or similar container.. Use: You may spend an action to open this flask and release the banshee wail kept within. All creatures within 30 feet of you that can hear must make a DC 13 Constitution saving throw. On a failed save, a creature drops to 0 hit points. On a success, a creature takes 3d6 psychic damage. This wail has no effect on constructs and undead.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Banshee"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973996,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "B2rk4dj5whY5lvnN",
+  "sort": 0,
+  "_key": "!items!B2rk4dj5whY5lvnN"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Empyreans Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-bolt-grey.webp",
+  "system": {
+    "description": {
+      "value": "The white alabaster skin of an Empyrean is as hard as marble, but much lighter. Difficult to remove, but highly valued by leatherworkers and armorers.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Empyrean"
+    },
+    "quantity": 1,
+    "weight": 25,
+    "price": {
+      "value": 6000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975398,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "AKWnzLn206AFTmvt",
+  "sort": 0,
+  "_key": "!items!AKWnzLn206AFTmvt"
+}

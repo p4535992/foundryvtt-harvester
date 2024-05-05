@@ -1,0 +1,48 @@
+{
+  "name": "Shadar-kai Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "Shadar-kai blood is viscous, dark red (almost black) fluid with a dull metallic smell. The blood begins to evaporate into dark wisps of smoke when exposed to air on the Prime Material plane, and must be harvested quickly. The blood has deep ties to the Shadowfell, and is used by alchemists and spellcasters.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Shadar-kai Soul Monger"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978044,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "eRP3uRZDjhSgdEbj",
+  "sort": 0,
+  "_key": "!items!eRP3uRZDjhSgdEbj"
+}

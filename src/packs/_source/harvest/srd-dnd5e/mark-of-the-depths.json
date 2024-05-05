@@ -1,0 +1,48 @@
+{
+  "name": "Mark of the Depths",
+  "type": "loot",
+  "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+  "system": {
+    "description": {
+      "value": "Somewhere on a deep scion's body is a mark of it's underwater master. The mark must be quickly found and removed before the body reverts to its original form. Harvesting requires carefully skinning the area, with the mark intact. Before the expiration, a creature can spend 6 hours and 5gp for alchemical ingredients to dry and treat the mark, allowing it to retain its magic abilities without expiring. Use: You may spend an action to tear this item in half. All creatures within 30 feet of you must succeed on a DC 13 Wisdom saving throw or be stunned until the end of your next turn. In addition, any creature that succeeds on the saving throw gains the memories of the last 24 hours of the deep scion from whom this item was harvested.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Deep Scion"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974856,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "7wPyb2WAV5ufBiC3",
+  "sort": 0,
+  "_key": "!items!7wPyb2WAV5ufBiC3"
+}

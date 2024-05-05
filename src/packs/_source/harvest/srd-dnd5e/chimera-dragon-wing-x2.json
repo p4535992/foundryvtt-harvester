@@ -1,0 +1,48 @@
+{
+  "name": "Chimera Dragon Wing (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "Large, leathery draconic wings. They can be used to make apparel or simply as a trophy. Artificers and enchanters may find other uses for the wings.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Chimera"
+    },
+    "quantity": 1,
+    "weight": 30,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974540,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nCq8rD5n1TUubSvP",
+  "sort": 0,
+  "_key": "!items!nCq8rD5n1TUubSvP"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Yugoloth Ichor (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A yugoloth that dies on the prime material plane melts into a black bubbling ichor, that quickly dissolves if it is not harvested quickly. The ichor can be used in summoning rituals, but can also be turned into ink with alchemist supplies. Use: A wizard can use the ink, with other ingredients, to copy a spell scroll into their spell book. Using this ink allows for the spell to be copied twice as fast, at half the cost. Note: 5% a vial is used to copy 1 spell level (so, an 8th level scroll would use 40% of an ink bottle).",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Nycaloth"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977396,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rMotoHjEx2tn3aWn",
+  "sort": 0,
+  "_key": "!items!rMotoHjEx2tn3aWn"
+}

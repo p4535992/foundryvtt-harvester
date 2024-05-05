@@ -1,0 +1,48 @@
+{
+  "name": "Space Clown Ichor (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "When a space clown dies, it pops like a balloon, releasing a splash of putrid, corrosive ichor. This acidic ichor can be harvested, but little else remains of the creature.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Space Clowns"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174978151,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wirE57FYQaw3H9PB",
+  "sort": 0,
+  "_key": "!items!wirE57FYQaw3H9PB"
+}

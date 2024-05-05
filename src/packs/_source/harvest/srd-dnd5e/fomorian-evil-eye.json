@@ -1,0 +1,48 @@
+{
+  "name": "Fomorian \"\"Evil Eye\"\"",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "The large, yellow, cat-like eye of the fomorian has a debilitating, curse-like effect on creatures. The eye can be difficult to harvest without popping, but has various uses.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Fomorian"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975618,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "eITYgE4qOVXVU4QU",
+  "sort": 0,
+  "_key": "!items!eITYgE4qOVXVU4QU"
+}

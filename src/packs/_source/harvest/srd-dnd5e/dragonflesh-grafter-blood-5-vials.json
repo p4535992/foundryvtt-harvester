@@ -1,0 +1,48 @@
+{
+  "name": "Dragonflesh Grafter Blood (5 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A dragonflesh grafter's blood looks like a swirling mix of red, green and black fluids. The blood is tainted, but is sought after by shady doctors and anyone experimenting with grafted flesh. Alchemists and healers may be able to find a use for the blood.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dragonflesh Grafter"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975121,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pHcB7oA1pYiwZtSY",
+  "sort": 0,
+  "_key": "!items!pHcB7oA1pYiwZtSY"
+}

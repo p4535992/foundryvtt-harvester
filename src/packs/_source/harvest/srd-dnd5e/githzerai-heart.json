@@ -1,0 +1,48 @@
+{
+  "name": "Githzerai Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "A githzerai heart that has been subjected to the ever-changing chaos of Limbo for a long period of time is a prized specimen for spellcasters and those that study Limbo.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Githzerai Enlightened"
+    },
+    "quantity": 1,
+    "weight": 3,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976053,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rSbbCXYdTG1GMRHg",
+  "sort": 0,
+  "_key": "!items!rSbbCXYdTG1GMRHg"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dolphin Delighter Dorsal Fin",
+  "type": "loot",
+  "img": "icons/commodities/biological/fin-red-green.webp",
+  "system": {
+    "description": {
+      "value": "The dorsal fin of a dolphin delighter is used to maintain stability, and aid in teleportation. The fin can be shaved down and used in various concoctions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Dolphin Delighter"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974996,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "ZJyv5IQpmfxO3Ypa",
+  "sort": 0,
+  "_key": "!items!ZJyv5IQpmfxO3Ypa"
+}

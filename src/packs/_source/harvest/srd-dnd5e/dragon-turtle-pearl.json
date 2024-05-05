@@ -1,0 +1,48 @@
+{
+  "name": "Dragon Turtle Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearls-white.webp",
+  "system": {
+    "description": {
+      "value": "A dragon turtle pearl is a large, skull-sized pearl rarely found in a dragon turtles stomach. When a dragon turtle swallows a gem (which sometimes happens when eating ships and humanoids), the gem may settle in the creatures stomach and avoid moving through the digestive system. Irritated by the gem, the stomach begins to secrete a mixture of enzymes into the stomachs acid, hoping to alleviate the discomfort. These enzymes covering the gem in a smooth white coating. As the irritation continues, this secretion process is repeated many times, thus producing a pearl.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Dragon Turtle"
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 6000,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975087,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "3cnGLCT3ybizmWjf",
+  "sort": 0,
+  "_key": "!items!3cnGLCT3ybizmWjf"
+}

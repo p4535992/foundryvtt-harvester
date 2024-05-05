@@ -1,0 +1,48 @@
+{
+  "name": "Guard Drake Blood (3 vials)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "The blood is red and viscous. As the creature was created through a magic ritual, tied closely to dragons, the blood has many arcane properties that magic users prize. The blood is also valued by researchers and those that study dragons. Alchemist and healers can use the blood as an ingredient in some potions.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Guard Drake"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976297,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "baroHXxjOhND2IAm",
+  "sort": 0,
+  "_key": "!items!baroHXxjOhND2IAm"
+}

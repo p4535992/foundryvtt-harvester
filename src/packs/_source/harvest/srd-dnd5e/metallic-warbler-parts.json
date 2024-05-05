@@ -1,0 +1,48 @@
+{
+  "name": "Metallic Warbler Parts",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "When destroyed, the magic holding a metallic warbler together disperses, and the construct falls to pieces. All that remains are several pieces of scrap metal, including cogs and gears. These items can be used by artificers, tinkerers, inventors, smiths and jewelers.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Metallic Warbler"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977067,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pLp04ThDNOW8IH6R",
+  "sort": 0,
+  "_key": "!items!pLp04ThDNOW8IH6R"
+}

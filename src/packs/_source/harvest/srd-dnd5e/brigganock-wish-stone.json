@@ -1,0 +1,48 @@
+{
+  "name": "Brigganock Wish Stone",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-red.webp",
+  "system": {
+    "description": {
+      "value": "Sometimes a Brigganock is carrying a wish stone, which are created when a nonmagical wish gets lodged in a stone buried deep in the Feywild. The stone varies in color, but is perfectly smooth, with a soft glow. The stone is touched with fey magic, and valued by spellcasters, elves and certain fey.It is believed that powerful fey can use a wish stone to scry on the maker of the wish, empower a supernatural charm, or provide the spark needed to create an animated object.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Brigganock"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974293,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UzFn5cGWADLzfMj3",
+  "sort": 0,
+  "_key": "!items!UzFn5cGWADLzfMj3"
+}

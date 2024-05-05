@@ -1,0 +1,48 @@
+{
+  "name": "Beholder Eye Stalk",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "The magical eye stalks of the beholder each have unique magical properties, and are prized by magic users and artificers. Once successfully harvested, roll 1d10 for the type of eyestalk received (1. Charm, 2. Paralyzing, 3. Fear, 4. Slow, 5. Enervation, 6. Telekinetic, 7. Sleep, 8. Petrification, 9. Disintegration, 10. Death). [see MM p28 for more details on the Beholder]",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Beholder"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Arcana"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974103,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "u5sPrsBBfyutzNPk",
+  "sort": 0,
+  "_key": "!items!u5sPrsBBfyutzNPk"
+}

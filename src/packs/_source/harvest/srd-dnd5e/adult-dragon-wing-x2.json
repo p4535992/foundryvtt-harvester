@@ -1,0 +1,48 @@
+{
+  "name": "Adult Dragon Wing (x2)",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "system": {
+    "description": {
+      "value": "The large wings of a dragon are prized for their leather, which still retains some of the dragon's magical essence.",
+      "chat": "25"
+    },
+    "source": {
+      "custom": "Adult Dragon"
+    },
+    "quantity": 1,
+    "weight": 70,
+    "price": {
+      "value": 6500,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174973556,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "J2pW4FMHvpNCttNC",
+  "sort": 0,
+  "_key": "!items!J2pW4FMHvpNCttNC"
+}

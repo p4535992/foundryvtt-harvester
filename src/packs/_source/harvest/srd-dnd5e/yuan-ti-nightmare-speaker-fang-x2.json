@@ -1,0 +1,48 @@
+{
+  "name": "Yuan-ti Nightmare Speaker Fang (x2)",
+  "type": "loot",
+  "img": "icons/commodities/bones/teeth-pointed-white.webp",
+  "system": {
+    "description": {
+      "value": "The fangs of a yuan-ti are imbued by Dendar the Night Serpent with a necrotic energy. The fangs must be harvested carefully or they lose their connection with Dendar. The fangs resonate with arcane energy, which may be harnessed by artificers and spellcasters.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Yuan-ti Nightmare Speaker"
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 60,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174979058,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qBOrPTiX8lkikh7B",
+  "sort": 0,
+  "_key": "!items!qBOrPTiX8lkikh7B"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Githzerai Brain",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "Being adept at psionics, the githzerai brain is a marvel to those that study telepathy and psychokinesis, including scientists and spellcasters.",
+      "chat": "20"
+    },
+    "source": {
+      "custom": "Githzerai Anarch"
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Medicine"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174976045,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QFzDQgz6JNzHHaYP",
+  "sort": 0,
+  "_key": "!items!QFzDQgz6JNzHHaYP"
+}

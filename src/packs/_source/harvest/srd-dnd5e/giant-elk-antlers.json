@@ -1,0 +1,48 @@
+{
+  "name": "Giant Elk Antlers",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-antler-tan.webp",
+  "system": {
+    "description": {
+      "value": "An giant elks's antlers are prized hunting trophies, but can also be used to make weapons (usually curved) and tools.",
+      "chat": "5"
+    },
+    "source": {
+      "custom": "Giant Elk"
+    },
+    "quantity": 1,
+    "weight": 8,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174975827,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wYcyay20GG501X45",
+  "sort": 0,
+  "_key": "!items!wYcyay20GG501X45"
+}

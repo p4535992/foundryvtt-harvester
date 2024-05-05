@@ -1,0 +1,48 @@
+{
+  "name": "Purple Worm Tooth (x6)",
+  "type": "loot",
+  "img": "icons/commodities/bones/tooth-hollow-brown.webp",
+  "system": {
+    "description": {
+      "value": "The teeth of a purple worm are sharp, stone-like protrusions inside its gigantic maw. The teeth are made of ivory, covered in a layer of stone-textured keratin that is as hard as steel and able to chew through rock. The large teeth are often used by weaponsmiths to create unique weapons, which accept enchantments fairly well.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Purple Worm"
+    },
+    "quantity": 1,
+    "weight": 20,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977778,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "INoq7JYHqOFrfL6S",
+  "sort": 0,
+  "_key": "!items!INoq7JYHqOFrfL6S"
+}

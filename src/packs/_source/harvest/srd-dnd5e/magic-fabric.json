@@ -1,0 +1,48 @@
+{
+  "name": "Magic Fabric",
+  "type": "loot",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "Magic fabric is used by tailors in the creation of various magical items.",
+      "chat": "15"
+    },
+    "source": {
+      "custom": "Rug of Smothering"
+    },
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Investigation"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174977955,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "QIdXt9vnZeiBjX4B",
+  "sort": 0,
+  "_key": "!items!QIdXt9vnZeiBjX4B"
+}

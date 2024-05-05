@@ -1,0 +1,48 @@
+{
+  "name": "Cockatrice Bile (vial)",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "system": {
+    "description": {
+      "value": "A cockatrice's bile is a thick yellow sticky fluid, know to slow the petrification process. Stonemasons and sculptors find the bile extremely useful in their work.",
+      "chat": "10"
+    },
+    "source": {
+      "custom": "Cockatrice"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": "Nature"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Q1HmBtrOBa4VKnXp",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1688174974694,
+    "modifiedTime": 1714942272982,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5GBjytSKqooMzDCD",
+  "sort": 0,
+  "_key": "!items!5GBjytSKqooMzDCD"
+}
