@@ -6,7 +6,7 @@ import { harvesterAndLootingSocket } from "../socket.js";
 import Logger from "./Logger.js";
 import BetterRollTablesHelpers from "./better-rolltables-helpers.js";
 import ItemPilesHelpers from "./item-piles-helpers.js";
-import { checkItemSourceLabel, parseAsArray } from "./lib.js";
+import { checkItemSourceLabel, parseAsArray, retrieveItemSourceLabelSkillDenomination } from "./lib.js";
 import { RetrieveHelpers } from "./retrieve-helpers.js";
 
 export class HarvestingHelpers {
@@ -76,11 +76,7 @@ export class HarvestingHelpers {
             if (game.modules.get("better-rolltables")?.active) {
                 skillCheckVerbose = getProperty(rollTableChosenHarvester, `flags.better-rolltables.brt-skill-value`);
             } else {
-                // let skillDenomination = getProperty(item, `flags.${CONSTANTS.MODULE_ID}.skillCheck`); // TODO make this better
-                // let skillCheck = skillCheckVerbose ? skillCheckVerbose : "nat"; // TODO make this better maybe with requestor
-                // item.setFlag(CONSTANTS.MODULE_ID, "skillCheck", skillCheck);
-                // item.update({ system: { formula: `1d20 + @skills.${skillCheck}.total` } });
-                skillCheckVerbose = getProperty(item, `flags.${CONSTANTS.MODULE_ID}.skillCheck`) || "nat"; // TODO make this better
+                skillCheckVerbose = retrieveItemSourceLabelSkillDenomination(item);
             }
             if (!skillCheckVerbose) {
                 Logger.warn(

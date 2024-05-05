@@ -33,9 +33,35 @@ export function retrieveItemSourceLabel(item) {
     return sourceLabel ?? "";
 }
 
+export function retrieveItemSourceLabelSkillDenomination(item) {
+    // let skillDenomination = getProperty(item, `flags.${CONSTANTS.MODULE_ID}.skillCheck`); // TODO make this better
+    // let skillCheck = skillCheckVerbose ? skillCheckVerbose : "nat"; // TODO make this better maybe with requestor
+    // item.setFlag(CONSTANTS.MODULE_ID, "skillCheck", skillCheck);
+    // item.update({ system: { formula: `1d20 + @skills.${skillCheck}.total` } });
+    let sourceLabel = undefined;
+    // Pre dnd5e 3.0.0
+    sourceLabel =
+        item.system.description?.unidentified && skillMap[item.system.description?.unidentified]
+            ? item.system.description?.unidentified
+            : null;
+    // Post dnd5e 3.0.0
+    if (!sourceLabel || (item.system.unidentified?.description && skillMap[item.system.unidentified?.description])) {
+        sourceLabel = item.system.unidentified?.description;
+    }
+    // ???
+    if (!sourceLabel || getProperty(item, `flags.${CONSTANTS.MODULE_ID}.skillCheck`)) {
+        sourceLabel = getProperty(item, `flags.${CONSTANTS.MODULE_ID}.skillCheck`);
+    }
+    sourceLabel = sourceLabel || "nat"; // TODO make this better
+    return skillMap[sourceLabel] ? skillMap[sourceLabel] : sourceLabel;
+}
+
 export function retrieveItemSourceLabelDC(item) {
     let itemDC = undefined;
-    itemDC = item.system.source?.label.match(/\d+/g)[0];
+    itemDC = item.system.source?.match(/\d+/g)[0];
+    if (!itemDC || item.system.source?.label) {
+        itemDC = item.system.source?.label.match(/\d+/g)[0];
+    }
     if (!itemDC || item.system.source?.custom) {
         itemDC = item.system.source?.custom?.match(/\d+/g)[0];
     }
